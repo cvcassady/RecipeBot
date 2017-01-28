@@ -18,3 +18,11 @@ CREATE TABLE Recipe(
    ImageUrl TEXT,
    Description TEXT,
    Url TEXT);
+
+# scrapingyummly.py
+Queries yummly.co for the search term 'recipe', and iterates through
+all of the results, storing them in yummly.db.
+
+# downloadimages.py
+Reads all image URL and ID's from yummly.db, then downloads all images
+contained within.

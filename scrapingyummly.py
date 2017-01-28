@@ -1,3 +1,9 @@
+'''
+Queries yummly's API to search for 'recipe', which according to the 
+content of the response contains 2.1 million hits. Iterate through
+these results indefinitely, storing them in yummly.db.
+'''
+
 import datetime
 import json
 from json import JSONDecodeError

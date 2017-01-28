@@ -88,5 +88,8 @@ ENV/
 # Rope project settings
 .ropeproject
 
-#SQLite database
+# SQLite database
 *.db
+
+# images folder
+images/
