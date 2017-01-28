@@ -6,10 +6,11 @@ viewing an image of it. All information will be scraped from the
 website yummly.co.
 
 # yummly.db schema
-# ID is a guid
-# JSON is all data returned from yummly per recipe
-# Ingredients is a semicolon delimited string of ingredients
-# Url holds the url to the recipe page on yummly.co
+* ID is a guid
+* JSON is all data returned from yummly per recipe
+* Ingredients is a semicolon delimited string of ingredients
+* Url holds the url to the recipe page on yummly.co
+
 CREATE TABLE Recipe(
    ID TEXT PRIMARY KEY     NOT NULL,
    JSON TEXT    NOT NULL,
