@@ -1,6 +1,6 @@
 '''
 Reads all image URL and ID's from yummly.db, then downloads all images
-contained within.
+contained within to folder 'images'.
 '''
 
 import sqlite3
@@ -12,6 +12,9 @@ import re
 import concurrent.futures
 
 #os.chdir(r"C:\Users\Colin\Documents\Vision And Language\RecipeBot")
+
+if not os.path.exists('images'):
+    os.makedirs('images')
 
 def download(tup):
     url = tup[0]
