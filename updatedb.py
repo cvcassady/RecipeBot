@@ -16,7 +16,7 @@ import sys
 conn = sqlite3.connect("yummly.db")
 
 while True:
-    num_recipes_before = conn.execute("SELECT ID, JSON FROM Recipe LIMIT 40;").fetchall()#fetchmany(5000)
+    num_recipes_before = conn.execute("SELECT ID, JSON FROM Recipe;").fetchmany(5000)
 
     if (len(num_recipes_before) == 0):
         break
