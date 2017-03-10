@@ -131,11 +131,9 @@ print("Starting cleaning process...")
 start = timeit.default_timer()
 
 thread_batch = [tuple([tuple(ingredients_test[x*1000:(x+1)*1000]), ing_dict]) for x in range(0, (len(ingredients_test)//1000)+1)]
-thread_batch_test = thread_batch[0:32]
 
-with concurrent.futures.ThreadPoolExecutor(16) as executor:
-    executor.map(cleanIngredients, thread_batch_test)
-
+with concurrent.futures.ThreadPoolExecutor(8) as executor:
+    executor.map(cleanIngredients, thread_batch)
 
 stop = timeit.default_timer()
 print(str(stop - start)) 
