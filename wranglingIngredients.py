@@ -15,7 +15,7 @@ from random import randint
 
 print("Reading ingredients...")
 conn = sqlite3.connect("yummly.db")
-ingredients_test = conn.execute("SELECT ID, Ingredients FROM Recipe;").fetchall()
+ingredients_test = conn.execute("SELECT ID, CleanIngredients FROM Recipe;").fetchall()
 conn.close()
 
 remove_list = ['fresh', 'frozen', 'ground', 'powdered', 'low', 'extra', 'virgin',
@@ -24,17 +24,18 @@ remove_list = ['fresh', 'frozen', 'ground', 'powdered', 'low', 'extra', 'virgin'
     'small', 'petite', 'large', 'crumbles', 'chunks', 'toasted', 'cracked', 'chopped',
     'cooked', 'nonfat', 'plain', 'double', 'raw', 'minced', 'spray', 'pure', 'granulated',
     'dry', 'roasted', 'smoked', 'vidalia', 'hot', 'florets', 'slices', 'kosher', 'light',
-    'sliced', 'reduced', '1%', '2%', '3%', '4%', 'crumbled', 'prepared']
+    'sliced', 'reduced', '1%', '2%', '3%', '4%', 'crumbled', 'prepared', 
+    'sprigs', ]
 
 pattern = re.compile("\\b(" + "|".join(remove_list) + ")\\W", re.I)
 
 def prepIngredients(ingredients_string, pattern):
-    ingredients_string = ingredients_string.lower()
-    ingredients_string = ingredients_string.replace(";"," ;")
-    ingredients_string = ingredients_string.replace("-"," ")
-    ingredients_string = ingredients_string.replace(","," ")
+    #ingredients_string = ingredients_string.lower()
+    #ingredients_string = ingredients_string.replace(";"," ;")
+    #ingredients_string = ingredients_string.replace("-"," ")
+    #ingredients_string = ingredients_string.replace(","," ")
 
-    ingredients_string = pattern.sub("", ingredients_string)
+    #ingredients_string = pattern.sub("", ingredients_string)
 
     return [x.strip() for x in ingredients_string.split(";")]
 
@@ -60,9 +61,9 @@ for i in range(0,len(sorted_ing)):
     if (sorted_ing[i].replace('es','').replace('s','') not in ing_dict):
         ing_dict[sorted_ing[i].replace('es','').replace('s','')] = (len_sorted_ing - i) / len_sorted_ing
 
-#f = open("ingredients_by_frequency_prepped.txt", "w")
-#[f.write(str(sorted_vals[i]) + "\t\t" + sorted_ing[i] + "\n") for i in range(0, len(sorted_vals))]
-#f.close()
+f = open("ingredients_by_frequency_cleaned.txt", "w")
+[f.write(str(sorted_vals[i]) + "\t\t" + sorted_ing[i] + "\n") for i in range(0, len(sorted_vals))]
+f.close()
 
 #findRoot("gluten-free chocolate chips", sorted_ing)
 
