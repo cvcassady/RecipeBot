@@ -91,5 +91,12 @@ ENV/
 # SQLite database
 *.db
 
+# Image files
+*.jpg
+
 # images folder
 images/
+resized_thumbs/
+
+# saved weight files
+*.hdf5
