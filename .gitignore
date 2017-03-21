@@ -93,6 +93,7 @@ ENV/
 
 # Image files
 *.jpg
+*.jpeg
 
 # images folder
 images/
@@ -100,3 +101,6 @@ resized_thumbs/
 
 # saved weight files
 *.hdf5
+
+# saved pickle files
+*.p
