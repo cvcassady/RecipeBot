@@ -108,8 +108,6 @@ def searchList(candidate, ing_dict):
 
     if (current_candidate_depluralized in ing_dict):
         candidate[1] = candidate[1] + ing_dict[current_candidate_depluralized]
-    else:
-        print(candidate[0] + " | " + current_candidate_depluralized + " not found in the dictionary.")
         
     return candidate
 
@@ -138,7 +136,7 @@ start = timeit.default_timer()
 
 thread_batch = [tuple([tuple(ingredients_test[x*1000:(x+1)*1000]), ing_dict]) for x in range(0, (len(ingredients_test)//1000)+1)]
 
-with concurrent.futures.ThreadPoolExecutor(4) as executor:
+with concurrent.futures.ThreadPoolExecutor(3) as executor:
     executor.map(cleanIngredients, thread_batch)
 
 stop = timeit.default_timer()
