@@ -15,7 +15,7 @@ from random import randint
 
 print("Reading ingredients...")
 conn = sqlite3.connect("yummly.db")
-ingredients_test = conn.execute("SELECT ID, CleanIngredients FROM Recipe;").fetchall()
+ingredients_test = conn.execute("SELECT ID, Ingredients FROM Recipe WHERE English=1;").fetchall()
 conn.close()
 
 remove_list = ['fresh', 'frozen', 'ground', 'powdered', 'low', 'extra', 'virgin',
@@ -25,17 +25,18 @@ remove_list = ['fresh', 'frozen', 'ground', 'powdered', 'low', 'extra', 'virgin'
     'cooked', 'nonfat', 'plain', 'double', 'raw', 'minced', 'spray', 'pure', 'granulated',
     'dry', 'roasted', 'smoked', 'vidalia', 'hot', 'florets', 'slices', 'kosher', 'light',
     'sliced', 'reduced', '1%', '2%', '3%', '4%', 'crumbled', 'prepared', 
-    'sprigs', ]
+    'sprigs', 'diced', 'morsels', 'filet' ]
 
 pattern = re.compile("\\b(" + "|".join(remove_list) + ")\\W", re.I)
 
 def prepIngredients(ingredients_string, pattern):
-    #ingredients_string = ingredients_string.lower()
-    #ingredients_string = ingredients_string.replace(";"," ;")
-    #ingredients_string = ingredients_string.replace("-"," ")
-    #ingredients_string = ingredients_string.replace(","," ")
+    ingredients_string = ingredients_string.lower()
+    ingredients_string = ingredients_string.replace(";"," ;")
+    ingredients_string = ingredients_string.replace("-"," ")
+    ingredients_string = ingredients_string.replace(","," ")
+    ingredients_string = ingredients_string.replace("?","")
 
-    #ingredients_string = pattern.sub("", ingredients_string)
+    ingredients_string = pattern.sub("", ingredients_string)
 
     return [x.strip() for x in ingredients_string.split(";")]
 
@@ -61,8 +62,10 @@ for i in range(0,len(sorted_ing)):
     if (sorted_ing[i].replace('es','').replace('s','') not in ing_dict):
         ing_dict[sorted_ing[i].replace('es','').replace('s','')] = (len_sorted_ing - i) / len_sorted_ing
 
-f = open("ingredients_by_frequency_cleaned.txt", "w")
-[f.write(str(sorted_vals[i]) + "\t\t" + sorted_ing[i] + "\n") for i in range(0, len(sorted_vals))]
+ing_dict[""] = 0
+
+f = open("ingredients_by_frequency.txt", "w")
+[f.write(str(sorted_vals[i]) + "\t\t" + sorted_ing[i].encode(sys.stdout.encoding, errors='replace').decode(sys.stdout.encoding, errors='replace') + "\n") for i in range(0, len(sorted_vals))]
 f.close()
 
 #findRoot("gluten-free chocolate chips", sorted_ing)
@@ -105,6 +108,8 @@ def searchList(candidate, ing_dict):
 
     if (current_candidate_depluralized in ing_dict):
         candidate[1] = candidate[1] + ing_dict[current_candidate_depluralized]
+    else:
+        print(candidate[0] + " | " + current_candidate_depluralized + " not found in the dictionary.")
         
     return candidate
 
@@ -133,7 +138,7 @@ start = timeit.default_timer()
 
 thread_batch = [tuple([tuple(ingredients_test[x*1000:(x+1)*1000]), ing_dict]) for x in range(0, (len(ingredients_test)//1000)+1)]
 
-with concurrent.futures.ThreadPoolExecutor(8) as executor:
+with concurrent.futures.ThreadPoolExecutor(4) as executor:
     executor.map(cleanIngredients, thread_batch)
 
 stop = timeit.default_timer()
