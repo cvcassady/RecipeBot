@@ -1,3 +1,19 @@
+replaced '-' with ' '
+
+remove useless words:
+fresh
+frozen
+ground
+powder
+powdered
+low fat
+extra
+virgin
+
+light
+
+
+
 707648		salt
 338359		butter
 292719		sugar
@@ -166,7 +182,7 @@
 17519		cracked black pepper
 17356		pecans
 17247		white wine
-17136		öl
+17136		ï¿½l
 16898		ground cloves
 16827		green pepper
 16796		peanut butter
@@ -182,7 +198,7 @@
 15768		green bell pepper
 15753		cooking spray
 15692		sesame seeds
-15568		pumpkin purée
+15568		pumpkin purï¿½e
 15565		dark chocolate
 15335		fresh rosemary
 15254		chopped parsley
@@ -266,7 +282,7 @@
 11173		kale
 11147		cayenne
 11121		pumpkin pie spice
-11034		olivenöl
+11034		olivenï¿½l
 10994		red wine
 10953		molasses
 10929		butternut squash
@@ -291,7 +307,7 @@
 9962		fresh dill
 9924		garlic salt
 9876		tomaat
-9860		crème fraîche
+9860		crï¿½me fraï¿½che
 9829		beef broth
 9808		semisweet chocolate
 9806		quinoa
@@ -336,7 +352,7 @@
 8728		almond flour
 8711		peanuts
 8635		plain yogurt
-8634		gemüsebrühe
+8634		gemï¿½sebrï¿½he
 8623		lettuce
 8596		vodka
 8559		arugula
@@ -359,7 +375,7 @@
 8001		bittersweet chocolate
 7995		rum
 7967		dates
-7962		möhre
+7962		mï¿½hre
 7950		mint
 7947		crushed red pepper
 7932		yeast
@@ -431,10 +447,10 @@
 6398		cherries
 6367		brandy
 6361		parikaschote
-6291		käse
+6291		kï¿½se
 6282		low sodium soy sauce
 6177		mustard seeds
-6173		tomato purée
+6173		tomato purï¿½e
 6165		wasser
 6130		ground turkey
 6115		instant yeast
@@ -468,7 +484,7 @@
 5726		ice water
 5723		red cabbage
 5701		tortilla chips
-5695		oreo® cookies
+5695		oreoï¿½ cookies
 5667		roasted red peppers
 5635		yukon gold potatoes
 5631		fett
@@ -606,7 +622,7 @@
 4298		yellow cornmeal
 4295		eigelb
 4293		english cucumber
-4289		speisestärke
+4289		speisestï¿½rke
 4287		basmati rice
 4285		milk chocolate
 4257		essig
@@ -624,7 +640,7 @@
 4164		cookies
 4141		pizza doughs
 4138		whole wheat pastry flour
-4136		frühlingszwiebelgrün
+4136		frï¿½hlingszwiebelgrï¿½n
 4128		sjalot
 4121		caramel sauce
 4120		tamari soy sauce
@@ -683,7 +699,7 @@
 3709		fennel
 3706		coarse sea salt
 3706		full fat coconut milk
-3694		äpfel
+3694		ï¿½pfel
 3685		crackers
 3684		pineapple chunks
 3682		baby spinach leaves
@@ -693,7 +709,7 @@
 3661		zimt
 3655		chipotles in adobo
 3652		minced ginger
-3651		parmesankäse
+3651		parmesankï¿½se
 3647		white rice
 3645		arborio rice
 3643		mustard powder
@@ -777,11 +793,11 @@
 3190		condensed milk
 3183		italian parsley leaves
 3174		gin
-3157		tomatenpurée
+3157		tomatenpurï¿½e
 3157		coriander powder
 3156		thyme sprigs
 3143		club soda
-3142		semmelbrösel
+3142		semmelbrï¿½sel
 3139		grated lemon peel
 3133		diced celery
 3130		frozen spinach
@@ -860,7 +876,7 @@
 2789		unsweetened coconut milk
 2784		poultry seasoning
 2780		superfine sugar
-2778		pfeffer weiß
+2778		pfeffer weiï¿½
 2768		dark soy sauce
 2764		medium zucchini
 2762		prepared mustard
@@ -912,14 +928,14 @@
 2580		dutch-processed cocoa powder
 2578		frozen puff pastry sheets
 2578		raw almonds
-2577		oberskäse
+2577		oberskï¿½se
 2575		non dairy milk
 2573		kakaopulver
 2570		vegetable oil cooking spray
 2567		courgetten
 2563		baby arugula
 2559		turnips
-2557		kräuter
+2557		krï¿½uter
 2548		1% low-fat milk
 2548		olijf
 2538		schinken
@@ -1005,7 +1021,7 @@
 2253		white cake mix
 2253		chicken stock cubes
 2249		luke warm water
-2246		maïzena
+2246		maï¿½zena
 2243		blanched almonds
 2241		light sour cream
 2239		rosemary sprigs
@@ -1132,8 +1148,8 @@
 1928		black sesame seeds
 1926		ingwer
 1925		whiskey
-1924		kuvertüre
-1922		soße
+1924		kuvertï¿½re
+1922		soï¿½e
 1920		chicken drumsticks
 1920		asafoetida
 1914		chicken fingers
@@ -1172,7 +1188,7 @@
 1840		buns
 1839		dried fruit
 1838		brownie mix
-1835		lorbeerblätter
+1835		lorbeerblï¿½tter
 1833		acorn squash
 1822		sliced tomatoes
 1817		refrigerated piecrusts
@@ -1226,11 +1242,11 @@
 1730		chocalade
 1730		demerara sugar
 1727		sausage casings
-1726		eiweiß
+1726		eiweiï¿½
 1726		squash
 1723		djintan
 1722		lamb
-1721		böhnchen
+1721		bï¿½hnchen
 1717		red curry paste
 1717		zeezout
 1715		navel oranges
@@ -1245,14 +1261,14 @@
 1705		part-skim ricotta cheese
 1705		okra
 1704		beef brisket
-1704		weißwein
+1704		weiï¿½wein
 1702		adobo sauce
 1701		romano cheese
 1701		large potatoes
 1699		coconut butter
 1697		chipotle peppers
 1695		grated coconut
-1692		mandelblätter
+1692		mandelblï¿½tter
 1690		condensed cream of mushroom soup
 1688		shredded swiss cheese
 1687		cooked white rice
@@ -1266,7 +1282,7 @@
 1672		cantaloupe
 1668		salsa verde
 1662		kaffir lime leaves
-1661		grated gruyère cheese
+1661		grated gruyï¿½re cheese
 1660		erythritol
 1660		lemon curd
 1659		pomegranate
@@ -1310,7 +1326,7 @@
 1555		chocolate cake mix
 1552		radicchio
 1549		pijnboompittten
-1549		füllung
+1549		fï¿½llung
 1546		chopped green chilies
 1546		kruidnagelen
 1544		white rum
@@ -1496,7 +1512,7 @@
 1270		mixed berries
 1270		boneless pork loin
 1269		virgin coconut oil
-1267		edelsüsspaprika
+1267		edelsï¿½sspaprika
 1264		reis
 1264		whole kernel corn, drained
 1262		meatballs
@@ -1626,7 +1642,7 @@
 1113		mango chutney
 1111		kokosraspeln
 1111		groentebouillon
-1110		geflügelbrühe
+1110		geflï¿½gelbrï¿½he
 1109		yams
 1109		instant pudding & pie filling
 1107		frozen broccoli
@@ -1637,7 +1653,7 @@
 1102		mozarella
 1102		germberwortel
 1100		deli ham
-1099		hühnerfilet
+1099		hï¿½hnerfilet
 1099		tamarind paste
 1098		urad dal
 1095		balsamic reduction
@@ -1664,7 +1680,7 @@
 1062		tonijn
 1061		buttercream frosting
 1061		orange flower water
-1059		kümmel
+1059		kï¿½mmel
 1058		whole berry cranberry sauce
 1057		white button mushrooms
 1057		apple pie filling
@@ -1672,7 +1688,7 @@
 1054		dry roasted peanuts
 1051		kokosmelk
 1050		seedless watermelon
-1050		kreuzkümmel
+1050		kreuzkï¿½mmel
 1047		dried mint
 1046		sliced bread
 1045		kerrie
@@ -1702,7 +1718,7 @@
 1030		kristalsuiker
 1028		dijon-style mustard
 1027		frozen mango
-1027		fleischbrühe
+1027		fleischbrï¿½he
 1027		whole grain bread
 1026		dried minced onion
 1023		candied ginger
@@ -1712,7 +1728,7 @@
 1021		sorghum flour
 1020		low-fat cottage cheese
 1016		food gel
-1015		pflanzenöl
+1015		pflanzenï¿½l
 1013		pie dough
 1013		arrowroot
 1013		relish
@@ -1796,19 +1812,19 @@
 943		kers
 942		flaxseed
 940		cod
-940		schafskäse
+940		schafskï¿½se
 940		thai red curry paste
 940		hash brown
 939		stuffing mix
 939		streaky bacon
 937		large cage free eggs
-937		konfitüre
+937		konfitï¿½re
 936		grass-fed butter
 934		blattspinat
 934		chicken sausage
 931		chicken meat
 930		bosc pears
-929		truvía® natural sweetener
+929		truvï¿½aï¿½ natural sweetener
 928		aroma
 928		ale
 928		rotel tomatoes
@@ -1828,7 +1844,7 @@
 913		steamed rice
 911		sourdough starter
 910		broccolini
-910		kürbis
+910		kï¿½rbis
 909		chopped fresh herbs
 908		whole chicken
 908		pflaume
@@ -1846,7 +1862,7 @@
 898		corn chips
 897		serrano chilies
 894		schweinefilet
-893		trockener weißwein
+893		trockener weiï¿½wein
 893		sherry wine vinegar
 892		waxy potatoes
 892		sinaasappelsap
@@ -1877,7 +1893,7 @@
 869		mexican style cheese
 868		rotelle
 868		bacon fat
-868		maïs
+868		maï¿½s
 868		rice paper
 867		lemon grass
 866		craisins
@@ -1901,7 +1917,7 @@
 854		prosecco
 854		diced tomatoes in juice
 851		porridge oats
-849		hühnerbrustfilet
+849		hï¿½hnerbrustfilet
 849		romaine lettuce leaves
 848		wacholderbeeren
 847		chopped bell pepper
@@ -1929,7 +1945,7 @@
 832		fudge
 832		condensed tomato soup
 831		crumbled gorgonzola
-830		suppengrün
+830		suppengrï¿½n
 830		taco sauce
 830		peperkorrel
 830		blue cheese dressing
@@ -1949,7 +1965,7 @@
 819		kwark
 818		natural yogurt
 818		rietsuiker
-818		neufchâtel
+818		neufchï¿½tel
 817		crab
 817		amchur
 817		fat free yogurt
@@ -1964,7 +1980,7 @@
 812		lamb shoulder
 812		runny honey
 811		beetje
-811		sonnenblumenöl
+811		sonnenblumenï¿½l
 811		grated romano cheese
 810		yellow mustard seeds
 810		ground flax
@@ -2021,7 +2037,7 @@
 774		baby corn
 774		pastry dough
 772		shredded pepper jack cheese
-772		gemüsezwiebel
+772		gemï¿½sezwiebel
 771		diced ham
 771		rice vermicelli
 771		fresh berries
@@ -2050,7 +2066,7 @@
 756		dried chickpeas
 755		sweet mini bells
 755		italian herbs
-753		weißkohl
+753		weiï¿½kohl
 753		pepper sauce
 753		seedless raspberry jam
 752		salbei
@@ -2099,7 +2115,7 @@
 724		cornflakes
 724		blood orange juice
 724		chinese rice wine
-724		gewürzmischung
+724		gewï¿½rzmischung
 721		bacon grease
 720		lima beans
 718		pure vanilla
@@ -2136,7 +2152,7 @@
 699		orange juice concentrate
 698		short-grain rice
 698		rice milk
-698		selleriegrün
+698		selleriegrï¿½n
 697		havarti cheese
 697		coleslaw
 697		mosselen
@@ -2197,7 +2213,7 @@
 664		sardines
 663		celery leaves
 663		sweet chocolate
-663		streichkäse
+663		streichkï¿½se
 662		strawberry preserves
 661		fat free half and half
 659		peperoni
@@ -2276,7 +2292,7 @@
 625		white peppercorns
 624		chocolate curls
 623		vanilla almondmilk
-623		i can't believe it's not butter!® spread
+623		i can't believe it's not butter!ï¿½ spread
 623		selleriestange
 623		sesame
 623		knolvenkels
@@ -2348,7 +2364,7 @@
 592		microgreens
 592		dill tips
 592		aleppo pepper
-591		nüsslisalat
+591		nï¿½sslisalat
 591		hellmann' or best food real mayonnais
 591		jamaicapfeffer
 589		nutritional yeast flakes
@@ -2371,15 +2387,15 @@
 583		ground fennel
 583		gingersnap cookies
 581		chipotle chile powder
-581		rapskernöl
+581		rapskernï¿½l
 581		yellow summer squash
 580		rauwkost
-580		hühnchenbrust
+580		hï¿½hnchenbrust
 580		burrata
 579		elleboogjesmacaroni
 579		melon
 579		chocolate sandwich cookies
-578		rosé wine
+578		rosï¿½ wine
 578		small new potatoes
 578		reese's peanut butter cups
 578		thousand island dressing
@@ -2550,7 +2566,7 @@
 506		bread dough
 506		min
 504		rack of lamb
-503		koriandergrün
+503		koriandergrï¿½n
 503		delicata squash
 502		wasabi powder
 502		wittewijnazijn
@@ -2563,7 +2579,7 @@
 499		sorbet
 498		nigella seeds
 498		peulen
-498		blue curaçao
+498		blue curaï¿½ao
 498		sliced olives
 497		peach preserves
 497		diced potatoes
@@ -2592,11 +2608,11 @@
 488		mild cheddar cheese
 488		blaubeere
 488		strawberry gelatin
-487		eierlikör
+487		eierlikï¿½r
 487		weissweinessig
 487		apple slices
 487		baking spray
-487		weißbrot
+487		weiï¿½brot
 487		pitted prunes
 487		pork baby back ribs
 486		long grain brown rice
@@ -2608,7 +2624,7 @@
 485		whey protein powder
 485		lardons
 485		volle melk
-484		gemüse
+484		gemï¿½se
 484		kikkererwten
 483		spring roll wrappers
 483		ground hazelnuts
@@ -2627,7 +2643,7 @@
 479		spanish chorizo
 478		chocolate candy bars
 478		tomatensaus
-478		gewürz
+478		gewï¿½rz
 477		harissa paste
 477		caramel syrup
 476		carob powder
@@ -2758,7 +2774,7 @@
 434		majoraan
 433		pernod
 433		butter-margarine blend
-433		kresseblätter
+433		kresseblï¿½tter
 433		alcohol
 433		kastanjechampignons
 433		parma ham
@@ -2775,7 +2791,7 @@
 430		unsweetened soymilk
 429		enokitake
 429		varkenshaasjes
-429		strawberry purée
+429		strawberry purï¿½e
 429		yellow split peas
 429		gulasch
 428		pumpernickel bread
@@ -2797,7 +2813,7 @@
 426		white corn
 426		rollschinken
 425		italian turkey sausage
-425		frank's® redhot® original cayenne pepper sauce
+425		frank'sï¿½ redhotï¿½ original cayenne pepper sauce
 425		kirby cucumbers
 425		beeren
 425		coconut chips
@@ -2870,7 +2886,7 @@
 408		plum sauce
 407		red kidnei beans, rins and drain
 406		bawang goreng
-406		lebkuchengewürz
+406		lebkuchengewï¿½rz
 406		rye whiskey
 405		dark muscovado sugar
 405		dunkle schokolade
@@ -2903,9 +2919,9 @@
 400		butter cooking spray
 399		brown gravy mix
 399		buttery spread
-399		likör
+399		likï¿½r
 399		mung beans
-399		truvía® baking blend
+399		truvï¿½aï¿½ baking blend
 399		sparkling sugar
 398		genoa salami
 398		pandanus leaf
@@ -2919,7 +2935,7 @@
 396		evaporated skim milk
 395		johannisbeere
 395		medium egg noodles
-395		löffelbiskuit
+395		lï¿½ffelbiskuit
 395		chuck steaks
 395		dijonmosterd
 395		fresno chiles
@@ -2970,7 +2986,7 @@
 383		sap
 383		nonfat dry milk
 383		kipsoeptabletten
-383		chilisoße
+383		chilisoï¿½e
 383		nonfat ricotta cheese
 383		burgundy wine
 383		organic vegetable broth
@@ -2994,7 +3010,7 @@
 380		lange vingers
 380		ground pecans
 379		quinces
-379		kürbismark
+379		kï¿½rbismark
 378		nonfat vanilla yogurt
 378		spekken
 378		grill seasoning
@@ -3022,9 +3038,9 @@
 373		cardomon
 373		giblet
 372		peeled apples
-372		niçoise olives
+372		niï¿½oise olives
 372		jack
-372		hidden valley® original ranch® dressing
+372		hidden valleyï¿½ original ranchï¿½ dressing
 372		canola oil cooking spray
 371		stilton cheese
 371		cherry preserves
@@ -3094,7 +3110,7 @@
 355		ginger juice
 355		sea bass
 354		andijvie
-354		crème de menthe
+354		crï¿½me de menthe
 354		canola mayonnaise
 354		tuna packed in water
 353		trout
@@ -3112,7 +3128,7 @@
 352		filet mignon
 352		candied fruit
 352		mixed peel
-352		gold medal® all-purpose flour
+352		gold medalï¿½ all-purpose flour
 351		sweet soy sauce
 350		canned corn
 350		stir fry sauce
@@ -3121,7 +3137,7 @@
 350		ginger syrup
 350		silver
 350		lasagna sheets
-350		orangenlikör
+350		orangenlikï¿½r
 350		unsulphured molasses
 349		hand cheese
 349		montreal steak seasoning
@@ -3143,7 +3159,7 @@
 346		salatherz
 346		minced meat
 345		kidneybohnen
-345		chèvre
+345		chï¿½vre
 345		biscoff creamy spread
 345		sweet relish
 344		green plantains
@@ -3152,7 +3168,7 @@
 343		reduced sodium fat free chicken broth
 343		green enchilada sauce
 343		serrano ham
-343		stärke
+343		stï¿½rke
 343		snickers
 343		pumpkin pie filling
 342		feige
@@ -3169,7 +3185,7 @@
 339		light beer
 339		chile sauce
 338		banana chips
-337		süßstoff
+337		sï¿½ï¿½stoff
 337		baking yeast
 336		mortadella
 336		chile paste
@@ -3188,7 +3204,7 @@
 335		stir fry vegetable blend
 335		ditalini pasta
 334		black rice
-334		country crock® spread
+334		country crockï¿½ spread
 333		pizza toppings
 333		soepgroenten
 332		pure olive oil
@@ -3215,7 +3231,7 @@
 329		brioche bread
 329		pimento stuffed green olives
 329		marillenmarmelade
-329		gruyèrekaas
+329		gruyï¿½rekaas
 328		citroenrasp
 328		reduced fat mozzarella
 328		flaxseed oil
@@ -3274,21 +3290,21 @@
 319		bone-in chicken breast halves
 319		white corn syrup
 319		potato gnocchi
-319		land o lakes® butter
+319		land o lakesï¿½ butter
 319		vinaigrette dressing
 319		lasagneplatte
 318		sausage meat
 317		mrs. dash
-317		rindsbrühe
+317		rindsbrï¿½he
 317		sponge cake
 317		wurst
 316		kichererbsen
 316		italian cheese
 316		soy yogurt
 316		beschuiten
-316		sesamsamenöl
+316		sesamsamenï¿½l
 316		granola cereal
-316		maiskeimöl
+316		maiskeimï¿½l
 315		colored sprinkles
 315		no-salt-added diced tomatoes
 315		dinkelmehl
@@ -3335,7 +3351,7 @@
 306		sweet and sour mix
 306		extra light olive oil
 306		vanilla soy milk
-306		pillsbury™ refrigerated crescent dinner rolls
+306		pillsburyï¿½ refrigerated crescent dinner rolls
 306		turkey broth
 306		ijsblokjes
 305		coke
@@ -3367,7 +3383,7 @@
 299		sambal chile paste
 299		penne rigate
 299		vegan sour cream
-298		ziegenfrischkäse
+298		ziegenfrischkï¿½se
 298		all purpose seasoning
 298		pork country-style ribs
 298		oleo
@@ -3386,7 +3402,7 @@
 295		vijg
 295		angel food cake mix
 294		rotkohl
-294		rübe
+294		rï¿½be
 294		oil packed anchovy fillets
 294		mierikswortel
 294		banana leaves
@@ -3436,7 +3452,7 @@
 286		white corn tortillas
 286		strawberry jelly
 286		conimex wok olie
-286		nußnougat
+286		nuï¿½nougat
 286		green tea bags
 286		zoet
 286		flounder fillets
@@ -3503,7 +3519,7 @@
 275		red food colouring gel
 275		peppermint oil
 275		black bean sauce
-275		mürbteig
+275		mï¿½rbteig
 275		merlot
 274		asparagus tips
 274		mild green chiles
@@ -3512,7 +3528,7 @@
 273		chayotes
 273		spaghettini
 273		visfond
-273		dr. pepper®
+273		dr. pepperï¿½
 273		smoked cheddar cheese
 272		kool-aid
 272		mcintosh apples
@@ -3549,7 +3565,7 @@
 267		organic chicken broth
 267		seedless green grape
 267		spitskool
-267		spätzle
+267		spï¿½tzle
 267		whole nutmegs
 267		chocolate cookie crumbs
 267		lean minced beef
@@ -3560,7 +3576,7 @@
 266		chocolate flavor candy coating
 266		deep dish pie crust
 266		frying oil
-266		hühnerfond
+266		hï¿½hnerfond
 266		date honey
 266		onion rings
 265		mineral water
@@ -3621,7 +3637,7 @@
 257		jackfruit
 256		mini phyllo dough shells
 256		black vinegar
-256		kräutersalz
+256		krï¿½utersalz
 256		jimmies
 256		sternanis
 256		fat skimmed chicken broth
@@ -3649,7 +3665,7 @@
 254		fleisch
 254		bratenfleisch
 254		frozen mixed thawed vegetables,
-253		old el paso™ taco seasoning mix
+253		old el pasoï¿½ taco seasoning mix
 253		free-range chickens
 253		cones
 253		parmigiana-reggiano
@@ -3673,7 +3689,7 @@
 250		cremini
 250		pork steaks
 250		flat iron steaks
-250		salatblättchen
+250		salatblï¿½ttchen
 250		glasur
 250		focaccia
 249		toor dal
@@ -3684,7 +3700,7 @@
 249		onion slices
 249		green split peas
 249		organic unsalted butter
-248		hellmann's® real mayonnaise
+248		hellmann'sï¿½ real mayonnaise
 248		gold medal flour
 248		toasted nuts
 248		oyster crackers
@@ -3717,7 +3733,7 @@
 243		biscuit baking mix
 243		swanson chicken broth
 243		pie pastry
-243		bittermandelöl
+243		bittermandelï¿½l
 243		reese's pieces
 243		blanched hazelnuts
 242		pastry cream
@@ -3777,7 +3793,7 @@
 235		fischfumet
 235		milk & cream
 235		catalina dressing
-235		mccormick® pure vanilla extract
+235		mccormickï¿½ pure vanilla extract
 235		chocolate glaze
 235		kruidnagelpoeder
 235		self-rising cornmeal
@@ -3802,7 +3818,7 @@
 231		hibiscus flowers
 231		orangeat
 231		cooked pumpkin
-231		organic pumpkin purée
+231		organic pumpkin purï¿½e
 231		albacore tuna in water
 231		coconut oil spray
 231		shredded low-fat cheddar cheese
@@ -3837,7 +3853,7 @@
 227		schmaltz
 227		morel
 227		refrigerated sugar cookie dough
-227		hähnchenkeule
+227		hï¿½hnchenkeule
 227		kardamomzaad
 226		pink grapefruit juice
 226		mackerel
@@ -3850,14 +3866,14 @@
 225		cress
 225		apricot brandy
 225		unsalted sunflower kernels
-225		gemüsesud
+225		gemï¿½sesud
 224		fresh onion
 224		sub rolls
 224		store bought low sodium chicken stock
 224		pita bread rounds
 224		pita pockets
 224		piecrust
-224		tülle
+224		tï¿½lle
 223		mazola corn oil
 223		fresh horseradish
 223		southern comfort
@@ -3896,11 +3912,11 @@
 220		dried guajillo chiles
 220		cocktail sauce
 219		hershey bars
-219		kahlúa
+219		kahlï¿½a
 219		hamburger patties
 219		french bread loaves
 219		ontbijtkoek
-219		bärlauch
+219		bï¿½rlauch
 219		uncook medium shrimp, peel and devein
 219		baby artichokes
 219		casinobrood
@@ -3966,13 +3982,13 @@
 212		parmezaan
 212		black lentil
 212		mackerel fillets
-212		progresso™ chicken broth
+212		progressoï¿½ chicken broth
 212		sardellenfilet
 211		fisch
 211		extra vierge olijfolie
 211		dried bonito flakes
 211		boneless pork shoulder roast
-210		pflücksalat
+210		pflï¿½cksalat
 210		schattenmorellen
 210		eendenborst
 210		chilipeperschilfers
@@ -3996,7 +4012,7 @@
 207		karwijzaad
 207		canning salt
 207		egg beaters
-207		räucherlachs
+207		rï¿½ucherlachs
 207		hollandaise
 207		frozen pie crust
 206		california avocado
@@ -4010,7 +4026,7 @@
 206		black cherries
 206		pheasant
 206		plain low fat greek yogurt
-206		old el paso™ chopped green chiles
+206		old el pasoï¿½ chopped green chiles
 205		edamame beans
 205		whipping heavy cream
 205		rice cakes
@@ -4047,7 +4063,7 @@
 202		foie gras
 202		reddi wip whipped cream
 202		turmeric root
-202		crème de cassis
+202		crï¿½me de cassis
 202		lady fingers
 202		blue band vloeibaar iedere dag
 202		amaretti biscuits
@@ -4059,7 +4075,7 @@
 201		fresh pork fat
 201		crushed pistachio
 201		white tequila
-201		bergkäse
+201		bergkï¿½se
 201		dried rice noodles
 201		clementine juice
 201		beize
@@ -4089,7 +4105,7 @@
 197		masa
 197		unseasoned breadcrumbs
 197		coconut vinegar
-197		suppengemüse
+197		suppengemï¿½se
 197		sesame paste
 197		yellow curry paste
 197		fresh fava bean
@@ -4097,7 +4113,7 @@
 197		french fri frozen
 197		pear nectar
 197		brombeere
-197		hühnerbouillon
+197		hï¿½hnerbouillon
 196		black truffles
 196		tomatensap
 196		jellied cranberry sauce
@@ -4195,7 +4211,7 @@
 186		cheese curds
 186		chocolate chip cookie dough
 186		essential oils
-185		kürbiskernöl
+185		kï¿½rbiskernï¿½l
 185		crushed cornflakes
 185		challenge butter
 185		gingersnap crumbs
@@ -4204,7 +4220,7 @@
 184		tenderloin
 184		bran flakes
 184		kipkruiden
-184		best foods® real mayonnaise
+184		best foodsï¿½ real mayonnaise
 184		tandoori spices
 184		wide rice noodles
 184		emmentaler
@@ -4238,7 +4254,7 @@
 181		carnation
 180		pepperidge farm puff pastry sheets
 180		white vermouth
-180		erdäpfelmehl
+180		erdï¿½pfelmehl
 180		rolo caramels
 180		peach pie filling
 180		sekt
@@ -4259,7 +4275,7 @@
 179		fudge topping
 179		tuna fillets
 178		slider rolls
-178		açai
+178		aï¿½ai
 178		knox gelatine
 178		minute tapioca
 178		pretzel salt
@@ -4292,7 +4308,7 @@
 176		advocaat
 176		candied walnuts
 176		italian style stewed tomatoes
-176		sugar in the raw®
+176		sugar in the rawï¿½
 176		biskuitboden
 175		medium dry sherry
 175		koekkruiden
@@ -4328,19 +4344,19 @@
 173		extra fine granulated sugar
 173		bengal gram
 173		frozen pound cake
-173		lasagnebläter
+173		lasagneblï¿½ter
 173		tortillafladen
 173		ribeyes
 173		light karo syrup
 173		vollmilch
 172		ranch dip
 172		palm oil
-172		eiswürferl
+172		eiswï¿½rferl
 172		koffiemelk
 172		no-salt-added black beans
 172		nonfat vanilla greek yogurt
 172		roasted bell peppers
-172		maisgrieß
+172		maisgrieï¿½
 172		red bell pepper, sliced
 172		toasted sunflower seeds
 172		corncobs
@@ -4364,7 +4380,7 @@
 170		honey graham crackers
 170		minzblatt
 170		yuzu juice
-170		röstzwiebeln
+170		rï¿½stzwiebeln
 170		olive tapenade
 170		peperoncini
 170		candied pineapple
@@ -4395,7 +4411,7 @@
 168		habanero hot sauce
 168		gluten-free plain flour
 168		martini
-168		knödel
+168		knï¿½del
 168		toasted peanuts
 168		frozen yogurt
 168		turnip greens
@@ -4420,7 +4436,7 @@
 166		glycerin
 166		venkelzaad
 166		appelmoes
-166		süßigkeiten
+166		sï¿½ï¿½igkeiten
 166		caper berries
 166		honey glazed ham
 166		snickers candy bars
@@ -4429,7 +4445,7 @@
 165		ancho
 165		jumbo shells
 165		reduced sodium vegetable broth
-165		körnermais
+165		kï¿½rnermais
 165		appelstroop
 165		medium salsa
 165		pretzel twists
@@ -4437,7 +4453,7 @@
 165		haloumi
 164		sweet white wine
 164		fresh pasta
-164		diabetikersüße
+164		diabetikersï¿½ï¿½e
 164		watermelon radishes
 164		japanese cucumber
 164		espressokoffie
@@ -4454,7 +4470,7 @@
 163		boneless beef short ribs
 163		stoofvlees
 163		kirschnektar
-163		bertolli® classico olive oil
+163		bertolliï¿½ classico olive oil
 163		hot chili
 162		jell-o vanilla flavor instant pudding & pie filling
 162		raspberry sauce
@@ -4504,7 +4520,7 @@
 159		kippenpoten
 159		cheez whiz
 159		planters pecans
-159		kräuterbutter
+159		krï¿½uterbutter
 159		bitterkoeken
 158		cheesecake filling
 158		kalkoen
@@ -4541,14 +4557,14 @@
 155		hazelnut butter
 155		karo
 154		vanilleijs
-154		crème double
+154		crï¿½me double
 154		old el paso flour tortillas
 154		squash blossoms
-154		würfelschinken
+154		wï¿½rfelschinken
 154		fruit spread
 154		cake batter
 154		pork chops, 1 inch thick
-153		kürbismus
+153		kï¿½rbismus
 153		buikspek
 153		vleesfond
 153		catfish
@@ -4568,18 +4584,18 @@
 152		wheel of brie
 151		pastasaus
 151		chocolate graham cracker crumbs
-151		hidden valley® original ranch salad® dressing & seasoning mix
+151		hidden valleyï¿½ original ranch saladï¿½ dressing & seasoning mix
 151		chocolate covered coffee beans
 151		walnotenolie
 151		condensed cream of potato soup
 151		ananassaft
-151		old el paso™ thick 'n chunky salsa
+151		old el pasoï¿½ thick 'n chunky salsa
 151		mulberries
 151		cocktailkirsche
 151		condensed french onion soup
 151		pumpkin pie
-151		curaçao
-151		süßkartoffel
+151		curaï¿½ao
+151		sï¿½ï¿½kartoffel
 151		sparkling mineral water
 151		melone
 151		zitronenspalte
@@ -4604,7 +4620,7 @@
 149		potato rolls
 149		cut up cooked chicken
 149		kruidenkaas
-149		diamond crystal® kosher salt
+149		diamond crystalï¿½ kosher salt
 149		kraft shredded cheddar cheese
 149		thin deli ham
 149		green gel food coloring
@@ -4620,7 +4636,7 @@
 148		curry leaf
 148		brown ale
 148		swordfish
-148		zuckerrübensirup
+148		zuckerrï¿½bensirup
 148		artisan bread
 148		fresh chorizo
 148		coconut syrup
@@ -4653,11 +4669,11 @@
 146		heinz chili sauce
 145		hot cherry peppers
 145		brandewijn
-145		pizzagewürz
+145		pizzagewï¿½rz
 145		dark rye flour
 145		meat tenderizer
 145		canned salmon
-145		knäckebröd
+145		knï¿½ckebrï¿½d
 145		boneless rib eye steaks
 145		boneless turkey breast
 145		spanish smoked paprika
@@ -4679,7 +4695,7 @@
 144		95% lean ground beef
 144		garlic flakes
 143		ahi tuna steaks
-143		satésaus
+143		satï¿½saus
 143		chicken breast tenderloins
 143		skim milk powder
 143		goldfish crackers
@@ -4723,7 +4739,7 @@
 141		vegan cheddar cheese
 141		peasant bread
 141		oil cured olives
-141		hüttenkäse
+141		hï¿½ttenkï¿½se
 140		dried strawberries
 140		biscuitjes
 140		baby romaine lettuce
@@ -4733,13 +4749,13 @@
 140		corn grits
 140		sliced salami
 140		yellow lentils
-140		edelschimmelkäse
+140		edelschimmelkï¿½se
 140		gingerbread
-140		mondamin feine speisestärke
+140		mondamin feine speisestï¿½rke
 140		finely ground coffee
 140		octopuses
 140		gelato
-140		breyers® natural vanilla ice cream
+140		breyersï¿½ natural vanilla ice cream
 140		stachelbeeren
 140		kalfsfond
 140		loaves
@@ -4801,7 +4817,7 @@
 136		horseradish mustard
 136		fenchelsamen
 136		smooth natural peanut butter
-136		kräuterfrischkäse
+136		krï¿½uterfrischkï¿½se
 136		romaatjes
 136		lemon olive oil
 136		vietnamese fish sauce
@@ -4835,7 +4851,7 @@
 134		refrigerated seamless crescent dough
 134		natural sugar
 134		pork shoulder butt
-134		knorr bouillon pur gemüse
+134		knorr bouillon pur gemï¿½se
 133		boneless beef sirloin steak
 133		annatto seeds
 133		galliano
@@ -4861,7 +4877,7 @@
 132		shredded colby
 132		seafood cocktail sauce
 132		hemp protein powder
-132		chestnut purée
+132		chestnut purï¿½e
 132		yellow rice
 132		dill pickle slices
 132		breakfast sausage links
@@ -4869,9 +4885,9 @@
 132		southwest seasoning
 131		jamaican jerk seasoning
 131		coulis
-131		eggland's best® eggs
+131		eggland's bestï¿½ eggs
 131		reduced fat whipped topping
-131		flüsigkeit
+131		flï¿½sigkeit
 131		coconut milk powder
 131		fine granulated sugar
 131		gebakken uitjes
@@ -4891,7 +4907,7 @@
 130		bagel chips
 130		cipollini onions
 130		romaine lettuce hearts
-130		weiße schokolade
+130		weiï¿½e schokolade
 130		brewed tea
 130		low-sodium fat-free chicken broth
 130		salted dry roasted peanuts
@@ -4909,7 +4925,7 @@
 130		frozen carrots
 129		beef round
 129		purple sweet potatoes
-129		taco bell® thick & chunky mild salsa
+129		taco bellï¿½ thick & chunky mild salsa
 129		sultaninen
 129		stoofperen
 129		snappers
@@ -4926,7 +4942,7 @@
 129		applejack
 128		bran cereal
 128		pear tomatoes
-128		lipton® recipe secrets® onion soup mix
+128		liptonï¿½ recipe secretsï¿½ onion soup mix
 128		knox unflavored gelatin
 128		raspberry sherbet
 128		nonfat cottage cheese
@@ -4947,7 +4963,7 @@
 127		mustard sauce
 127		stangenbohnen
 127		oregano flakes
-127		hüttekäse
+127		hï¿½ttekï¿½se
 127		jamaican rum
 127		artischockenherz
 127		white baking bar
@@ -4988,7 +5004,7 @@
 125		turkey breast tenderloins
 125		splenda sugar blend
 125		bragg liquid aminos
-125		saké
+125		sakï¿½
 125		turkey tenderloins
 125		wheat chex
 125		white chocolate curls
@@ -5056,7 +5072,7 @@
 121		concord grapes
 121		monkfish fillets
 121		lamb fillet
-121		hähnchenschenkel
+121		hï¿½hnchenschenkel
 121		kreeft
 121		dandelion
 121		kewpie mayonnaise
@@ -5094,7 +5110,7 @@
 119		boneless lamb
 119		mccormick garlic powder
 119		devils food cake mix
-119		mandellkör
+119		mandellkï¿½r
 119		bean sauce
 119		veal chops
 119		zuckerperlen
@@ -5129,7 +5145,7 @@
 117		cooked barley
 117		salmon roe
 117		extra firm silken tofu
-117		körnerbrot
+117		kï¿½rnerbrot
 117		falafel
 117		mint sauce
 117		lende
@@ -5144,7 +5160,7 @@
 117		schouderkarbonade
 117		cultured butter
 116		espressopulver
-116		pâté
+116		pï¿½tï¿½
 116		inktvis
 116		vegetarian refried beans
 116		luncheon meat
@@ -5188,7 +5204,7 @@
 114		vin santo
 114		ground rosemary
 114		cream style cottage cheese
-114		kellogg's® crispix® cereal
+114		kellogg'sï¿½ crispixï¿½ cereal
 114		skinless cod fillets
 113		makreelfilet
 113		delallo extra virgin olive oil
@@ -5201,7 +5217,7 @@
 113		mild molasses
 113		whipped cream vodka
 113		elderberries
-113		entrecôte
+113		entrecï¿½te
 113		red rice
 113		sugar free instant vanilla pudding mix
 113		aardbeienconfituur
@@ -5302,15 +5318,15 @@
 107		shelled hemp
 107		ground star anise
 107		ancho chili ground pepper
-107		macadamianüsse
-107		ginger purée
+107		macadamianï¿½sse
+107		ginger purï¿½e
 107		chocolate chip cookie mix
 107		tresterbrand
 107		chocolate drink
 107		turkish bay leaves
 107		capicola
 107		tortillachips
-107		maïskorrels
+107		maï¿½skorrels
 107		sago
 107		coffee syrup
 107		mild sausage
@@ -5324,7 +5340,7 @@
 106		farina
 106		low fat mozzarella
 106		frambozenjam
-106		mccormick® ground cinnamon
+106		mccormickï¿½ ground cinnamon
 106		vanillepuddingpulver
 106		fromage blanc
 106		pfefferminze
@@ -5338,7 +5354,7 @@
 105		other vegetables
 105		unfiltered apple cider vinegar
 105		frozen waffles
-105		leberkäse
+105		leberkï¿½se
 105		andere
 105		reduced sodium black beans
 105		knakworsten
@@ -5368,7 +5384,7 @@
 105		solid white tuna
 105		cantharellen
 105		hokkien noodles
-105		flatout® flatbreads
+105		flatoutï¿½ flatbreads
 104		jasmijnrijst
 104		dried banana
 104		napa cabbage leaves
@@ -5376,7 +5392,7 @@
 104		french's french fried onions
 104		pearl sugar
 104		apple puree
-104		hühnerkeule
+104		hï¿½hnerkeule
 104		low-fat swiss cheese
 104		butter sauce
 104		jumbo marshmallows
@@ -5395,12 +5411,12 @@
 104		smoked kielbasa
 104		kelp noodles
 104		bottled chili sauce
-103		truvía® brown sugar blend
+103		truvï¿½aï¿½ brown sugar blend
 103		gluten free chicken broth
 103		kastanjes
 103		honeycomb chocolate bars
 103		brown rice pasta
-103		geflügelleber
+103		geflï¿½gelleber
 103		paella rice
 103		reduced fat parmesan cheese
 103		boneless skinless turkey breasts
@@ -5414,7 +5430,7 @@
 103		imperial sugar light brown sugar
 103		pure wesson canola oil
 103		daal
-103		walnusskernhälften
+103		walnusskernhï¿½lften
 103		sundae syrup
 103		salt substitute
 103		goldhirse
@@ -5422,7 +5438,7 @@
 102		raisin bran cereal
 102		tenderloin roast
 102		fatback
-102		crudités
+102		cruditï¿½s
 102		nonfat italian dressing
 102		reduced fat buttermilk
 102		collard leaves
@@ -5456,7 +5472,7 @@
 101		red kuri squash
 101		boneless ham
 101		carnitas
-101		peach purée
+101		peach purï¿½e
 101		black food coloring
 101		dress russian
 101		low-fat granola
@@ -5466,7 +5482,7 @@
 101		v8
 101		ente
 101		jenever
-101		götterspeise
+101		gï¿½tterspeise
 100		sweet rice
 100		sauerbrotteig
 100		cream of wheat
@@ -5487,7 +5503,7 @@
 100		pink lady apple
 100		quitte
 99		chees mozzarella stick
-99		mohnfülle
+99		mohnfï¿½lle
 99		whole wheat orzo
 99		turkey ham
 99		kruidenbouillontabletten
@@ -5496,7 +5512,7 @@
 99		english muffins, split and toasted
 99		tropical fruits
 99		consomme
-99		bouillonwürfel
+99		bouillonwï¿½rfel
 99		poussins
 99		calamansi
 99		rivierkreeften
@@ -5629,7 +5645,7 @@
 92		peppered bacon
 92		less sodium chicken broth
 92		bittersweet baking chocolate
-92		spice islands® pure vanilla extract
+92		spice islandsï¿½ pure vanilla extract
 92		shuck corn
 92		kamut
 92		kalfslapjes
@@ -5643,7 +5659,7 @@
 92		fresh chile
 92		homemade beef stock
 92		pepperidge farm puff pastry
-92		aardappelrösties
+92		aardappelrï¿½sties
 92		chocoladekorrels
 92		lammlachs
 92		white tuna in water
@@ -5686,7 +5702,7 @@
 90		bamie
 90		sunflower sprouts
 90		gluten free cooking spray
-90		orangenkonfitüre
+90		orangenkonfitï¿½re
 90		chili bean paste
 90		mellow white miso
 90		tandoori paste
@@ -5696,7 +5712,7 @@
 90		meringue nests
 90		vegan dark chocolate chips
 90		dill pickle spear
-90		kloßteig
+90		kloï¿½teig
 90		mars candy bars
 90		whole wheat sandwich bread
 90		small yellow potatoes
@@ -5714,7 +5730,7 @@
 89		whole wheat panko
 89		non-dairy creamer
 89		harissa sauce
-89		zitronensäure
+89		zitronensï¿½ure
 89		pickled okra
 89		gumbo file
 89		bermuda onion
@@ -5756,7 +5772,7 @@
 87		light tuna
 87		black truffle oil
 87		couverture chocolate
-87		kümmelpulver
+87		kï¿½mmelpulver
 87		cocoa krispies cereal
 87		low sodium worcestershire sauce
 87		v 8 vegetable juice
@@ -5772,7 +5788,7 @@
 87		jonagolds
 87		frozen potatoes
 87		unsalted pecans
-87		old el paso™ refried beans
+87		old el pasoï¿½ refried beans
 87		topping mix
 87		hard rolls
 87		pistachenootjes
@@ -5789,7 +5805,7 @@
 86		pear brandy
 86		agar agar flakes
 86		whole wheat fusilli
-86		sabra® classic hummus
+86		sabraï¿½ classic hummus
 86		gluten-free spaghetti
 86		buckwheat noodles
 86		chicken gizzards
@@ -5801,7 +5817,7 @@
 86		less sodium soy sauce
 86		curly-leaf parsley
 86		halvanaise
-86		hühnerfleisch
+86		hï¿½hnerfleisch
 86		lemon sorbet
 86		guinea fowl
 86		pasta rotel
@@ -5819,9 +5835,9 @@
 85		tonkatsu sauce
 85		vegan chocolate
 85		tea powder
-85		schnittlauchröllchen
+85		schnittlauchrï¿½llchen
 85		purslane
-85		sheep’s milk cheese
+85		sheepï¿½s milk cheese
 85		chorizoworst
 85		ragu sauce
 85		klapper
@@ -5852,7 +5868,7 @@
 84		kardemompeul
 84		fried rice
 84		nopales
-84		açai powder
+84		aï¿½ai powder
 84		agave tequila
 84		sliced beets
 84		hoisinsaus
@@ -5927,7 +5943,7 @@
 81		tofutti better than cream cheese
 81		reduced fat chunky peanut butter
 81		1% low-fat cottage cheese
-81		korianderkörner
+81		korianderkï¿½rner
 81		dixie crystals granulated pure cane sugar
 81		pineapple wedges
 81		paprikamark
@@ -5986,15 +6002,15 @@
 79		cream yogurt
 79		bread, cut into italian loaf
 79		citroenmelisse
-79		bertolli® alfredo sauce
+79		bertolliï¿½ alfredo sauce
 79		moonshine
 79		kipbraadsticks
 79		granen
 79		biefreepjes
 79		chicken nugget
-79		bratöl
+79		bratï¿½l
 79		pizzadeeg
-79		macisblüte
+79		macisblï¿½te
 79		philadelphia light cream cheese
 79		purple sprouting broccoli
 79		ground turkey sausage
@@ -6009,7 +6025,7 @@
 79		whole wheat rotini
 79		whole grain baguette
 79		shredded romano cheese
-79		truvía® spoonable
+79		truvï¿½aï¿½ spoonable
 78		leber
 78		raspberry vinaigrette dressing
 78		red raspberry preserves
@@ -6029,7 +6045,7 @@
 78		crusty french loaves
 78		croissant dough
 78		vegan beef crumbles
-78		passion fruit purée
+78		passion fruit purï¿½e
 78		silk almond milk
 78		sazon seasoning
 78		sanella
@@ -6054,12 +6070,12 @@
 77		boiled ham
 77		golden mushroom soup
 77		whole wheat macaroni
-77		fingermöhrchen
+77		fingermï¿½hrchen
 77		bean dip
 77		limonade
 77		pomelo
 77		toast points
-77		aprikosenhälfte
+77		aprikosenhï¿½lfte
 77		koolraap
 77		biskuit
 77		yellow crookneck squash
@@ -6126,7 +6142,7 @@
 75		guajillo
 75		brown gravy
 75		gorgonzola dolce
-75		walnussöl
+75		walnussï¿½l
 75		gemberballen
 75		german mustard
 75		hemp oil
@@ -6146,7 +6162,7 @@
 74		austernsauce
 74		umeboshi
 74		european cucumber
-74		bacardi® rum
+74		bacardiï¿½ rum
 74		beef strips
 74		kardemompoeder
 74		bessensap
@@ -6174,7 +6190,7 @@
 74		sauterne
 74		nasikruiden
 74		boneless country pork ribs
-74		ziegenkäse
+74		ziegenkï¿½se
 73		fingerling
 73		stork
 73		pork liver
@@ -6188,11 +6204,11 @@
 73		minute steaks
 73		cortland apples
 73		grapefruit soda
-73		kartoffelpüree
+73		kartoffelpï¿½ree
 73		cake yeast
 73		table wine
 73		boneless duck breast
-73		mettwürstchen
+73		mettwï¿½rstchen
 73		mccormick vanilla extract
 73		caramel cubes
 73		jakobsmuschel
@@ -6201,7 +6217,7 @@
 73		mung bean noodles
 73		peanut butter cookie mix
 73		idli
-73		i can't believe it's not butter!® all purpose sticks
+73		i can't believe it's not butter!ï¿½ all purpose sticks
 73		brittle
 73		gluten-free all-purpose baking flour
 73		gluten-free chocolate chips
@@ -6216,12 +6232,12 @@
 72		kerrygold butter
 72		kaviaar
 72		dried lemon peel
-72		crème de banane
+72		crï¿½me de banane
 72		hamburger helper
 72		soja
-72		süsskirschen
-72		kräuteressig
-72		hartkäse
+72		sï¿½sskirschen
+72		krï¿½uteressig
+72		hartkï¿½se
 72		lean minced lamb
 72		pompoenpuree
 72		suppenfleisch
@@ -6382,7 +6398,7 @@
 68		dried kelp
 67		kalfsschnitzeltjes
 67		roasted walnut oil
-67		müsli
+67		mï¿½sli
 67		sardelle
 67		pecan meal
 67		marrow
@@ -6409,8 +6425,8 @@
 67		chicken salad
 67		prego traditional italian sauce
 67		tamales
-67		speckwürfel
-67		palmöl
+67		speckwï¿½rfel
+67		palmï¿½l
 67		jameson irish whiskey
 67		cremefine zum kochen
 66		pork sirloin roast
@@ -6428,7 +6444,7 @@
 66		eendenlever
 66		ghirardelli 60% cacoa bittersweet chocolate baking chips
 66		wild rice mix
-66		erdnussöl
+66		erdnussï¿½l
 66		raapstelen
 66		fleckerl
 66		low fat cream
@@ -6451,7 +6467,7 @@
 66		blood
 65		barbecuesaus
 65		turkey sausage links
-65		land o lakes® eggs
+65		land o lakesï¿½ eggs
 65		rice bran
 65		small pretzel twists
 65		rib rub
@@ -6484,11 +6500,11 @@
 65		creamer potatoes
 65		hibiscus tea
 65		sesampaste
-65		red gold® diced tomatoes
+65		red goldï¿½ diced tomatoes
 65		cremefine zum schlagen
 65		lever
 65		soft taco size flour tortillas
-65		pfanni kartoffel püree
+65		pfanni kartoffel pï¿½ree
 65		crushed pineapple juice
 65		prepared pasta sauce
 65		swordfish fillets
@@ -6501,7 +6517,7 @@
 64		carp
 64		vanilla low-fat ic cream
 64		kraft singles
-64		orange curaçao
+64		orange curaï¿½ao
 64		butterscotch topping
 64		low-fat butter
 64		herb cheese
@@ -6537,7 +6553,7 @@
 63		garden cress
 63		beef shin
 63		spice islands saigon cinnamon
-63		pecorinokäse
+63		pecorinokï¿½se
 63		hersheys semi-sweet chocolate chips
 63		chocolate instant pudding and pie filling mix
 63		beef franks
@@ -6545,7 +6561,7 @@
 63		perch fillets
 63		cajeta
 63		whole grain spaghetti
-63		tamarind purée
+63		tamarind purï¿½e
 63		cocktail wieners
 63		kaviar
 63		kraft mexican style shredded four cheese with a touch of philadelphia
@@ -6583,7 +6599,7 @@
 62		chunky pasta sauce
 62		black licorice
 62		rye flakes
-62		simply potatoes® hash browns
+62		simply potatoesï¿½ hash browns
 62		bakolie
 62		chocolate covered raisins
 62		2% low-fat cheddar cheese
@@ -6628,7 +6644,7 @@
 61		pignolis
 61		grey salt
 61		clams, well scrub
-61		pillsbury™ classic pizza crust
+61		pillsburyï¿½ classic pizza crust
 61		flavored coffee creamer
 61		stewing chicken
 61		kouseband
@@ -6771,7 +6787,7 @@
 58		smoked pork
 58		kraft classic ranch dressing
 58		plum wine
-58		dry rosé wine
+58		dry rosï¿½ wine
 58		sweet italian sausag links, cut into
 58		oscar mayer real bacon bits
 58		whole cane sugar
@@ -6787,7 +6803,7 @@
 58		cinnamon oil
 58		aquavit
 58		thai noodles
-58		bertolli olivenöl
+58		bertolli olivenï¿½l
 58		cocktail sausages
 57		rindless bacon
 57		mezzetta california extra virgin olive oil
@@ -6808,7 +6824,7 @@
 57		tomatenpaprika
 57		lingonberry jam
 57		hokkaido
-57		muskatnuß
+57		muskatnuï¿½
 57		vanillepulver
 57		powdered turmeric
 57		kokoscreme
@@ -6833,7 +6849,7 @@
 57		tafelsuiker
 57		cadbury chocolate creme egg
 57		chunky almond butter
-57		watermelon purée
+57		watermelon purï¿½e
 57		culantro
 57		apple pie
 57		broccoli cheese soup
@@ -6899,7 +6915,7 @@
 55		grilled steak
 55		country crock
 55		truffle butter
-55		friséesla
+55		frisï¿½esla
 55		gummies
 55		lamb racks
 55		poppy seed filling
@@ -6924,7 +6940,7 @@
 55		toasted unsweetened coconut
 55		dairy whipped topping
 55		maraschino
-55		schokoröllchen
+55		schokorï¿½llchen
 55		selderiezout
 55		quaker old-fashioned oats
 55		unsmoked bacon
@@ -6965,10 +6981,10 @@
 54		anise oil
 54		toffee sauce
 54		low sodium chickpeas
-54		kokoslikör
+54		kokoslikï¿½r
 54		conimex ketjap manis
 54		rookvlees
-54		low-fat crème fraîche
+54		low-fat crï¿½me fraï¿½che
 54		kalamata olive halves
 54		conch
 54		non-fat cooking spray
@@ -7006,18 +7022,18 @@
 53		shredded medium cheddar cheese
 53		dried wood ear mushrooms
 53		sirloin tip steak
-53		pâte brisée
+53		pï¿½te brisï¿½e
 53		kokum
 53		hog casings
 53		extra sharp aged cheddar cheese
 53		sandwich thins
 53		international delight iced coffee
 53		pear liqueur
-53		marillenlikör
+53		marillenlikï¿½r
 53		dark karo syrup
 53		honey bunches of oats cereal
 53		schnittlauchhalme
-53		halbbitterkuvertüre
+53		halbbitterkuvertï¿½re
 53		chicken schmaltz
 52		fresh ham
 52		grape jam
@@ -7025,7 +7041,7 @@
 52		sojageschnetzeltes
 52		cookies and cream ice cream
 52		refrigerated biscuit dough
-52		becel cuisine omega-3 pflanzenöl
+52		becel cuisine omega-3 pflanzenï¿½l
 52		amarillo
 52		nonfat beef broth
 52		1% low-fat buttermilk
@@ -7033,13 +7049,13 @@
 52		refined sugar
 52		bulghur
 52		red mullet
-52		pfirsichhälften
-52		hülsenfrüchte
+52		pfirsichhï¿½lften
+52		hï¿½lsenfrï¿½chte
 52		sliced steak
 52		chilli bean sauce
 52		merguez sausage
 52		mixed tomatoes
-52		trüffeln
+52		trï¿½ffeln
 52		romanesko
 52		beef fat
 52		boneless chicken cutlet
@@ -7068,7 +7084,7 @@
 51		shrimp and crab boil seasoning
 51		malzbier
 51		rodekool
-51		bénédictine
+51		bï¿½nï¿½dictine
 51		sugar free strawberry gelatin
 51		medium rye flour
 51		arepa flour
@@ -7103,7 +7119,7 @@
 51		silk unsweetened no surgar added cashewmilk
 51		miniature pretzel twists
 50		corn masa flour
-50		chouriço
+50		chouriï¿½o
 50		lamsschouder
 50		rosmarinzweig
 50		balsamicodressing
@@ -7121,7 +7137,7 @@
 50		nut flour
 50		seasoning rub
 50		berry preserves
-50		skippy® peanut butter
+50		skippyï¿½ peanut butter
 50		nonfat mayonnaise
 50		beef cheek
 50		beef heart
@@ -7140,11 +7156,11 @@
 50		baby fennel
 50		tamarinde
 50		schorseneren
-50		rösti
+50		rï¿½sti
 50		dried lime
 50		endivie
 50		dried prawns
-50		pebechernüsse
+50		pebechernï¿½sse
 50		spiral-sliced ham
 50		markknochen
 50		bratensaft
@@ -7153,7 +7169,7 @@
 49		spicy barbecue sauce
 49		thick cut rolled oats
 49		roasted ground cumin
-49		kokoscrème
+49		kokoscrï¿½me
 49		red gold petite diced tomatoes
 49		lactose-free milk
 49		caper brine
@@ -7172,7 +7188,7 @@
 49		posole
 49		silver rum
 49		red caviar
-49		knorr® vegetable recipe mix
+49		knorrï¿½ vegetable recipe mix
 49		knorr goldaugen rindsuppe
 49		buckwheat honey
 49		silver balls
@@ -7189,7 +7205,7 @@
 49		strawberry juice
 49		toasted sesame dressing
 49		honey maid graham cracker crumbs
-49		honey chèvre
+49		honey chï¿½vre
 49		store-bought pound cake
 49		mondamin saucenbinder zum andicken von dunklen saucen
 49		blueberry muffin mix
@@ -7256,7 +7272,7 @@
 48		slakken
 48		cashew flour
 48		bindemittel
-48		dörrfleisch
+48		dï¿½rrfleisch
 48		salatmischung
 48		taartdeeg
 48		gourd
@@ -7279,7 +7295,7 @@
 47		baby octopus
 47		ataulfo
 47		yellowfin tuna
-47		asiasoße
+47		asiasoï¿½e
 47		prune puree
 47		red chicory
 47		yuzukosho
@@ -7324,18 +7340,18 @@
 46		bhindi
 46		japanese rice vinegar
 46		japanese style bread crumbs
-46		beifuß
+46		beifuï¿½
 46		unbleached sugar
 46		beef shoulder roast
 46		limoenblad
 46		kalkoengehakt
-46		karo® light corn syrup
+46		karoï¿½ light corn syrup
 46		potato bread
 46		fat-free italian salad dressing
 46		pottasche
 46		bacon rind
 46		cranberry jam
-46		kirschkonfitüre
+46		kirschkonfitï¿½re
 46		apricot liqueur
 46		leaf lard
 46		tong
@@ -7347,13 +7363,13 @@
 46		achiote powder
 46		domaine de canton ginger liqueur
 46		mooli
-46		hähnchenflügel
+46		hï¿½hnchenflï¿½gel
 46		ro-tel diced tomatoes & green chilies
 46		hersheys skor english toffee bits
 46		guava jelli
 46		savoy cabbage leaves
 46		marshmallow vodka
-46		hidden valley® original ranch® dips mix
+46		hidden valleyï¿½ original ranchï¿½ dips mix
 46		galgant
 46		fruitcocktail
 46		blue band finesse voor verrijken
@@ -7427,7 +7443,7 @@
 45		beef meatballs
 45		blended scotch whisky
 45		spicy hot v8
-45		añejo tequila
+45		aï¿½ejo tequila
 45		linguine, cook and drain
 45		reduced fat cream of mushroom soup
 45		serranoschinken
@@ -7479,13 +7495,13 @@
 44		quinoa pasta
 44		raspberry coulis
 44		grained
-44		schwarzkümmel
+44		schwarzkï¿½mmel
 44		distilled malt vinegar
 44		dried pappardelle
 44		dried barberries
 44		wholly guacamole
 43		beef rump
-43		glühwein
+43		glï¿½hwein
 43		kraft shredded triple cheddar cheese with a touch of philadelphia
 43		pork loin back ribs
 43		licor 43
@@ -7530,7 +7546,7 @@
 43		razor clams
 43		dehydrated onion flakes
 43		butter cake
-43		pfannengemüse
+43		pfannengemï¿½se
 43		demi baguette
 43		challenge unsalted butter
 43		thai eggplants
@@ -7539,7 +7555,7 @@
 43		diced tomatoes with garlic and onion
 43		melon balls
 43		crushed tomatoes in puree
-43		spekulatiusgebäck
+43		spekulatiusgebï¿½ck
 43		moccabohnen
 43		banketbakkersroom
 43		druivensap
@@ -7568,7 +7584,7 @@
 42		st germain liqueur
 42		edible gold leaf
 42		low-fat ice cream
-42		brickblätter
+42		brickblï¿½tter
 42		black bean and corn salsa
 42		english walnuts
 42		schalen
@@ -7576,7 +7592,7 @@
 42		eiertomate
 42		wasabipaste
 42		cracked peppercorn
-42		sparkling rosé wine
+42		sparkling rosï¿½ wine
 42		cinnamon whisky
 42		nettle leaves
 42		wish-bone balsamic vinaigrette dressing
@@ -7623,7 +7639,7 @@
 41		aalbessen
 41		hickory-flavored liquid smoke
 41		pig feet
-41		pfanni mini kartoffel-knödel
+41		pfanni mini kartoffel-knï¿½del
 41		promis
 41		head on shrimp
 41		turkse yoghurt
@@ -7640,7 +7656,7 @@
 41		tostitos
 41		borage
 41		sugar pie pumpkin
-41		kräuterseitling
+41		krï¿½uterseitling
 41		hacheevlees
 41		rice krispie treats
 41		strawberry vodka
@@ -7663,10 +7679,10 @@
 41		groene appels
 41		kochsahne
 41		gold leaf
-41		grünkern
+41		grï¿½nkern
 41		oatmeal cookie mix
 41		zuurkoolspek
-41		soy vay® veri veri teriyaki® marinade & sauce
+41		soy vayï¿½ veri veri teriyakiï¿½ marinade & sauce
 41		wasabi mayonnaise
 41		miniature semisweet chocolate pieces
 41		dark chicken stock
@@ -7677,10 +7693,10 @@
 41		low fat monterey jack cheese
 41		cucumber salad
 41		diet cola
-41		büffelmilchmozzarella
+41		bï¿½ffelmilchmozzarella
 41		dried tagliatelle
 40		jalapeno
-40		lammrückenfilets
+40		lammrï¿½ckenfilets
 40		becel keuken
 40		levain
 40		low-fat soft cheese
@@ -7697,7 +7713,7 @@
 40		unsweetened vanilla almond breeze
 40		butter salt
 40		goldschlager
-40		rehrücken
+40		rehrï¿½cken
 40		turkish delight
 40		pot barley
 40		pigeons
@@ -7710,7 +7726,7 @@
 40		sweet potatoes or yams
 40		low sodium organic chicken broth
 40		chinese eiermie
-40		würfelzuckerstück
+40		wï¿½rfelzuckerstï¿½ck
 40		kraft shredded parmesan cheese
 40		pork sausage links
 40		gartenkresse
@@ -7746,7 +7762,7 @@
 40		kraft tuscan house italian dressing
 40		zalmforel
 40		red anjou pears
-40		haselnußkrokant
+40		haselnuï¿½krokant
 40		silver beet
 40		durum wheat flour
 40		red preserved bean curd
@@ -7757,9 +7773,9 @@
 40		tafelspitz
 40		seasoningmix
 40		zante currants
-39		friseée
+39		friseï¿½e
 39		pomegranate balsamic vinegar
-39		kaffeelikör
+39		kaffeelikï¿½r
 39		bohnenkaffee
 39		rosenwasser
 39		strawberry liqueur
@@ -7821,7 +7837,7 @@
 39		low-fat strawberry yogurt
 39		romana
 39		gluten free tortillas
-39		mondamin mehlschwitze, basis für helle saucen
+39		mondamin mehlschwitze, basis fï¿½r helle saucen
 39		herb dressing
 39		risoni
 39		red vermouth
@@ -7845,14 +7861,14 @@
 38		orange pineapple juice
 38		sliptongen
 38		whipped cream stabilizer
-38		breakstone’s sour cream
+38		breakstoneï¿½s sour cream
 38		garlic and herb cheese spread
 38		sodium reduced chicken broth
 38		cornbread crumbs
 38		leftover steak
 38		mustard prepared
 38		grilled chicken strips
-38		mccormick® paprika
+38		mccormickï¿½ paprika
 38		swanson beef broth
 38		cerignola olives
 38		regular tofu
@@ -7881,7 +7897,7 @@
 38		angelica
 38		smoked provolone cheese
 38		triscuits
-38		melisseblättchen
+38		melisseblï¿½ttchen
 38		diced pickles
 38		kraft lite zesty italian dressing
 38		gluten-free corn flour
@@ -7903,7 +7919,7 @@
 37		chillipaste
 37		korean chile paste
 37		lardo
-37		kümmelsamen
+37		kï¿½mmelsamen
 37		zwiebelsuppe
 37		lumpia wrappers
 37		vacherin
@@ -7928,11 +7944,11 @@
 37		arrow root
 37		gluten free all purpose flour mix
 37		whole garam masala
-37		räucherspeck
+37		rï¿½ucherspeck
 37		croissantjes
 37		bockwurst
 37		kleefrijst
-37		roompaté
+37		roompatï¿½
 37		sorghum molasses
 37		steak rub
 37		nonfat frozen yogurt
@@ -8027,11 +8043,11 @@
 35		low-fat flour tortillas
 35		soft dinner rolls
 35		salted fish
-35		crystal farms® shredded cheddar cheese
+35		crystal farmsï¿½ shredded cheddar cheese
 35		arame
 35		coffee essence
 35		frozen sweetened raspberries
-35		knorr hühner kraftbouillon
+35		knorr hï¿½hner kraftbouillon
 35		cumberland sausage
 35		kookvocht
 35		jamaican allspice
@@ -8040,7 +8056,7 @@
 35		silk unsweetened vanilla almondmilk
 35		curcuma
 35		tomato sauce low sodium
-35		knäckebrot
+35		knï¿½ckebrot
 35		apfelgelee
 35		refrigerated fettuccine
 35		low fat spread
@@ -8072,7 +8088,7 @@
 35		venusschelpen
 35		fish bouillon cube
 35		red licorice
-35		röschen
+35		rï¿½schen
 35		carnation condensed milk
 35		progresso reduced sodium chicken broth
 35		schapenkaas
@@ -8083,7 +8099,7 @@
 35		soup pasta
 35		crispy fried onions
 35		beef boneless chuck steak
-35		sojaöl
+35		sojaï¿½l
 35		kippensoep
 35		geranium
 35		goat yogurt
@@ -8100,7 +8116,7 @@
 35		morton kosher salt
 35		planters cocktail peanuts
 35		plaice fillet
-35		frontier® sea salt
+35		frontierï¿½ sea salt
 35		pizza shells
 35		dieetmargarine
 35		quittengelee
@@ -8132,11 +8148,11 @@
 34		bone-in ribeye steak
 34		hpnotiq liqueur
 34		trockenpflaumen
-34		kräuterquark
+34		krï¿½uterquark
 34		chunk white tuna
 34		country crock spreadable sticks
-34		löffelkäse
-34		bertolli® extra virgin olive oil
+34		lï¿½ffelkï¿½se
+34		bertolliï¿½ extra virgin olive oil
 34		dried peas
 34		aalbessengelei
 34		fruit sauce
@@ -8156,7 +8172,7 @@
 34		birnensaft
 34		cinnamon syrup
 34		flavored tortilla chips
-34		hellmann's® mayonnaise dressing with olive oil
+34		hellmann'sï¿½ mayonnaise dressing with olive oil
 34		sun gold tomatoes
 34		duck egg
 34		miniature pumpkins
@@ -8172,7 +8188,7 @@
 34		brotbackmischung
 34		aloe vera juice
 34		multicolored cherry tomatoes
-34		mezzetta® pitted kalamata olives
+34		mezzettaï¿½ pitted kalamata olives
 34		25% less sodium chicken broth
 34		pocket bread
 34		cocktailworstjes
@@ -8184,7 +8200,7 @@
 34		groentesoep
 34		snowflake
 34		toasted buns
-34		sargento® chef blends™ shredded 6 cheese italian
+34		sargentoï¿½ chef blendsï¿½ shredded 6 cheese italian
 34		poultry stock
 34		olive paste
 34		veal scallopini
@@ -8212,7 +8228,7 @@
 33		pawpaw
 33		chicken stuffing mix
 33		worteljulienne
-33		würzsalz
+33		wï¿½rzsalz
 33		kartoffelpuffer
 33		cake pound prepar
 33		radish slices
@@ -8250,7 +8266,7 @@
 33		dried rigatoni
 33		cherry flavored
 33		lemon sole
-33		erdbeerkonfitüre
+33		erdbeerkonfitï¿½re
 33		zuring
 33		shiraz
 33		dried shallots
@@ -8284,14 +8300,14 @@
 33		bertolli olijfolie classico
 33		whole wheat spaghetti noodles
 33		frozen orang juic concentrate, thaw and undilut
-33		becel cuisine pflanzenölcreme
+33		becel cuisine pflanzenï¿½lcreme
 33		unsweetened kool aid powdered drink mix
 33		international delight coffee creamer
-33		mccormick® thyme leaves
+33		mccormickï¿½ thyme leaves
 33		semerrolle
 33		chunky tomatoes
 33		reduced sodium teriyaki sauce
-33		pillsbury® moist supreme® funfetti® cake mix
+33		pillsburyï¿½ moist supremeï¿½ funfettiï¿½ cake mix
 33		reduced sodium worcestershire sauce
 33		barley flakes
 33		matzo balls
@@ -8311,10 +8327,10 @@
 32		reduced fat shredded cheese
 32		salted mixed nuts
 32		pfirsichsaft
-32		fischstäbchen
+32		fischstï¿½bchen
 32		gluten free buckwheat flour
-32		fleischmann's® active dry yeast
-32		pillsbury™ crescent recipe creations® refrigerated seamless dough sheet
+32		fleischmann'sï¿½ active dry yeast
+32		pillsburyï¿½ crescent recipe creationsï¿½ refrigerated seamless dough sheet
 32		empanada wrappers
 32		knoflookolie
 32		saba
@@ -8356,7 +8372,7 @@
 32		nuoc nam
 32		zeeduivel
 32		dark miso
-32		meeresfrüchte
+32		meeresfrï¿½chte
 32		pareve margarine
 32		dark turkey meat
 32		goat milk feta
@@ -8378,10 +8394,10 @@
 32		fanta
 32		red star yeast
 32		savoiardi biscuits
-32		wurzelgemüse
+32		wurzelgemï¿½se
 32		pickled chilies
 32		praline topping
-32		reibekäse
+32		reibekï¿½se
 32		cooked cut green beans
 32		boneless beef brisket
 32		ganslschmalz
@@ -8392,9 +8408,9 @@
 32		stoli
 32		pike
 31		butterfinger candy bar
-31		lipton® cup size tea bags
+31		liptonï¿½ cup size tea bags
 31		splenda granulated
-31		green giant™ frozen chopped spinach
+31		green giantï¿½ frozen chopped spinach
 31		crusty sandwich rolls
 31		low sodium canned chicken broth
 31		golden pineapple
@@ -8410,19 +8426,19 @@
 31		light lemonade
 31		rock cornish game hens
 31		walla walla onion
-31		vollkornbrötchen
+31		vollkornbrï¿½tchen
 31		pure wesson vegetable oil
 31		country loaf
 31		white syrup
 31		coconut flavored vodka
 31		tarragon wine vinegar
 31		blattpetersilie
-31		gänsekeule
-31		streusüße
+31		gï¿½nsekeule
+31		streusï¿½ï¿½e
 31		rose hips
 31		pippin apples
 31		smarties
-31		ananasstückchen
+31		ananasstï¿½ckchen
 31		lawrys seasoning
 31		ground lemongrass
 31		game stock
@@ -8430,14 +8446,14 @@
 31		unsmoked back bacon
 31		ground elk
 31		dulce de leche ice cream
-31		glühweingewürz
+31		glï¿½hweingewï¿½rz
 31		varkensfiletrollade
 31		pepper jack slices
 31		snow crab
-31		hillshire farm lit'l smokies®
+31		hillshire farm lit'l smokiesï¿½
 31		vanillemark
-31		tabasco® chipotle pepper sauce
-31		holunderblütensirup
+31		tabascoï¿½ chipotle pepper sauce
+31		holunderblï¿½tensirup
 31		notenrijst
 31		long pepper
 31		peaches in syrup
@@ -8456,7 +8472,7 @@
 31		luster dust
 31		portuguese rolls
 31		vegan bacon
-31		chiliöl
+31		chiliï¿½l
 31		gelatin dessert
 31		fish paste
 31		raspberry lemonade
@@ -8472,7 +8488,7 @@
 31		red leicester
 31		pistou
 31		chowchow
-31		weißwürste
+31		weiï¿½wï¿½rste
 31		asian chile paste
 31		fruit yogurt
 31		umeboshi vinegar
@@ -8483,12 +8499,12 @@
 31		plain pumpkin
 31		whole grain rotini
 30		i can't believe it's not butter! made with olive oil spread
-30		kräutermischung
+30		krï¿½utermischung
 30		kardamomkapseln
 30		purple yam
 30		herz
 30		weetabix
-30		rosmarinblätter
+30		rosmarinblï¿½tter
 30		citroenpeper
 30		chipotle aioli
 30		sea trout
@@ -8497,7 +8513,7 @@
 30		dri fruit tropic
 30		soda bread
 30		gluten-free oat bran
-30		butterkäse
+30		butterkï¿½se
 30		morieljes
 30		wish-bone light italian dressing
 30		bitter orange juice
@@ -8508,13 +8524,13 @@
 30		meergranenbrood
 30		golden berry
 30		goudse
-30		quatre épices
+30		quatre ï¿½pices
 30		amandellikeur
 30		mullet
 30		low fat honey graham crackers
 30		dolcelatte
 30		shiratamako
-30		kc masterpiece® original barbecue sauce
+30		kc masterpieceï¿½ original barbecue sauce
 30		butterscotch syrup
 30		wheat free soy sauce
 30		maca root
@@ -8540,7 +8556,7 @@
 30		chai tea teabags
 30		cold seltzer
 30		orange blossom
-30		kaiserbrötchen
+30		kaiserbrï¿½tchen
 30		botje
 30		legumes
 30		apple syrup
@@ -8577,7 +8593,7 @@
 29		strawberry lemonade
 29		sahnemeerrettich
 29		ascorbic acid
-29		kalbsrückenfilet
+29		kalbsrï¿½ckenfilet
 29		callaloo
 29		low sodium instant chicken bouillon granules
 29		spice islands fine grind black pepper
@@ -8620,18 +8636,18 @@
 29		grey goose vodka
 29		roasted walnuts
 29		pizzakruiden
-29		knorr kräuterlinge zum streuen italienische kräuter
+29		knorr krï¿½uterlinge zum streuen italienische krï¿½uter
 29		honey maid honey grahams
 29		mccormick black pepper, coarse ground
 29		cured meats
 29		rice paper rounds
 29		milano cookies
-29		waffelröllchen
+29		waffelrï¿½llchen
 29		piping gel
 29		boneless beef chuck eye roast
 29		silk unsweetened coconutmilk
 29		mark
-29		gänsebrust
+29		gï¿½nsebrust
 29		vegan bouillon cubes
 29		cream ic peach
 29		vegan chicken broth
@@ -8646,7 +8662,7 @@
 29		x rated fusion liqueur
 29		tartlet shells
 29		vollmilchschokolade
-29		möhrensaft
+29		mï¿½hrensaft
 29		farfel
 29		tacoschelpen
 29		pestosaus
@@ -8655,7 +8671,7 @@
 29		instantgist
 29		kalbsbraten
 29		knorr aromat all purpose seasoning
-29		ricottakäse
+29		ricottakï¿½se
 29		burghul
 29		pineapple extract
 29		multicolored carrots
@@ -8693,7 +8709,7 @@
 28		einmachhilfe
 28		himbeersirup
 28		hominy grits
-28		knorr® beef bouillon
+28		knorrï¿½ beef bouillon
 28		skate
 28		durian
 28		mccormick pumpkin pie spice
@@ -8716,13 +8732,13 @@
 28		gravy powder
 28		fresh cod fillets
 28		klementine
-28		geflügel
+28		geflï¿½gel
 28		single malt scotch
 28		sourdough boule
-28		johnsonville® mild italian sausage
+28		johnsonvilleï¿½ mild italian sausage
 28		knoflookolijven
 28		low sodium tomato
-28		tempé
+28		tempï¿½
 28		mccormick onion powder
 28		sweet potato starch
 28		mixed field greens
@@ -8746,8 +8762,8 @@
 28		breakfast pork sausage
 28		reismehl
 28		chilibonen
-28		paprikagefüllte
-28		crème de violette
+28		paprikagefï¿½llte
+28		crï¿½me de violette
 28		cavenders all purpose greek seasoning
 28		volkorenbiscuit
 28		bonito
@@ -8802,7 +8818,7 @@
 27		rioja
 27		pasta twists
 27		watermelon balls
-27		minzlikör
+27		minzlikï¿½r
 27		goya sazon
 27		kersen zonder pit
 27		geelwortelpoeder
@@ -8816,14 +8832,14 @@
 27		asian dressing
 27		fresh angel hair
 27		rozijnenbrood
-27		sargento® artisan blends® shredded parmesan cheese
-27		laugenbrötchen
-27		mezzetta® roasted red peppers
+27		sargentoï¿½ artisan blendsï¿½ shredded parmesan cheese
+27		laugenbrï¿½tchen
+27		mezzettaï¿½ roasted red peppers
 27		flensjes
 27		unbleached pastry flour
-27		knorr salatkrönung würzige gartenkräuter
-27		knorr® beef flavored bouillon cube
-27		knorr® fiesta sides spanish rice
+27		knorr salatkrï¿½nung wï¿½rzige gartenkrï¿½uter
+27		knorrï¿½ beef flavored bouillon cube
+27		knorrï¿½ fiesta sides spanish rice
 27		pure butter piecrust
 27		turkey hot dogs
 27		fire roasted eggplant
@@ -8844,23 +8860,23 @@
 27		licorice root
 27		praline liqueur
 27		creamed spinach
-27		tafelöl
+27		tafelï¿½l
 27		cream powder
 27		galanga powder
 27		fully cooked luncheon meat
 27		roodbaarsfilets
 27		trumoo 1% lowfat chocolate milk
-27		green giant™ steamers™ frozen mixed vegetables
+27		green giantï¿½ steamersï¿½ frozen mixed vegetables
 27		mahimahi
 27		brown rice penne
 27		sliced chorizo
 27		planters dry roasted peanuts
 27		pie cherries
-27		thymianblättchen
+27		thymianblï¿½ttchen
 27		dogs
 27		peterselieblaadjes
 27		honey nut chex cereal
-27		betty crocker™ oatmeal cookie mix
+27		betty crockerï¿½ oatmeal cookie mix
 27		white tuna
 27		thai kitchen red curry paste
 27		dole pineapple slices
@@ -8877,7 +8893,7 @@
 27		snap beans
 27		boboli
 27		sojaolie
-27		hörnli
+27		hï¿½rnli
 27		dumpling skins
 27		sago pearls
 27		homemade beef broth
@@ -8894,9 +8910,9 @@
 26		entenkeule
 26		teriyaki baste and glaze
 26		scamorza
-26		dillblättchen
+26		dillblï¿½ttchen
 26		bertolli olijfolie extra vergine originale
-26		wurstbrät
+26		wurstbrï¿½t
 26		baked pita chips
 26		laospoeder
 26		tamarillos
@@ -8910,7 +8926,7 @@
 26		tagliolini
 26		gambasschwaenze
 26		hershey''s chocolate bar
-26		bacardi® mixers margarita mix
+26		bacardiï¿½ mixers margarita mix
 26		extra virgin olive oil spray
 26		vanilla wafer cookies, crush
 26		mondamin pizzateig
@@ -8926,7 +8942,7 @@
 26		knorr sauce pur bratensauce
 26		conimex gebakken uitjes
 26		sea vegetables
-26		knorr® pasta sides™ - alfredo
+26		knorrï¿½ pasta sidesï¿½ - alfredo
 26		plaice
 26		pure acai puree
 26		tyson crispy chicken strips
@@ -8974,7 +8990,7 @@
 26		cauliflower flowerets
 26		grapefruit vodka
 26		cal
-26		currysoße
+26		currysoï¿½e
 26		rabbit legs
 26		multigrain tortillas
 26		paratha
@@ -8999,8 +9015,8 @@
 26		crunchie bar
 26		mozzarella cheese low fat
 26		shrimp scampi
-26		green giant™ sliced mushrooms
-26		sahneschmelzkäse
+26		green giantï¿½ sliced mushrooms
+26		sahneschmelzkï¿½se
 26		jameson whiskey
 26		kreeftensoep
 26		beef ey roast round
@@ -9013,12 +9029,12 @@
 26		pflanzencreme
 26		shelled roasted pistachios
 25		seelachs
-25		green giant™ steamers™ niblets® frozen corn
+25		green giantï¿½ steamersï¿½ nibletsï¿½ frozen corn
 25		tuttorosso diced tomatoes
 25		sardinen
 25		white meat
 25		spectrum organic shortening
-25		flatout® foldit artisan flatbreads
+25		flatoutï¿½ foldit artisan flatbreads
 25		honingmeloen
 25		butter-flavored spray
 25		argo baking powder
@@ -9040,7 +9056,7 @@
 25		sansho
 25		passionsfrucht
 25		icing mix
-25		butternutkürbis
+25		butternutkï¿½rbis
 25		finely ground salt
 25		juniper
 25		white grapefruit juice
@@ -9075,7 +9091,7 @@
 25		chapati flour
 25		cherry puree
 25		portuguese chorizo
-25		ghirardelli® unsweetened cocoa powder
+25		ghirardelliï¿½ unsweetened cocoa powder
 25		galia melon
 25		celery powder
 25		gluten-free hoisin sauce
@@ -9106,14 +9122,14 @@
 25		low sodium gluten free soy sauce
 25		orange sprinkles
 25		betel leaves
-25		pizzakäse
+25		pizzakï¿½se
 25		shaved steak
 25		moesappels
 25		turkey fat
 25		animal fats
 25		english cheddar cheese
 25		extra
-25		ragu® chunky pasta sauce
+25		raguï¿½ chunky pasta sauce
 25		quince jelly
 25		elderflower heads
 25		lammchop
@@ -9127,7 +9143,7 @@
 25		ziegentopfen
 25		tostitos salsa
 25		sandwich steak
-25		mezzetta® marinated artichoke hearts
+25		mezzettaï¿½ marinated artichoke hearts
 25		lamslapjes
 25		raspberry fruit spread
 25		szechuan sauce
@@ -9144,7 +9160,7 @@
 24		low fat graham cracker crumbs
 24		schmorrippe
 24		lean ground chicken breast
-24		römersalatherzen
+24		rï¿½mersalatherzen
 24		stomach
 24		berry syrup
 24		cassave
@@ -9152,7 +9168,7 @@
 24		cornedbeef
 24		chinese plum sauce
 24		kalfslappen
-24		knorr kräuterlinge "frühlingskräuter"
+24		knorr krï¿½uterlinge "frï¿½hlingskrï¿½uter"
 24		bombay sapphire dry gin
 24		potato soup
 24		pickled garlic
@@ -9177,7 +9193,7 @@
 24		black sea bass
 24		turbot
 24		riblets
-24		gartenkäuter
+24		gartenkï¿½uter
 24		breast
 24		juspoeder
 24		ackee
@@ -9200,7 +9216,7 @@
 24		chocolate flavored liqueur
 24		moringa powder
 24		mini pita rounds
-24		dillblüten
+24		dillblï¿½ten
 24		non-fat strawberry yogurt
 24		ikura
 24		banana blossom
@@ -9214,7 +9230,7 @@
 24		pork cubes
 24		english breakfast tea bags
 24		jimmy dean pork sausage
-24		jalapeño jelly
+24		jalapeï¿½o jelly
 24		gluten free barbecue sauce
 24		zalmblokjes
 24		ice wine
@@ -9284,7 +9300,7 @@
 23		sloppy joe seasoning mix
 23		orchid
 23		honeycomb tripe
-23		aïoli
+23		aï¿½oli
 23		strozzapreti
 23		gluten free cornbread mix
 23		grilling sauce
@@ -9298,7 +9314,7 @@
 23		white sauce mix
 23		mini bananas
 23		reduced sugar orange marmalade
-23		knorr® chicken flavor rice sides™
+23		knorrï¿½ chicken flavor rice sidesï¿½
 23		vollkornreis
 23		gluten-free hamburger buns
 23		ossenstaartsoep
@@ -9338,7 +9354,7 @@
 23		vegetable cube
 23		gedroogde kikkererwten
 23		earth balance natural buttery spread
-23		unsweetened chestnut purée
+23		unsweetened chestnut purï¿½e
 23		hot italian pork sausage
 23		unsweetened flavored drink mix
 23		clementine sections
@@ -9348,7 +9364,7 @@
 23		shredded wheat biscuits
 23		dried cilantro leaves
 23		pear cider
-23		minirömersalate
+23		minirï¿½mersalate
 23		vegetable broth powder
 23		pork picnic shoulder
 22		heinz 57
@@ -9429,19 +9445,19 @@
 22		bulleit bourbon frontier whiskey
 22		nonfat instant powdered milk
 22		lammsattel
-22		knorr tomato al gusto kräuter
+22		knorr tomato al gusto krï¿½uter
 22		silk vanilla dairy-free yogurt alternative
 22		black bread
 22		dark treacle
 22		sweet biscuit crumbs
 22		whoopie pie
-22		perdue® perfect portions® boneless, skinless chicken breast, all natural
+22		perdueï¿½ perfect portionsï¿½ boneless, skinless chicken breast, all natural
 22		pinhead oatmeal
 22		citroenpartjes
 22		riesenbohnen
 22		jerk paste
 22		swanson vegetable broth
-22		dörrtomate
+22		dï¿½rrtomate
 22		nielsen-massey vanilla extract
 22		coarse-grain salt
 22		young leeks
@@ -9498,7 +9514,7 @@
 21		uni
 21		low sodium v8 juice
 21		deer meat
-21		breyers® chocolate ice cream
+21		breyersï¿½ chocolate ice cream
 21		turkey burgers
 21		jamaica
 21		vegetarian meatballs
@@ -9534,7 +9550,7 @@
 21		whole grain wraps
 21		manicotti pasta
 21		conimex mihoen
-21		kartoffelklösse
+21		kartoffelklï¿½sse
 21		apple compote
 21		low-fat refried beans
 21		low sodium salt
@@ -9553,7 +9569,7 @@
 21		ricotta cheese low-fat
 21		baking caramels
 21		brick cheese
-21		bertolli olivenöl extra vergine gentile
+21		bertolli olivenï¿½l extra vergine gentile
 21		karashi
 21		foster farms chicken breast halves
 21		parmagiano reggiano
@@ -9579,17 +9595,17 @@
 21		sugarcane
 21		salt free herb seasoning
 21		walnut liqueur
-21		weintraubenkernöl
+21		weintraubenkernï¿½l
 21		kale chips
 21		roosmarijnblaadjes
-21		skippy® super chunk® peanut butter
+21		skippyï¿½ super chunkï¿½ peanut butter
 21		frozen basil
 21		pineapple chunks in natural juice
 21		opal basil
 21		strawberry sorbet
 21		mccormick garlic
 21		sesame seed paste
-21		löwenzahn
+21		lï¿½wenzahn
 21		spinach and artichoke dip
 21		whole wheat penne rigate
 21		frozen crabmeat, thaw and drain
@@ -9605,7 +9621,7 @@
 21		fruit loops
 21		hollerbeeren
 21		smoked mackerel fillets
-21		fruit roll-ups™
+21		fruit roll-upsï¿½
 21		bread and butter pickle slices
 21		mature cheese
 21		malbec
@@ -9650,7 +9666,7 @@
 20		mo hanh
 20		zwaardvissteaks
 20		spring lettuce mix
-20		jennie-o® lean ground turkey
+20		jennie-oï¿½ lean ground turkey
 20		ribstuk
 20		pasta tubes
 20		pasteten
@@ -9669,7 +9685,7 @@
 20		tomatenmix
 20		hass
 20		hartzwezerik
-20		pfirsichlikör
+20		pfirsichlikï¿½r
 20		rodelle pure vanilla extract
 20		cubed turkey
 20		whole dill pickles
@@ -9726,19 +9742,19 @@
 20		vegeta seasoning
 20		china grass
 20		amba
-20		bacardi® mixers strawberry daiquiri mix
+20		bacardiï¿½ mixers strawberry daiquiri mix
 20		tiefseekrabbenfleisch
 20		chinese leaves
 20		low sodium cream of chicken soup
 20		boned lamb shoulder
-20		monk fruit in the raw®
-20		horapablätter
+20		monk fruit in the rawï¿½
+20		horapablï¿½tter
 20		life cereal
 20		rustic rub
 20		apple jam
 20		morningstar farms veggie crumbles
 20		fisher pecans
-20		mezzetta® italian extra virgin olive oil
+20		mezzettaï¿½ italian extra virgin olive oil
 20		runderrollade
 20		first cut
 20		reduced sodium vegetable stock
@@ -9811,10 +9827,10 @@
 19		dairy creamer
 19		pot stickers
 19		cipollini
-19		sargento® whole milk ricotta cheese
+19		sargentoï¿½ whole milk ricotta cheese
 19		maille dijon mustard
-19		weinblätter
-19		pökelsalz
+19		weinblï¿½tter
+19		pï¿½kelsalz
 19		mead
 19		boneless turkey breast halves
 19		cajun rub
@@ -9840,14 +9856,14 @@
 19		banana flavor instant pudding
 19		knox
 19		soy mayonnaise
-19		hühnerschnitzel
+19		hï¿½hnerschnitzel
 19		banana squash
 19		chapatti flour
 19		rolled barley
 19		popcorn chicken
 19		karamelsaus
 19		bottled balsamic vinaigrette
-19		sweet piquanté peppers
+19		sweet piquantï¿½ peppers
 19		pepperidge farm puff pastry cups
 19		thin sticks
 19		wild asparagus
@@ -9859,11 +9875,11 @@
 19		guinea hens
 19		lamb breast
 19		wijnbladeren
-19		dark crème de cacao
+19		dark crï¿½me de cacao
 19		uncle ben's original converted brand rice
 19		purple asparagus
-19		comté
-19		girosgewürz
+19		comtï¿½
+19		girosgewï¿½rz
 19		umeboshi paste
 19		pennette
 19		loose leaf black tea
@@ -9883,11 +9899,11 @@
 19		lemon butter sauce
 19		roasted asparagus
 19		gort
-19		maïskolven
+19		maï¿½skolven
 19		rama culinesse
 19		kippers
 19		reh
-19		trüffelöl
+19		trï¿½ffelï¿½l
 19		silberperlen
 19		yellow chives
 19		gormas
@@ -9952,7 +9968,7 @@
 18		long green chiles
 18		italian rice
 18		liver sausage
-18		hidden valley® original ranch® light dressing
+18		hidden valleyï¿½ original ranchï¿½ light dressing
 18		lamb backstraps
 18		herdez salsa casera
 18		regular cucumber
@@ -9961,8 +9977,8 @@
 18		rehschlegel
 18		jiffy baking mix
 18		black bass
-18		breyers™ caramel flavored ice cream sauce
-18		bertolli olivenöl extra vergine - originale
+18		breyersï¿½ caramel flavored ice cream sauce
+18		bertolli olivenï¿½l extra vergine - originale
 18		low fat cream of celery soup
 18		refrigerated flaky buttermilk biscuits
 18		boterbonen
@@ -9988,7 +10004,7 @@
 18		plain seltzer
 18		whole wheat graham flour
 18		irish oats
-18		breyers™ hot fudge ice cream sauce
+18		breyersï¿½ hot fudge ice cream sauce
 18		loganberries
 18		berglinsen
 18		pink lentil
@@ -10054,7 +10070,7 @@
 18		masa dough
 18		kosher wine
 18		marasquin
-18		trüffelbutter
+18		trï¿½ffelbutter
 18		verbena
 18		manioc flour
 18		mccormick nutmeg, ground
@@ -10062,8 +10078,8 @@
 18		chop coriand or parslei
 18		skinless chicken fillets
 18		choi
-18		onion purée
-18		gewürztraminer
+18		onion purï¿½e
+18		gewï¿½rztraminer
 18		chicharron
 18		kataifi
 18		kiprollade
@@ -10092,7 +10108,7 @@
 18		rich turkey stock
 18		dark chocolate couverture
 18		whipped frosting
-18		knorr® fiesta sides™ - mexican rice
+18		knorrï¿½ fiesta sidesï¿½ - mexican rice
 18		yufkateig
 18		speculaas spice mix
 18		low-fat silken tofu
@@ -10112,7 +10128,7 @@
 18		afbakbroodjes
 18		tarwe
 18		mellow miso
-18		mezzetta® sun dried tomatoes
+18		mezzettaï¿½ sun dried tomatoes
 18		college inn chicken broth
 18		calendula flowers
 18		knorr homestyl stock   beef
@@ -10122,7 +10138,7 @@
 17		everclear grain alcohol
 17		baby yellow beet
 17		sweet hawaiian rolls
-17		bockwürstchen
+17		bockwï¿½rstchen
 17		chocolate covered cherries
 17		chocolate covered english toffee
 17		sweet dumpling squash
@@ -10136,9 +10152,9 @@
 17		frozen popcorn chicken
 17		crepe batter
 17		thin rice stick noodles
-17		knödel halb und halb
+17		knï¿½del halb und halb
 17		(    oz.) tomato sauce
-17		bacardi® mixers piña colada mix
+17		bacardiï¿½ mixers piï¿½a colada mix
 17		beschuitkruim
 17		espressopoeder
 17		2% low fat american cheese
@@ -10153,7 +10169,7 @@
 17		kim chee
 17		cooked rigatoni
 17		irish soda bread
-17		knorr® pasta sides™ - chicken flavor
+17		knorrï¿½ pasta sidesï¿½ - chicken flavor
 17		leerdammer
 17		strawberry coulis
 17		pistachio slivers
@@ -10166,8 +10182,8 @@
 17		flanksteak
 17		oliebollenmix
 17		black decorating icing
-17		flatout® flatbread artisan thin pizza crusts
-17		mccormick® cinnamon
+17		flatoutï¿½ flatbread artisan thin pizza crusts
+17		mccormickï¿½ cinnamon
 17		ciabattabroodjes
 17		long green
 17		farce
@@ -10189,7 +10205,7 @@
 17		meat marinade
 17		swans down cake flour
 17		avocado meat
-17		knorr kaiser teller zwiebel suppe "französische art"
+17		knorr kaiser teller zwiebel suppe "franzï¿½sische art"
 17		komatsuna
 17		dried cuttlefish
 17		high gluten bread flour
@@ -10205,7 +10221,7 @@
 17		madeleine
 17		party rolls
 17		dry lasagna
-17		schokoküsse
+17		schokokï¿½sse
 17		lamsniertjes
 17		reduced sodium bacon
 17		diamond of california pecan halves
@@ -10214,7 +10230,7 @@
 17		passover wine
 17		pork roll
 17		wagon wheels
-17		schnittkäse
+17		schnittkï¿½se
 17		wachsbohnen
 17		kraft mexican style 2% milk finely shredded four cheese
 17		zitronenaroma
@@ -10250,10 +10266,10 @@
 17		daisy cottage cheese
 17		akazienhonig
 17		diamond of california walnuts
-17		jennie-o® extra lean ground turkey breast
+17		jennie-oï¿½ extra lean ground turkey breast
 17		vissticks
 17		spectrum shortening
-17		bertolli brotaufstrich mit mildem olivenöl
+17		bertolli brotaufstrich mit mildem olivenï¿½l
 17		crown royal whiskey
 17		herbal liqueur
 17		del monte green beans
@@ -10279,13 +10295,13 @@
 17		sierra mist
 17		domino granulated sugar
 17		organic salted butter
-17		bacardi® superior rum
+17		bacardiï¿½ superior rum
 17		pale lager
 17		mischpilze
 17		baker's german's sweet chocolate baking bar
 17		smeltkaas
 17		kardemomzaad
-17		bertolli olivenöl extra vergine - robusto
+17		bertolli olivenï¿½l extra vergine - robusto
 17		dinkelvollkornmehl
 17		bonensaus
 17		gingerbread men
@@ -10315,7 +10331,7 @@
 16		lean chuck roast
 16		asian style dressing
 16		slivovitz
-16		knorr helle soße
+16		knorr helle soï¿½e
 16		barbecuesauce
 16		quick bread mix
 16		lemon pesto
@@ -10327,7 +10343,7 @@
 16		red string licorice
 16		quaker cruesli
 16		kerbelkraut
-16		bacardi® limón
+16		bacardiï¿½ limï¿½n
 16		yakisoba sauce
 16		bessenjenever
 16		plum brandy
@@ -10338,11 +10354,11 @@
 16		apricot pits
 16		and cook drain pasta ziti
 16		knorr cilantro minicub
-16		zwiebelgrün
+16		zwiebelgrï¿½n
 16		bean thread vermicelli
 16		wish-bone light asian sesame ginger vinaigrette dressing
 16		yogurt covered pretzels
-16		wish-bone® robusto italian dressing
+16		wish-boneï¿½ robusto italian dressing
 16		kettle potato chips
 16		bhaji
 16		lime marmalade
@@ -10354,7 +10370,7 @@
 16		meringue shells
 16		feijoa
 16		turkey breast steaks
-16		chinagewürz
+16		chinagewï¿½rz
 16		granular sucrolose sweetener
 16		whole sea bass
 16		sojajoghurt
@@ -10386,7 +10402,7 @@
 16		regular chicken broth
 16		filippo berio extra virgin olive oil
 16		fine ground peanut unsalt
-16		mezzetta deli-sliced hot jalapeño pepper rings
+16		mezzetta deli-sliced hot jalapeï¿½o pepper rings
 16		onion bagels
 16		sugar free gelatin
 16		brown rum
@@ -10476,7 +10492,7 @@
 16		papaya nectar
 16		pimenton de la vera
 16		eiswaffeln
-16		steakgewürz
+16		steakgewï¿½rz
 16		domino light brown sugar
 15		vanilleextract
 15		vanilla pastry cream
@@ -10504,16 +10520,16 @@
 15		chinese rose wine
 15		prego italian sauce
 15		mandarijnensap
-15		frühlingsrollenteigblätter
+15		frï¿½hlingsrollenteigblï¿½tter
 15		simply potatoes diced potatoes with onion
 15		babyspinat
 15		preiringen
 15		veal sweetbreads
-15		mazola® chicken flavor bouillon powder
+15		mazolaï¿½ chicken flavor bouillon powder
 15		fruit leather
 15		gluten-free cereal
 15		mccormick taco seasoning
-15		bacardi® gold rum
+15		bacardiï¿½ gold rum
 15		old el paso taco sauce
 15		tomatenscheiben
 15		edamer
@@ -10553,14 +10569,14 @@
 15		dry roasted soybeans
 15		mixed berry jam
 15		taube
-15		dörraprikose
+15		dï¿½rraprikose
 15		extra light mayonnaise
 15		konbu dashi
 15		country time  lemonade
 15		kokosnuss
 15		arak
-15		knorr fix für tomaten bolognese
-15		knorr fix für hackbraten
+15		knorr fix fï¿½r tomaten bolognese
+15		knorr fix fï¿½r hackbraten
 15		coarsely ground salt
 15		oat bran cereal
 15		freeze dried parsley
@@ -10569,7 +10585,7 @@
 15		knorr bitte zu tisch! spargelcreme suppe
 15		fresh chickpeas
 15		citroenmayonaise
-15		suikermaïs
+15		suikermaï¿½s
 15		knoflookmayonaise
 15		fresh masa
 15		asian slaw
@@ -10615,11 +10631,11 @@
 15		brummel & brown simpli strawberri creami fruit spread
 15		pepperidge farm cornbread stuffing
 15		small green chile
-15		speisewürze
+15		speisewï¿½rze
 15		hearts
 15		seezunge
 15		smoked cod
-15		becel pro.activ diät-halbfettmargarine
+15		becel pro.activ diï¿½t-halbfettmargarine
 15		green onion bottoms
 15		scone mix
 15		isomalt
@@ -10635,7 +10651,7 @@
 15		halbfettmargarine
 15		pork bouillon cube
 15		blattgold
-15		hühnerei
+15		hï¿½hnerei
 15		pearl tomatoes
 15		wholemeal wraps
 15		reduced fat vanilla ice cream
@@ -10647,7 +10663,7 @@
 15		gumbo
 15		glutenfre rice
 15		cashel blue cheese
-15		i can't believe it's not butter!® light spread
+15		i can't believe it's not butter!ï¿½ light spread
 15		lily flowers
 15		low-fat graham cracker crust
 15		pistachio meal
@@ -10700,10 +10716,10 @@
 14		waffle cookies
 14		knorr parma rosa sauc mix
 14		ngo gai
-14		pfanni teig für klöße aus gekochten kartoffeln
+14		pfanni teig fï¿½r klï¿½ï¿½e aus gekochten kartoffeln
 14		nonfat lemon yogurt
 14		bragg apple cider vinegar
-14		knorr soße zu geflügel
+14		knorr soï¿½e zu geflï¿½gel
 14		conimex ketjap marinade
 14		seeded rolls
 14		small-curd low-fat cottage cheese
@@ -10731,7 +10747,7 @@
 14		irish bacon
 14		dumpling dough
 14		hopscheuten
-14		crêpes
+14		crï¿½pes
 14		devil's food
 14		thin linguine
 14		low fat alfredo sauce
@@ -10750,13 +10766,13 @@
 14		tip roast
 14		blue moon beer
 14		alkohol
-14		country crock® simply delicious
+14		country crockï¿½ simply delicious
 14		mimolette cheese
 14		creme de mure
 14		korean rice cakes
 14		cream of rice
 14		cracker crusts
-14		plum purée
+14		plum purï¿½e
 14		arrak
 14		new mexico red chile
 14		ananasringen
@@ -10769,7 +10785,7 @@
 14		putenmedaillons
 14		creole style seasoning
 14		lapsang souchong
-14		zitronenöl
+14		zitronenï¿½l
 14		low sodium crushed tomatoes
 14		low sodium chicken bouillon cubes
 14		all purpose gluten free bread mix
@@ -10789,7 +10805,7 @@
 14		citroenzuur
 14		colman's mustard powder
 14		brill fillets
-14		rosenblütenblätter
+14		rosenblï¿½tenblï¿½tter
 14		chicken pan drippings
 14		lychee syrup
 14		canada dry sparkling seltzer water
@@ -10810,7 +10826,7 @@
 14		yeast dough
 14		orange roughy fillet
 14		fruit loops cereal
-14		jägermeister
+14		jï¿½germeister
 14		orange puree
 14		veal roast
 14		green ginger
@@ -10850,7 +10866,7 @@
 14		gemberjam
 14		venusmuscheln
 14		pork heart
-14		spinatblätter
+14		spinatblï¿½tter
 14		frozen garlic bread
 14		snack mix
 14		au jus gravy
@@ -10861,7 +10877,7 @@
 14		shado beni
 14		sucralose sweetener
 14		lemon mayonnaise
-14		johnsonville® mild italian ground sausage
+14		johnsonvilleï¿½ mild italian ground sausage
 14		pepperocini
 14		brown bean sauce
 14		stuffed peppers
@@ -10893,10 +10909,10 @@
 13		tomatenconcentraat
 13		spiral pasta, cook and drain
 13		date molasses
-13		gemüsesaft
+13		gemï¿½sesaft
 13		yellowfin tuna steaks
 13		kraft shredded mild cheddar cheese
-13		half fat crème fraiche
+13		half fat crï¿½me fraiche
 13		shoulder pot roast
 13		eggnog glaze
 13		curry mix
@@ -10938,7 +10954,7 @@
 13		dill blossoms
 13		thomas english muffins
 13		boerensoepgroente
-13		stacy's fire roasted jalapeño pita chips
+13		stacy's fire roasted jalapeï¿½o pita chips
 13		horizon organic butter
 13		glace de poulet
 13		whole wheat shell pasta
@@ -10948,7 +10964,7 @@
 13		tiramisu
 13		godiva liqueur
 13		diepvriestuinbonen
-13		knoblauchöl
+13		knoblauchï¿½l
 13		glucosestroop
 13		val
 13		virginia baked ham
@@ -10958,7 +10974,7 @@
 13		boursin cheese with garlic and herbs
 13		smoked cooked ham
 13		chestnut spread
-13		fischbrühe
+13		fischbrï¿½he
 13		yufka
 13		belgian ale
 13		tur dal
@@ -11001,7 +11017,7 @@
 13		belgian waffle mix
 13		chinese cinnamon
 13		ananasjam
-13		knorr salatkrönung cremig joghurt-kräuter
+13		knorr salatkrï¿½nung cremig joghurt-krï¿½uter
 13		crusty italian rolls
 13		best food's mayonnaise with lime juice
 13		chicken seasoning mix
@@ -11018,13 +11034,13 @@
 13		coffee rub
 13		kraft mozzarella cheese
 13		steak-ums
-13		crystal farms® shredded mozzarella cheese
+13		crystal farmsï¿½ shredded mozzarella cheese
 13		flowering chives
 13		sugar cane juice
 13		jasmine green tea
 13		kerrygold aged cheddar cheese
-13		bertolli® arrabbiata sauce
-13		gummibärchen
+13		bertolliï¿½ arrabbiata sauce
+13		gummibï¿½rchen
 13		boneless cod fillets
 13		wish bone raspberri hazelnut vinaigrett dress
 13		triple cream cheese
@@ -11043,7 +11059,7 @@
 13		english-cut short ribs
 13		bud light lager
 13		bran muffin mix
-13		bertolli® extra light in taste olive oil
+13		bertolliï¿½ extra light in taste olive oil
 13		lamsstoofvlees
 13		lifeway kefir
 13		ragu traditional sauce
@@ -11056,19 +11072,19 @@
 13		red horseradish
 13		refrigerated four cheese ravioli
 13		promis spread stick
-13		manchegokäse
+13		manchegokï¿½se
 13		licorice strings
 13		long-grain and wild rice blend
 13		progresso artichoke hearts
 13		long green onions
-13		reduced fat crème fraîche
+13		reduced fat crï¿½me fraï¿½che
 13		prickly pear syrup
 13		noodle soup
 13		pea beans
 13		nusskernmischung
 13		nachos
 13		lilac
-13		nussöl
+13		nussï¿½l
 13		parelhoenfilets
 13		pizzasaus
 13		preiselbeersaft
@@ -11087,7 +11103,7 @@
 13		lean braising steak
 13		molasses cookies
 13		low fat curd
-13		mezzetta deli-sliced tamed jalapeño peppers
+13		mezzetta deli-sliced tamed jalapeï¿½o peppers
 13		shake n bake extra crispy seasoned coating mix
 13		picholine
 13		shake 'n bake seasoned panko coating mix
@@ -11104,7 +11120,7 @@
 13		melted fat
 13		roastbeefaufschnitt
 13		nori paper
-13		leinöl
+13		leinï¿½l
 13		ragu cheesy roasted garlic parmesan sauce
 13		reese's puffs cereal
 13		mini ravioli
@@ -11115,11 +11131,11 @@
 13		low sodium beef bouillon cube
 13		reduced fat american cheese
 13		montrachet
-13		lipton® iced tea brew family size tea bags
+13		liptonï¿½ iced tea brew family size tea bags
 13		myzithra
 13		nut spread
 13		minute maid lemonade
-13		sabra® guacamole
+13		sabraï¿½ guacamole
 13		mix recipe vegetable
 13		safflower mayonnaise
 13		mccormick red pepper, crushed
@@ -11129,8 +11145,8 @@
 13		rockfish fillets
 13		ramen noodle soup
 13		reduced fat alfredo sauce
-13		mccormick® chili seasoning mix
-12		hühnerstücke
+13		mccormickï¿½ chili seasoning mix
+12		hï¿½hnerstï¿½cke
 12		louisiana cajun seasoning
 12		enjoy life semi-sweet chocolate chips
 12		edammer
@@ -11201,7 +11217,7 @@
 12		frontier vanilla extract
 12		christmas lima beans
 12		grasshopper cookies
-12		wildblütenhonig
+12		wildblï¿½tenhonig
 12		rhodes white dinner rolls
 12		nelkenpfeffer
 12		queso para freir
@@ -11213,24 +11229,24 @@
 12		chinese black bean
 12		ciroc
 12		corn chowder
-12		knorr salatkrönung 7-kräuter
-12		knorr salatkrönung balsamico-kräuter
+12		knorr salatkrï¿½nung 7-krï¿½uter
+12		knorr salatkrï¿½nung balsamico-krï¿½uter
 12		condensed new england clam chowder
-12		knorr salatkrönung paprika-kräuter
+12		knorr salatkrï¿½nung paprika-krï¿½uter
 12		jasmine tea leaves
-12		hellmann’s® or best foods® creamy balsamic mayonnaise dressing
+12		hellmannï¿½sï¿½ or best foodsï¿½ creamy balsamic mayonnaise dressing
 12		banh pho rice noodles
 12		lipton white tea with island mango & peach flavor pyramid tea bag
 12		snoekbaarsfilets
 12		ox tongue
-12		rollmöpse
+12		rollmï¿½pse
 12		treacle syrup
 12		fine grind white cornmeal
 12		deli turkey breast slices
 12		neck of lamb
 12		low-fat yogurt beaten
 12		soft-shelled crabs
-12		ziegenweichkäse
+12		ziegenweichkï¿½se
 12		chocoladelikeur
 12		enchilada seasoning
 12		tamarindenpaste
@@ -11243,7 +11259,7 @@
 12		weizenschrot
 12		mccormick ground black pepper
 12		hazentournedootjes
-12		kartoffelbällchen
+12		kartoffelbï¿½llchen
 12		kashk
 12		studentenfutter
 12		blueberry extract
@@ -11297,7 +11313,7 @@
 12		beaver
 12		pork drippings
 12		crusty sub rolls
-12		soy vay® toasted sesame dressing & marinade
+12		soy vayï¿½ toasted sesame dressing & marinade
 12		low-fat peach yogurt
 12		imitation vanilla flavoring
 12		schellfischfilets
@@ -11321,7 +11337,7 @@
 12		low-fat ham
 12		conimex boemboe nasi goreng
 12		yellowtail snapper fillets
-12		vollmilchkuvertüre
+12		vollmilchkuvertï¿½re
 12		asian chili red sauc
 12		divine dark chocolate
 12		pizza dough mix
@@ -11365,7 +11381,7 @@
 12		bertolli pesto verde
 12		zwitserse kaas
 12		stir fry seasoning
-12		chicken liver pâté
+12		chicken liver pï¿½tï¿½
 12		country style italian bread
 12		granaatappelsap
 12		branzino fillets
@@ -11376,7 +11392,7 @@
 12		reduced sodium cream of chicken soup
 12		earth balance whipped spread
 12		breast of lamb
-12		agave in the raw®
+12		agave in the rawï¿½
 12		belgian pearl sugar
 12		venison sausage
 12		low sodium cannellini beans
@@ -11390,7 +11406,7 @@
 12		zunge
 12		pfannkuchen
 12		spicy refried beans
-12		satémarinade
+12		satï¿½marinade
 12		tunfischfilet
 11		cross rib roast
 11		baby sweet potatoes
@@ -11421,14 +11437,14 @@
 11		kalamata olive oil
 11		mondamin hefe-obstkuchenteig
 11		vietnamese rice paper
-11		schälerbsen
+11		schï¿½lerbsen
 11		cocktailobst
 11		shrimp cocktail
 11		whitefish caviar
 11		smoked beef
 11		lean lamb fillets
 11		low-fat brownie mix
-11		knorr salatkrönung dill-kräuter
+11		knorr salatkrï¿½nung dill-krï¿½uter
 11		dark oriental sesame oil
 11		ruby chard
 11		tarwevlokken
@@ -11441,7 +11457,7 @@
 11		kalbsschulter
 11		lamsboutlapjes
 11		couscous mix
-11		mondamin mehlschwitze, basis für dunkle saucen
+11		mondamin mehlschwitze, basis fï¿½r dunkle saucen
 11		activ dry quick rise yeast
 11		rookaroma
 11		gurkensalat
@@ -11467,13 +11483,13 @@
 11		fat free salad dressing
 11		cream substitute
 11		red meat
-11		knorr fix für spaghetti bolognese
+11		knorr fix fï¿½r spaghetti bolognese
 11		rice pilaf mix
 11		pretzel crackers
 11		clam chowder
 11		crushed pineapple in heavy syrup
 11		claussen sauerkraut
-11		knorr fix für rahm-champignons
+11		knorr fix fï¿½r rahm-champignons
 11		ridge cut potato chips
 11		gluten free beef stock
 11		tortellini, cook and drain
@@ -11491,7 +11507,7 @@
 11		pure grain alcohol
 11		recipe crumbles
 11		fat free sugar free instant pudding mix
-11		mission® gluten free tortillas
+11		missionï¿½ gluten free tortillas
 11		gemberbier
 11		ice cream salt
 11		instant decaffeinated coffee
@@ -11509,7 +11525,7 @@
 11		snickers candy
 11		low-fat coffee ice cream
 11		pointed cabbage
-11		zatarain’s jambalaya mix
+11		zatarainï¿½s jambalaya mix
 11		soy cream cheese
 11		low fat chocolate milk
 11		putenfilets
@@ -11520,7 +11536,7 @@
 11		low-fat goat cheese
 11		pan gravy
 11		tandooripasta
-11		cocktailwürstchen
+11		cocktailwï¿½rstchen
 11		kudzu
 11		gold dust
 11		whole wheat pancake mix
@@ -11534,14 +11550,14 @@
 11		chopin vodka
 11		porgy
 11		mosterdkaas
-11		kräuterschmelzkäse
+11		krï¿½uterschmelzkï¿½se
 11		aspic
 11		refrigerated cornbread twists dough
 11		chunky medium salsa
 11		long sandwich rolls
 11		unsweetened green tea
 11		chinese leaf
-11		knorr salatkrönung zwiebel-kräuter
+11		knorr salatkrï¿½nung zwiebel-krï¿½uter
 11		mezzetta deli-sliced roasted red peppers
 11		sturgeon caviar
 11		carbonarasaus
@@ -11552,7 +11568,7 @@
 11		vegetable bouillon granules
 11		king crab
 11		wilton icing
-11		bärlauchblättter
+11		bï¿½rlauchblï¿½ttter
 11		mccormick sage, rubbed
 11		meerrettichwurzel
 11		sesame salt
@@ -11572,7 +11588,7 @@
 11		pasteurized egg substitute
 11		lipton green tea with mandarin orange flavor pyramid tea bag
 11		rapid rise active dry yeast
-11		curryblätter
+11		curryblï¿½tter
 11		currygewurz
 11		tarragon mustard
 11		gierst
@@ -11641,7 +11657,7 @@
 11		pork spice rub
 11		conimex geraspte kokos
 11		beef seasoning
-11		mccormick® perfect pinch® lemon & pepper seasoning
+11		mccormickï¿½ perfect pinchï¿½ lemon & pepper seasoning
 11		veal tongue
 11		sweet pastry case
 11		green coconut
@@ -11650,7 +11666,7 @@
 11		backkartoffel
 11		lap cheong
 11		lambrusco wine
-11		zucchiniblüte
+11		zucchiniblï¿½te
 11		texmati rice
 11		pimento stuffed spanish olives
 11		honeybells
@@ -11711,7 +11727,7 @@
 10		vruchtenhagel
 10		kinchay
 10		papaya juice
-10		oreganoblätter
+10		oreganoblï¿½tter
 10		breaded chicken breasts
 10		conimex woksaus knoflook koriander
 10		bijol
@@ -11723,11 +11739,11 @@
 10		cavaillon melon
 10		mee
 10		zwetschgenwasser
-10		kreuzkümmelsamen
+10		kreuzkï¿½mmelsamen
 10		ricottakaas
 10		gluten free sandwich bread
 10		levain bread
-10		gurkengewürz
+10		gurkengewï¿½rz
 10		crystal farms shredded gouda cheese
 10		habanero cheese
 10		meervalfilet
@@ -11743,18 +11759,18 @@
 10		canned crab
 10		skate wing fillets
 10		jowar flour
-10		parmesanspäne
+10		parmesanspï¿½ne
 10		low-fat american cheese
 10		pitted spanish olives
-10		johnsonville® original breakfast sausage
+10		johnsonvilleï¿½ original breakfast sausage
 10		hefeweizen beer
 10		tarbot
-10		frontier® organic ground nutmeg
+10		frontierï¿½ organic ground nutmeg
 10		orange blossom extract
 10		ginger brandy
 10		diet 7up
 10		sable
-10		frontier® organic garlic powder
+10		frontierï¿½ organic garlic powder
 10		sabra supremely spicy hummus
 10		veal steak
 10		heinz worcestershire sauce
@@ -11762,24 +11778,24 @@
 10		fajita meat
 10		drumsticks
 10		pecan flavoring
-10		bacardi® select rum
+10		bacardiï¿½ select rum
 10		smoked back bacon
-10		bacardi® superior
+10		bacardiï¿½ superior
 10		reduced fat goat cheese
 10		chips ahoy! chocolate chip cookies
 10		ono
-10		taco bell® thick & chunky medium salsa
+10		taco bellï¿½ thick & chunky medium salsa
 10		tonic syrup
 10		33% less sodium smoked fully cooked ham half
 10		heringsfilets
 10		skyy vodka
 10		cupcake icing
 10		chocolate yogurt
-10		carnation® evaporated fat free milk
+10		carnationï¿½ evaporated fat free milk
 10		sugar free marinara sauce
 10		tomato cream sauce
 10		su
-10		breyers® homemade vanilla ice cream
+10		breyersï¿½ homemade vanilla ice cream
 10		condensed cream of asparagus soup
 10		walnusseiskrem
 10		jamaican jerk marinade
@@ -11796,7 +11812,7 @@
 10		black bean spread
 10		jambalaya rice mix
 10		seeaal
-10		tomatenstücke
+10		tomatenstï¿½cke
 10		jell-o vanilla flavor fat free sugar free instant reduced calorie pudding & pie filling
 10		banana nut crunch cereal
 10		mussel meat
@@ -11808,7 +11824,7 @@
 10		cut up ham
 10		rock candy syrup
 10		walnotenhelften
-10		schokoplätzchen
+10		schokoplï¿½tzchen
 10		reduced sugar strawberry jam
 10		reduced sugar raspberry jam
 10		nonfat mozzarella cheese
@@ -11828,7 +11844,7 @@
 10		yellow icing
 10		ore-ida hash browns
 10		hertog romig slagroomijs
-10		tate + lyle® organic pure cane sugar
+10		tate + lyleï¿½ organic pure cane sugar
 10		fresh butter beans
 10		cubed salami
 10		kangaroo fillets
@@ -11860,7 +11876,7 @@
 10		hare
 10		israeli pickle
 10		maple icing
-10		bündnerfleisch
+10		bï¿½ndnerfleisch
 10		wheat ale
 10		cloud ear fungus
 10		mandelsirup
@@ -11874,13 +11890,13 @@
 10		pastakaas
 10		selchkarree
 10		weizentortillas
-10		paranüsse
-10		perlhühner
+10		paranï¿½sse
+10		perlhï¿½hner
 10		mugwort
 10		vegetarian bouillon
 10		nonfat dried milk
 10		kalkoenreepjes
-10		prepared crêpes
+10		prepared crï¿½pes
 10		melba rounds
 10		frozen corn-on-the-cob
 10		baby pattypan squash
@@ -11898,11 +11914,11 @@
 10		ancho puree
 10		store bought low sodium vegetable stock
 10		mexican lager beer
-10		knorr kräuterlinge zum streuen gartenkräuter
+10		knorr krï¿½uterlinge zum streuen gartenkrï¿½uter
 10		low-fat vanilla soy milk
 10		knorr leek recip mix
 10		veal medallions
-10		wirsingblätter
+10		wirsingblï¿½tter
 10		dried allspice berries
 10		beef leg bones
 10		hungry jack original syrup
@@ -11913,7 +11929,7 @@
 10		unsalted hazelnuts
 10		knorr rinds bouillon
 10		boniato
-10		green giant™ frozen cut green beans
+10		green giantï¿½ frozen cut green beans
 10		stonefire tandoori garlic naan
 10		cactus pears
 10		morton salt
@@ -11927,7 +11943,7 @@
 10		whole wheat croutons
 10		reindeer
 10		steelhead trout
-10		knorr braten soße extra
+10		knorr braten soï¿½e extra
 10		white asparagus spears
 10		saki
 10		non-fat frozen whipped topping
@@ -11936,7 +11952,7 @@
 10		pureed prunes
 10		nestle crunch buncha crunch
 10		runderschnitzels
-10		knorr fix für kartoffel gratin
+10		knorr fix fï¿½r kartoffel gratin
 10		snapper
 10		peanut butter filled chocolate chips
 10		tuttifrutti
@@ -11955,12 +11971,12 @@
 10		fine vermicelli
 10		knorr basis wild- und rindsbraten
 10		hot dog potato buns
-10		wildgewürz
+10		wildgewï¿½rz
 10		satsuma orange
 10		pompoenblokjes
 10		rotbarbe
 10		saffron road vegetable broth
-10		brokkoliröschen
+10		brokkolirï¿½schen
 10		shank end
 10		pompeian grapeseed oil
 10		koekkruimels
@@ -11977,7 +11993,7 @@
 10		fudge syrup
 10		horse gram
 10		dreamfields linguine
-10		mezzetta® crushed garlic
+10		mezzettaï¿½ crushed garlic
 10		chocolate coconut milk
 10		aka miso
 10		kookwijn
@@ -11985,7 +12001,7 @@
 10		chicken broth low fat
 10		cherry vanilla ice cream
 10		oscar mayer carving board oven roasted turkey breast
-10		marrons glacés
+10		marrons glacï¿½s
 10		venison medallions
 10		sweet miso
 10		krabbenvlees
@@ -11997,7 +12013,7 @@
 10		white currant
 10		boskop
 10		white decorating gel
-10		mezzetta® italian plum tomato marinara sauce
+10		mezzettaï¿½ italian plum tomato marinara sauce
 10		planters peanut butter
 10		zigeuner sauce
 10		pfefferminzsirup
@@ -12016,12 +12032,12 @@
 10		broken vermicelli
 10		knorr beef stock pots
 10		cabrales
-10		mondamin saucenbinder für gemüse
+10		mondamin saucenbinder fï¿½r gemï¿½se
 10		whole wheat flat bread
 10		whole wheat graham cracker
 10		pumpernickel rounds
 10		apple jack
-10		apéritif
+10		apï¿½ritif
 10		pillsbury brownie mix
 10		velveeta cheese melted
 10		fat free less sodium vegetable broth
@@ -12036,7 +12052,7 @@
 10		salted roasted pecans
 10		wattleseed
 10		ground short rib
-10		soy vay® island teriyaki marinade & sauce
+10		soy vayï¿½ island teriyaki marinade & sauce
 10		red currant juice
 10		swedish meatballs
 10		schweinenetz
@@ -12050,7 +12066,7 @@
 9		honey tangerine
 9		mangoschijfjes
 9		fage yogurt
-9		heidelbeerkonfitüre
+9		heidelbeerkonfitï¿½re
 9		stangenspargel
 9		apricot puree
 9		vegetable rennet
@@ -12101,12 +12117,12 @@
 9		kraft big slice colby jack cheese slices
 9		knorr sauce hollandaise
 9		simply organic black pepper
-9		knorr salatkrönung gartenkräuter mit knoblauch
-9		knorr salatkrönung frühlingskräuter
+9		knorr salatkrï¿½nung gartenkrï¿½uter mit knoblauch
+9		knorr salatkrï¿½nung frï¿½hlingskrï¿½uter
 9		finnan haddie
-9		käsescheibe
+9		kï¿½sescheibe
 9		mezzetta deli-sliced hot cherry peppers
-9		böden
+9		bï¿½den
 9		spinach tagliatelle
 9		dried lime powder
 9		dove dark chocolate promises
@@ -12114,8 +12130,8 @@
 9		hodo soy firm tofu
 9		tree ear mushrooms
 9		mangosaft
-9		knorr® rice sides™ - creamy chicken flavor
-9		breyers™ rainbow sprinkles
+9		knorrï¿½ rice sidesï¿½ - creamy chicken flavor
+9		breyersï¿½ rainbow sprinkles
 9		beef salami
 9		raki
 9		chikuwa
@@ -12123,7 +12139,7 @@
 9		low sodium canned black beans
 9		blade pot roast
 9		whole wheat shells
-9		sugar in the raw organic white™
+9		sugar in the raw organic whiteï¿½
 9		jus
 9		white wine sauce
 9		sesambroodjes
@@ -12141,8 +12157,8 @@
 9		butterscotch-flavor pieces
 9		rindermedaillon
 9		beer cheese
-9		spice islands® minced garlic
-9		frühstücksspeckwürfel
+9		spice islandsï¿½ minced garlic
+9		frï¿½hstï¿½cksspeckwï¿½rfel
 9		pita wraps
 9		frontier cinnamon
 9		indian prawns
@@ -12161,16 +12177,16 @@
 9		pompano fillets
 9		sliced spanish olives
 9		oscar mayer real bacon recipe pieces
-9		sabra® roasted red pepper hummus
+9		sabraï¿½ roasted red pepper hummus
 9		tapioka
 9		nut cookies
 9		contadina tomato sauce
 9		wokgarnalen
-9		goya® adobo all-purpose seasoning with pepper
+9		goyaï¿½ adobo all-purpose seasoning with pepper
 9		pasilla chile pepper
 9		chile verde
 9		japanese noodles
-9		hidden valley® original ranch® spicy ranch dressing
+9		hidden valleyï¿½ original ranchï¿½ spicy ranch dressing
 9		alaska halibut
 9		ume vinegar
 9		chicken coating mix
@@ -12178,7 +12194,7 @@
 9		grass jelly
 9		japanese style breadcrumbs
 9		buttery cracker crumbs
-9		breyers® extra creamy vanilla ice cream
+9		breyersï¿½ extra creamy vanilla ice cream
 9		bovril
 9		duck carcass
 9		ugli fruit
@@ -12188,11 +12204,11 @@
 9		scrod fillets
 9		beerencocktail
 9		kipschnitzels
-9		frontier® ground black pepper
+9		frontierï¿½ ground black pepper
 9		comino
 9		nandos peri-peri sauce
 9		mccormick cloves
-9		goat’s milk mozzarella
+9		goatï¿½s milk mozzarella
 9		mahi
 9		low sodium turkey breast
 9		absolut citron vodka
@@ -12221,11 +12237,11 @@
 9		milk bread
 9		reduced sugar preserves
 9		tagliarini
-9		früchtetee
+9		frï¿½chtetee
 9		brown bean paste
 9		tri-colored tortellini
 9		bread flour mix
-9		süssmost
+9		sï¿½ssmost
 9		lower sodium ham
 9		sushireis
 9		gold's cantonese-style duck sauce
@@ -12234,14 +12250,14 @@
 9		litchi
 9		breyers smooth & dreamy 1/2 the fat creamy vanilla ice cream
 9		sturgeon fillets
-9		pillsbury™ grands®! big & flaky crescent dinner rolls
+9		pillsburyï¿½ grandsï¿½! big & flaky crescent dinner rolls
 9		frisdrank
 9		do chua
-9		philadelphia spicy jalapeño cream cheese spread
-9		allzweckgewürz
+9		philadelphia spicy jalapeï¿½o cream cheese spread
+9		allzweckgewï¿½rz
 9		sweet sake
 9		rock lobster
-9		soy vay® hoisin garlic marinade & sauce
+9		soy vayï¿½ hoisin garlic marinade & sauce
 9		tatsoi leaves
 9		cabot white oak cheddar
 9		shoestring licorice
@@ -12261,7 +12277,7 @@
 9		country crock honey spread
 9		smoked eel
 9		karo dark corn syrup
-9		añejo rum
+9		aï¿½ejo rum
 9		dulong
 9		grissinistangen
 9		kersenvlaaivulling
@@ -12306,14 +12322,14 @@
 9		oreo mini bite size sandwich cookies
 9		thin pretzel twists
 9		flavored water
-9		champignonhüte
+9		champignonhï¿½te
 9		habenero
 9		birch syrup
 9		sixlets candy
 9		cooked turkey meatballs
 9		flavored salt
 9		wild sea bass
-9		sargento® chef blends™ shredded 4 state cheddar™ cheese
+9		sargentoï¿½ chef blendsï¿½ shredded 4 state cheddarï¿½ cheese
 9		patrijzen
 9		calamari steak
 9		pepato cheese
@@ -12326,15 +12342,15 @@
 9		plantain sweet
 9		conimex sambal brandal
 9		whole wheat matzos
-9		knorr fix für chili con carne
+9		knorr fix fï¿½r chili con carne
 9		blueberry bagels
-9		knorr fix für broccoli gratin
-9		old el paso™ mild red enchilada sauce
+9		knorr fix fï¿½r broccoli gratin
+9		old el pasoï¿½ mild red enchilada sauce
 9		zulka pure cane sugar
 9		shredded reduced-fat mild cheddar cheese
 9		farmland bacon
 9		strawberry oil
-9		i can’t believe it’s not butter!® deliciously simple
+9		i canï¿½t believe itï¿½s not butter!ï¿½ deliciously simple
 9		knorr feinschmecker zitronen butter sauce
 9		zalmhaasje
 9		low-fat ritz crackers
@@ -12342,18 +12358,18 @@
 9		augurkennat
 9		oelek
 9		land o lakes half & half
-9		paprikagemüsegranulat
+9		paprikagemï¿½segranulat
 9		cookie crisp cereal
-9		knorr feinschmecker crème fraîche sauce
+9		knorr feinschmecker crï¿½me fraï¿½che sauce
 9		snail shells
-9		gänseblümchen
+9		gï¿½nseblï¿½mchen
 9		evaporated low-fat 2% milk
 9		knoflookgranulaat
 9		gow gee wrappers
 9		dog food
 9		pacific halibut
 9		knoblauchpfeffer
-9		läuterzucker
+9		lï¿½uterzucker
 9		knorr mix voor stoofpotje
 9		beef ramen noodles
 9		multi grain oats
@@ -12468,7 +12484,7 @@
 8		tomatenpulp
 8		snapper head
 8		mccormick ground cloves
-8		honeysuckle white® 85/15 ground turkey
+8		honeysuckle whiteï¿½ 85/15 ground turkey
 8		tofurkey
 8		unsalted crunchy peanut butter
 8		italian squash
@@ -12485,9 +12501,9 @@
 8		low sodium baking powder
 8		cape cod potato chips
 8		pork loin fillet
-8		frühstücksgurke
+8		frï¿½hstï¿½cksgurke
 8		orange butter sauce
-8		minztäfelchen
+8		minztï¿½felchen
 8		washed-rind cheese
 8		huzarensalade
 8		chocolate cookies, crumbled wafer
@@ -12500,7 +12516,7 @@
 8		cabot hot habanero cheddar
 8		pork knuckles
 8		marlin
-8		honeysuckle white® turkey breast cutlets
+8		honeysuckle whiteï¿½ turkey breast cutlets
 8		colavita white balsamic vinegar
 8		strega
 8		easter m&m candies
@@ -12537,7 +12553,7 @@
 8		turkey chili with beans
 8		buddig corned beef
 8		round tip steak
-8		knorr spätzle
+8		knorr spï¿½tzle
 8		nestle carnation lowfat 2% evaporated milk
 8		corn pasta
 8		mosterdmayonaise
@@ -12550,19 +12566,19 @@
 8		tamarindepulp
 8		pimento
 8		asian wheat noodles
-8		spice islands® cayenne pepper
+8		spice islandsï¿½ cayenne pepper
 8		alligator
 8		sports drink
 8		low-fat half & half
 8		asian herb
 8		gluten free kinnikinnick panko style breadcrumbs
 8		green cayenne chilies
-8		blätterteigplatten
+8		blï¿½tterteigplatten
 8		conimex woksaus zoete soja
 8		gluten free english muffins
 8		s&w white beans
 8		paprika paste
-8		distelöl
+8		distelï¿½l
 8		athenos crumbled blue cheese
 8		peychauds bitters
 8		hacheekruiden
@@ -12572,8 +12588,8 @@
 8		asian barbecue sauce
 8		lamsworstjes
 8		chinese spice
-8		schnittlauchblüten
-8		simply organic® sea salt
+8		schnittlauchblï¿½ten
+8		simply organicï¿½ sea salt
 8		fortune cookies
 8		mounds sweetened coconut flakes
 8		whole wheat italian bread
@@ -12587,7 +12603,7 @@
 8		red hots candies
 8		oscar mayer carving board slow cooked ham
 8		ground dried shrimp
-8		hafergrütze
+8		hafergrï¿½tze
 8		maize cornflour
 8		citroenkwark
 8		chopped steak
@@ -12595,16 +12611,16 @@
 8		sangrita
 8		coors light beer
 8		brownie squares
-8		spice islands® minced onion
+8		spice islandsï¿½ minced onion
 8		rhodes bread
 8		vanilla pound cake
 8		leberpastete
 8		boneless pork top loin roast
-8		mezzetta® california hot sauce
+8		mezzettaï¿½ california hot sauce
 8		finlandia vodka
 8		zandkoekjes
 8		grated celeriac
-8		röstirondjes
+8		rï¿½stirondjes
 8		sweet chili dipping sauce
 8		greengage plum
 8		korean barbecue sauce
@@ -12625,8 +12641,8 @@
 8		gluten-free toast
 8		green tea teabags
 8		rendered beef fat
-8		knorr salatkrönung kräuter & knoblauch
-8		knorr salatkrönung küchenkräuter
+8		knorr salatkrï¿½nung krï¿½uter & knoblauch
+8		knorr salatkrï¿½nung kï¿½chenkrï¿½uter
 8		grissini breadsticks
 8		flavored rice mix
 8		gluten-free gingersnap
@@ -12637,8 +12653,8 @@
 8		antipasti
 8		nielsen-massey lemon extract
 8		leftover grilled steak
-8		knorr fix für ratatouille paprikagemüse französische art
-8		knorr soße nach art hollandaise
+8		knorr fix fï¿½r ratatouille paprikagemï¿½se franzï¿½sische art
+8		knorr soï¿½e nach art hollandaise
 8		quorn chik''n tenders
 8		palmolie
 8		whipped unsalted butter
@@ -12648,16 +12664,16 @@
 8		palm syrup
 8		mezzetta garlic
 8		godiva milk chocolate liqueur
-8		mezzetta® deli-sliced roasted sweet bell pepper strips
+8		mezzettaï¿½ deli-sliced roasted sweet bell pepper strips
 8		chapatti
-8		knorr fix für lachs auf blattspinat
-8		knorr fix für kräuter-rahm schnitzel
-8		knorr fix für knuspriges brathähnchen
+8		knorr fix fï¿½r lachs auf blattspinat
+8		knorr fix fï¿½r krï¿½uter-rahm schnitzel
+8		knorr fix fï¿½r knuspriges brathï¿½hnchen
 8		american cheese food
 8		zander
 8		sweet glutinous rice flour
 8		lee kum kee minced garlic
-8		knorr fix für gulasch
+8		knorr fix fï¿½r gulasch
 8		chewy fruit snacks
 8		alaska cod
 8		knorr feinschmecker zwiebel suppe
@@ -12677,14 +12693,14 @@
 8		jose cuervo
 8		sugar free cherry gelatin
 8		johnsonville smoked brats
-8		rinderhüftsteak
+8		rinderhï¿½ftsteak
 8		mrs. dash southwest chipotle seasoning mix
 8		cowpeas
 8		sucrose
-8		körnerbrötchen
-8		new york style garlic bagel crisps®
+8		kï¿½rnerbrï¿½tchen
+8		new york style garlic bagel crispsï¿½
 8		tubettini
-8		briekäse
+8		briekï¿½se
 8		perziksap
 8		chive stems
 8		mezzetta olives
@@ -12716,7 +12732,7 @@
 8		black cerignola olives
 8		vegetable slaw
 8		heidelbeermarmelade
-8		bananenlikör
+8		bananenlikï¿½r
 8		new mexico chile pods
 8		lipton white tea with blueberri & pomegran flavor pyramid tea bag
 8		cocktail meatballs
@@ -12730,7 +12746,7 @@
 8		shanghai-style noodles
 8		mccormick rubbed sage
 8		baking ammonia
-8		morningstar farms® meal starters™ chik'n strips
+8		morningstar farmsï¿½ meal startersï¿½ chik'n strips
 8		johannisberg riesling
 8		pearl sago
 8		wortelrauwkost
@@ -12738,13 +12754,13 @@
 8		cherry vinegar
 8		baking wafers
 8		fried chow mein noodles
-8		zwiebelwürfel
+8		zwiebelwï¿½rfel
 8		diepvriessperziebonen
 8		diepvriesframbozen
-8		breyers® natural strawberry ice cream
-8		bacardi® silver rum
+8		breyersï¿½ natural strawberry ice cream
+8		bacardiï¿½ silver rum
 8		culinesse olive
-8		lavendelblüten
+8		lavendelblï¿½ten
 8		dry jack
 8		butter cookie dough
 8		bratfett
@@ -12793,7 +12809,7 @@
 8		meat balls
 8		kalbsbrust
 8		carrageenan
-8		tropicana pure premium® orange juice
+8		tropicana pure premiumï¿½ orange juice
 8		trefoil
 8		stacy's cinnamon sugar flavored pita chips
 8		rosettes
@@ -12804,7 +12820,7 @@
 8		rijstdessert
 8		green bellpepper
 8		mignons
-8		preiselbeerkonfitüre
+8		preiselbeerkonfitï¿½re
 8		peeled diced tomatoes
 8		goya red kidney beans
 8		baby okra
@@ -12827,7 +12843,7 @@
 7		holiday morsels
 7		boule bread
 7		diced low sodium tomatoes
-7		spice islands® ground ginger
+7		spice islandsï¿½ ground ginger
 7		dried carrots
 7		home made chicken broth
 7		bertolli sauc
@@ -12856,7 +12872,7 @@
 7		stick butter
 7		brotscheiben
 7		garlic chutney
-7		bertolli® riserva marinara sauce
+7		bertolliï¿½ riserva marinara sauce
 7		veal glace
 7		bourgogne
 7		bovril powder
@@ -12873,7 +12889,7 @@
 7		mondamin pudding vanille-geschmack
 7		thai kitchen fish sauce
 7		maguey
-7		schinkenblätter
+7		schinkenblï¿½tter
 7		mahimahi fillet
 7		cholent
 7		dill pollen
@@ -12913,7 +12929,7 @@
 7		unsweetened cherry juice
 7		onion strings
 7		black cabbage
-7		hellmann’s or best foods vegan carefully crafted dressing and sandwich spread
+7		hellmannï¿½s or best foods vegan carefully crafted dressing and sandwich spread
 7		cocktail gherkins
 7		toasted buckwheat groats
 7		pita loaves with pockets
@@ -12949,7 +12965,7 @@
 7		white beech mushrooms
 7		gluten-free mustard
 7		himbeersaft
-7		majoranblättchen
+7		majoranblï¿½ttchen
 7		spring wheat berries
 7		chopped salmon
 7		gluten-free peanut butter
@@ -12961,7 +12977,7 @@
 7		pickle wedges
 7		oikos yogurt
 7		betty crocker strawberry cake mix
-7		green giant™ steamers™ frozen backyard grilled potatoes
+7		green giantï¿½ steamersï¿½ frozen backyard grilled potatoes
 7		whole wheat biscuits
 7		betty crocker cookie icing
 7		rice paddy herb
@@ -13005,7 +13021,7 @@
 7		gluten-free cookies
 7		whole wheat crusty bread
 7		groenteboullion
-7		brüste
+7		brï¿½ste
 7		reisbandnudeln
 7		boneless loin roast
 7		schweinegeschnetzeltes
@@ -13017,8 +13033,8 @@
 7		carnation 2% evaporated milk
 7		chebe focaccia mix
 7		knorr mix voor macaroni
-7		johnsonville® italian hot sausage links
-7		johnsonville® italian all natural hot ground sausage
+7		johnsonvilleï¿½ italian hot sausage links
+7		johnsonvilleï¿½ italian all natural hot ground sausage
 7		conimex boemboe babi ketjap
 7		mint tea leaves
 7		bakers ammonia
@@ -13033,14 +13049,14 @@
 7		fried fish fillets
 7		knorr schlemmersauce chili sauce
 7		rundernier
-7		knorr soße zu schweinebraten
+7		knorr soï¿½e zu schweinebraten
 7		frikadellen
 7		sweet molasses
 7		powdered ascorbic acid
 7		noisette
 7		jerk rub
 7		curly leaf spinach
-7		knorr fix für spaghetti napoli
+7		knorr fix fï¿½r spaghetti napoli
 7		crunch candy bars
 7		zander fillets
 7		baccala
@@ -13060,7 +13076,7 @@
 7		non dairy cream
 7		knorr klare suppe
 7		entwine chardonnay
-7		knorr kräuter soße
+7		knorr krï¿½uter soï¿½e
 7		chebe cinnamon roll mix
 7		xanthaangom
 7		frischgerm
@@ -13117,7 +13133,7 @@
 7		daisy brand light sour cream
 7		lays potato chips
 7		knudsen 2% milkfat low fat cottage cheese
-7		knorr fix für schweinebraten
+7		knorr fix fï¿½r schweinebraten
 7		mesquite flavored seasoning mix
 7		quinoa linguine
 7		kefir cheese
@@ -13128,17 +13144,17 @@
 7		rooibos tea leaves
 7		kaya
 7		top blade steak
-7		cassislikör
+7		cassislikï¿½r
 7		chip steak
 7		skim low fat milk
 7		flying fish roe
 7		rodelle almond extract
-7		crèmefraîche
+7		crï¿½mefraï¿½che
 7		kasu
-7		crèmes
+7		crï¿½mes
 7		non-fat yogurt chees
 7		s&w garbanzo beans
-7		sargento® fine cut shredded mozzarella cheese
+7		sargentoï¿½ fine cut shredded mozzarella cheese
 7		toor
 7		rodebessensap
 7		light garlic and herb cheese
@@ -13158,7 +13174,7 @@
 7		volkorentarwemeel
 7		kim crawford sauvignon blanc
 7		kipblokjes
-7		mehrkornbrötchen
+7		mehrkornbrï¿½tchen
 7		crystallized flowers
 7		promis activ butteri spread
 7		simply organic thyme
@@ -13170,7 +13186,7 @@
 7		lemongrass syrup
 7		arhar dal
 7		folgers coffee
-7		crème de framboise
+7		crï¿½me de framboise
 7		young gouda
 7		crusty deli rolls
 7		nonfat dry milk solid
@@ -13183,18 +13199,18 @@
 7		seitan cutlets
 7		yautia
 7		baby tatsoi
-7		kalbsrücken
+7		kalbsrï¿½cken
 7		pumpkin soup
 7		babyblattspinat
-7		sargento® traditional cut shredded mild cheddar cheese
+7		sargentoï¿½ traditional cut shredded mild cheddar cheese
 7		kalbsfonds
 7		kalbsfleisch
-7		sargento® traditional cut shredded mozzarella cheese
+7		sargentoï¿½ traditional cut shredded mozzarella cheese
 7		knorr bouillontabletten rundvlees
 7		left over steak
 7		champignonplakjes
 7		knorr chicken touch of taste
-7		knorr feinschmecker jäger sauce
+7		knorr feinschmecker jï¿½ger sauce
 7		visgraten
 7		anijslikeur
 7		pre made pizza crusts
@@ -13202,7 +13218,7 @@
 7		sumac berries
 7		light non-dairy whipped topping
 7		lime cordial
-7		karfiolröschen
+7		karfiolrï¿½schen
 7		klebereis
 7		cooked fettuccini
 7		lemon iced tea
@@ -13210,12 +13226,12 @@
 7		sun-maid raisins
 7		elderberry juice
 7		flora light
-7		kapuzinerkresseblüten
+7		kapuzinerkresseblï¿½ten
 7		applegate pepperoni
-7		sargento® traditional cut shredded 4 cheese mexican
+7		sargentoï¿½ traditional cut shredded 4 cheese mexican
 7		sun dried tomato vinaigrette
 7		kanten
-7		sargento® traditional cut shredded extra sharp cheddar cheese
+7		sargentoï¿½ traditional cut shredded extra sharp cheddar cheese
 7		cereal bars
 7		red pepper tapenade
 7		prepared low-fat custard
@@ -13228,28 +13244,28 @@
 7		miracle noodle angel hair
 7		filterkoffie
 7		eel fillets
-7		häuptelsalatherzen
+7		hï¿½uptelsalatherzen
 7		snelkookgort
 7		dasheen
 7		snickers candies
 7		mierikswortelroom
 7		horizon butter
 7		bearnaise mix sauce
-7		milchbrötchen
+7		milchbrï¿½tchen
 7		milk chocolate couverture
 7		uncle ben's ready rice whole grain brown rice
 7		vegetable marrow
 7		kweepeer
 7		patron silver tequila
 7		ratatouillegroentenpakket
-7		chili purée
+7		chili purï¿½e
 7		murcott tangerines
 7		snickers candy bar
 7		nian gao
 7		chocolate cream filled chocolate sandwich cookies
 7		injera
 7		orange ice cream
-7		milchmädchen
+7		milchmï¿½dchen
 7		sicilian
 7		kreeftenstaarten
 7		inmaakkruiden
@@ -13277,12 +13293,12 @@
 7		losso rosso
 7		saffron road chicken broth
 7		vegetable pasta sauce
-7		nestlé la lechera
+7		nestlï¿½ la lechera
 7		hot banana pepper rings
 7		fruitsalade
 7		horseradish relish
 7		muntsaus
-7		nestlé smarties
+7		nestlï¿½ smarties
 7		acorn meal
 7		lamshaasje
 7		taco dinner kit
@@ -13293,20 +13309,20 @@
 7		tuinkruidenbouillonpoeder
 7		chicken curry powder
 7		2% low fat buttermilk
-7		mazola® sobrecitos™ chicken flavor bouillon packets
+7		mazolaï¿½ sobrecitosï¿½ chicken flavor bouillon packets
 7		wish-bone light balsamic basil vinaigrette dressing
 7		tomatencremesuppe
 7		new york style bagel crisps
 7		alaskan king salmon
 7		lachsforelle
 7		new mexico green chile
-7		mazola® extra virgin olive oil
+7		mazolaï¿½ extra virgin olive oil
 7		snoekbaars
 7		stokes purple
 7		campbell's condensed cream of shrimp soup
 7		unox extra magere rookworst
 7		low fat crumbled feta cheese
-7		krebsschwänze
+7		krebsschwï¿½nze
 7		roast duck meat
 7		unox gelderse rookworst
 7		nescafe instant coffee
@@ -13355,7 +13371,7 @@
 6		mongolian fire oil
 6		pignoli
 6		citrus leaves
-6		knorr bio gemüse bouillon
+6		knorr bio gemï¿½se bouillon
 6		absolut vanilia vodka
 6		abrikozencompote
 6		peppercorn mix
@@ -13369,7 +13385,7 @@
 6		certo fruit pectin
 6		chicken stock pot
 6		spectrum coconut oil
-6		new york style sea salt pita chips®
+6		new york style sea salt pita chipsï¿½
 6		panda express kung pao sauce
 6		pancit bihon
 6		pillsbury frosting
@@ -13387,7 +13403,7 @@
 6		regular black beans
 6		chinese red vinegar
 6		citrus wedges
-6		taco bell® home originals® taco seasoning mix
+6		taco bellï¿½ home originalsï¿½ taco seasoning mix
 6		once again almond butter
 6		nonalkalized cocoa
 6		sesame bread
@@ -13401,10 +13417,10 @@
 6		schokoladenstreusel
 6		gluten free rice chex
 6		dried fish flakes
-6		goldschläger
+6		goldschlï¿½ger
 6		soy marinade
 6		surimiflakes
-6		breyers® french vanilla ice cream
+6		breyersï¿½ french vanilla ice cream
 6		volkorenbroodjes
 6		cracklin oat bran cereal
 6		100% bran cereal
@@ -13424,9 +13440,9 @@
 6		terasi
 6		enchiladasaus
 6		young okra
-6		kräuterlinge
+6		krï¿½uterlinge
 6		spanish mackerel fillets
-6		shady brook farms® 85/15 ground turkey
+6		shady brook farmsï¿½ 85/15 ground turkey
 6		raspberry low-fat yogurt
 6		crawfish fat
 6		countrykoekjes
@@ -13441,7 +13457,7 @@
 6		pillsbury thin pizza crust
 6		farfalline
 6		onaga
-6		new york style plain bagel crisps®
+6		new york style plain bagel crispsï¿½
 6		salted pretzel pieces
 6		flower pepper
 6		kurmolke
@@ -13454,8 +13470,8 @@
 6		filo (dough)
 6		moringa leaf
 6		estragonessig
-6		quaker® maple & brown sugar instant oatmeal
-6		perdue® fit & easy® boneless, skinless chicken breasts
+6		quakerï¿½ maple & brown sugar instant oatmeal
+6		perdueï¿½ fit & easyï¿½ boneless, skinless chicken breasts
 6		aguardiente
 6		sweetened kool aid drink mix
 6		mahlepi
@@ -13469,12 +13485,12 @@
 6		fil
 6		side pork
 6		knorr tomato bouillon with chicken flavor cube
-6		knorr salatkrönung würzige kräuter klare marinade
+6		knorr salatkrï¿½nung wï¿½rzige krï¿½uter klare marinade
 6		erdbeersaft
 6		cheez whiz cheese spread
 6		country cookies
 6		chenin blanc
-6		pfanni semmel knödel der klassiker
+6		pfanni semmel knï¿½del der klassiker
 6		swiss steak
 6		mezzetta home-style basil pesto
 6		thyme tips
@@ -13484,10 +13500,10 @@
 6		evan williams whiskey
 6		erdbeersirup
 6		rice krispies treats bars
-6		knorr tomaten soße
+6		knorr tomaten soï¿½e
 6		kraft big slice swiss cheese slices
 6		crisco cooking spray
-6		knorr® rice sides™ - chicken flavor broccoli
+6		knorrï¿½ rice sidesï¿½ - chicken flavor broccoli
 6		lb. roast chicken
 6		cotechino
 6		bouillon shrimp
@@ -13500,9 +13516,9 @@
 6		spiced apples
 6		silk unsweetened soymilk
 6		spice islands thyme
-6		brotwürfelchen
+6		brotwï¿½rfelchen
 6		godiva dark chocolate liqueur
-6		mezzetta® basil pesto
+6		mezzettaï¿½ basil pesto
 6		kokosvlokken
 6		silk light vanilla almondmilk
 6		las palmas enchilada sauce
@@ -13514,13 +13530,13 @@
 6		lowfat pepper jack cheese
 6		trenette pasta
 6		phillips seafood seasoning
-6		mezzetta® golden greek peperoncini
+6		mezzettaï¿½ golden greek peperoncini
 6		konnyaku powder
 6		lower sodium chicken stock
 6		alaska cod fillets
 6		alaska halibut fillets
 6		brown flaxseed
-6		zitronengötterspeise
+6		zitronengï¿½tterspeise
 6		alaskan king crabs
 6		sweet white vermouth
 6		magret duck breast halves
@@ -13530,14 +13546,14 @@
 6		brown rice powder
 6		antelope
 6		total cereal
-6		shady brook farms® turkey breast tenderloins
+6		shady brook farmsï¿½ turkey breast tenderloins
 6		dorot chopped basil tray
 6		cream puff shells
 6		thai kitchen lite coconut milk
 6		turtle candy
 6		offal
 6		chicken pie filling
-6		knorr hühner suppe
+6		knorr hï¿½hner suppe
 6		white beets
 6		gluten-free oyster sauce
 6		chinese buns
@@ -13562,7 +13578,7 @@
 6		petersilienzweig
 6		ortega taco seasoning mix
 6		vanilla candy wafers
-6		knorr fix für sauerbraten
+6		knorr fix fï¿½r sauerbraten
 6		krakauer
 6		lee kum kee hoisin sauce
 6		angry orchard hard cider
@@ -13571,9 +13587,9 @@
 6		brandnetels
 6		rolled wheat
 6		cheese fondue
-6		mezzetta® whole peperoncini
-6		knorr pfeffer soße
-6		knorr rahm soße
+6		mezzettaï¿½ whole peperoncini
+6		knorr pfeffer soï¿½e
+6		knorr rahm soï¿½e
 6		turkey size oven bag
 6		fire & flavor everyday rub
 6		low-fat vinaigrette dressing
@@ -13583,11 +13599,11 @@
 6		kraft finely shredded triple cheddar cheese
 6		kraft finely shredded sharp cheddar cheese
 6		knorr rich beef stock pots
-6		mezzetta® sweet cherry peppers
+6		mezzettaï¿½ sweet cherry peppers
 6		turkey salami
 6		testicles
 6		low-fat vegetable broth
-6		radicchioblätter
+6		radicchioblï¿½tter
 6		knorr parslei minicub
 6		knorr mix voor spaghetti con funghi
 6		country crock pumpkin spice spread
@@ -13605,7 +13621,7 @@
 6		spice islands dill weed
 6		branca menta
 6		knorr mix voor spaghetti
-6		ascorbinsäure
+6		ascorbinsï¿½ure
 6		delallo balsamic glaze
 6		mccormick original chili seasoning mix
 6		smart balance light mayonnaise
@@ -13620,7 +13636,7 @@
 6		manouri
 6		pitted castelvetrano olives
 6		frozen italian blend vegetables
-6		bánh mì rolls
+6		bï¿½nh mï¿½ rolls
 6		walnut milk
 6		herb croutons
 6		seebarsch
@@ -13640,7 +13656,7 @@
 6		mccormick ground mustard
 6		muscatel
 6		hertenbiefstuk
-6		hershey®’s mini semisweet chocolate chips
+6		hersheyï¿½ï¿½s mini semisweet chocolate chips
 6		diamond of california almonds
 6		low sodium low fat vegetable broth
 6		basilicumolie
@@ -13673,7 +13689,7 @@
 6		conimex boemboe sajoer groenten
 6		orangenabrieb
 6		fresh pork butt
-6		stacy's® toasted cheddar pita chips
+6		stacy'sï¿½ toasted cheddar pita chips
 6		myoga ginger
 6		red white and blue star sprinkles
 6		starbucks coffee
@@ -13681,7 +13697,7 @@
 6		wensleydale
 6		roasting vegetables
 6		condensed reduced fat reduced sodium cream of celery soup
-6		cêlavíta aardappeldobbeltjes
+6		cï¿½lavï¿½ta aardappeldobbeltjes
 6		potash
 6		ghirardelli white chocolate baking bar
 6		butterscotch pieces
@@ -13702,7 +13718,7 @@
 6		frozen juice concentrate
 6		bag iced tea
 6		matze
-6		calvé yofresh
+6		calvï¿½ yofresh
 6		plum jelly
 6		calzone
 6		patisseriebloem
@@ -13718,7 +13734,7 @@
 6		store bought brownies
 6		hoisin
 6		low fat low sodium beef broth
-6		duncan hines® signature lemon supreme cake mix
+6		duncan hinesï¿½ signature lemon supreme cake mix
 6		beef stock concentrate
 6		chocolate hazelnut milk
 6		best foods mediterranean roasted garlic & herb flavored mayonnaise
@@ -13780,10 +13796,10 @@
 6		canadian club
 6		beef neck
 6		cactus leaves
-6		mission® digestive health tortillas
+6		missionï¿½ digestive health tortillas
 6		hirschmedaillons
 6		fruit brandy
-6		notenpaté
+6		notenpatï¿½
 6		toffee crunch
 6		pops cereal
 6		chocolate macaroon
@@ -13792,11 +13808,11 @@
 6		low sodium deli roast beef
 6		beef broth 25% less sodium
 6		varkensnek
-6		kellogg’s rice krispies treats
+6		kelloggï¿½s rice krispies treats
 6		solid fat
 6		licorice strips
-6		haselnussöl
-6		bacardi® mixers fuzzy navel mix
+6		haselnussï¿½l
+6		bacardiï¿½ mixers fuzzy navel mix
 6		skinless boneless chicken legs
 6		bertolli organic tradit sauc
 6		carrageen
@@ -13826,7 +13842,7 @@
 6		squirt soda
 6		casaba melon
 6		kalbssteak
-6		fresh express® hearts of romaine
+6		fresh expressï¿½ hearts of romaine
 6		hagebutten
 6		low-fat french dressing
 6		prego veggie smart chunky & savory italian sauce
@@ -13836,7 +13852,7 @@
 6		blueberry vinegar
 6		mealie meal
 6		pimpinelle
-6		crème de menthe thins
+6		crï¿½me de menthe thins
 6		keebler graham cracker crumbs
 6		prime rib steaks
 6		chiocciole
@@ -13878,7 +13894,7 @@
 6		semi dry red wine
 6		harissa harissa
 6		light vanilla almond milk
-6		kaninchenrücken
+6		kaninchenrï¿½cken
 6		whole wheat sandwich buns
 6		conimex mihoen speciaal
 6		carolans irish cream
@@ -13896,12 +13912,12 @@
 5		cassismark
 5		frenched racks
 5		mark west pinot noir
-5		maïskipfilet
+5		maï¿½skipfilet
 5		broccoli romanesco
 5		frozen turkey burgers
 5		mocha liqueur
 5		fat skimmed reduced sodium chicken broth
-5		geflügelklein
+5		geflï¿½gelklein
 5		castellane
 5		dried meat
 5		elderflower concentrate
@@ -13931,7 +13947,7 @@
 5		martha white cornbread mix
 5		massalakruiden
 5		foster farms chicken tenders
-5		breyers™ real fruit strawberry topping
+5		breyersï¿½ real fruit strawberry topping
 5		rodelle vanilla beans
 5		taco dinner
 5		elk back strap
@@ -13995,7 +14011,7 @@
 5		minigroente
 5		fudge stripes cookies
 5		extra crispy tater tots
-5		schokoladelikör
+5		schokoladelikï¿½r
 5		oreo chocolate creme sandwich cookies
 5		mccormick cilantro leaves
 5		steak tartare
@@ -14017,7 +14033,7 @@
 5		fire & flavor classic rub
 5		manischewitz honey
 5		gluten-free honey mustard
-5		ghirardelli® 60% cacao bittersweet chocolate
+5		ghirardelliï¿½ 60% cacao bittersweet chocolate
 5		carbonara sauce
 5		brynza
 5		papalo
@@ -14070,17 +14086,17 @@
 5		party size potato rolls
 5		swedish style meatballs
 5		makrut lime leaf
-5		fleischmann's® bread machine yeast
+5		fleischmann'sï¿½ bread machine yeast
 5		melon vodka
 5		weizensprossen
 5		oscar mayer hard salami
 5		general tso sauce
-5		mezzetta® castelvetrano olives
+5		mezzettaï¿½ castelvetrano olives
 5		rope licorice
 5		gluten-free chicken
 5		orange sweet rolls
-5		mezzetta® blue cheese stuffed olives
-5		riesengarnelenschwänze
+5		mezzettaï¿½ blue cheese stuffed olives
+5		riesengarnelenschwï¿½nze
 5		cab
 5		mccormick italian seasoning
 5		samp
@@ -14105,7 +14121,7 @@
 5		venkelpoeder
 5		dry mint leaves
 5		oscar mayer pepperoni slices
-5		butterball® turkey
+5		butterballï¿½ turkey
 5		duck drippings
 5		goat cheese (fresh)
 5		mixed chopped peel
@@ -14114,7 +14130,7 @@
 5		flavor enhancer
 5		vialone nano
 5		goat cheese rounds
-5		gewürzspekulatius
+5		gewï¿½rzspekulatius
 5		minestrone
 5		roma tomato slices
 5		eiswasser
@@ -14126,7 +14142,7 @@
 5		sujuk
 5		mandelpulver
 5		fresh flounder fillets
-5		frontier® rosemary
+5		frontierï¿½ rosemary
 5		passion fruit wine
 5		fideos pasta
 5		chocolademelkpoeder
@@ -14178,15 +14194,15 @@
 5		kiwi strawberry juice
 5		himalayan sulfur salt
 5		crystal farms mozzarella cheese
-5		beurre manié
+5		beurre maniï¿½
 5		homemade meat broth
 5		delallo roasted red peppers
 5		kichererbsenmehl
-5		crystal farms® better’n eggs
+5		crystal farmsï¿½ betterï¿½n eggs
 5		s&w pinto beans
 5		bertolli vineyard premium collect portobello mushroom with merlot sauc
 5		bertolli spread
-5		crystal farms® shredded parmesan cheese
+5		crystal farmsï¿½ shredded parmesan cheese
 5		tofu cashew mayo
 5		simply organic rosemary
 5		single rib lamb chop
@@ -14196,7 +14212,7 @@
 5		bertolli pastasaus romig
 5		nori furikake
 5		asian spice
-5		provolonekäse
+5		provolonekï¿½se
 5		plugra
 5		platano
 5		kim crawford pinot noir
@@ -14209,8 +14225,8 @@
 5		kingsford''s corn starch
 5		kings hawaiian bread
 5		king syrup
-5		sesambrötchen
-5		simply organic® ground ginger
+5		sesambrï¿½tchen
+5		simply organicï¿½ ground ginger
 5		betty crocker bac-os
 5		coconut jam
 5		multi-grain toasted chips
@@ -14228,7 +14244,7 @@
 5		blanco chees queso
 5		knorr mix voor macaroni carbonara
 5		reese''s puffs cereal
-5		pökelfleisch
+5		pï¿½kelfleisch
 5		hawaiian chile
 5		low-fat blue cheese dressing
 5		sonnenblumenbrot
@@ -14249,7 +14265,7 @@
 5		tilsiter
 5		no. ten gin
 5		pineapple pulp
-5		knorr salatkrönung croutinos mit zwiebeln
+5		knorr salatkrï¿½nung croutinos mit zwiebeln
 5		knorr rindessa
 5		ammonium bicarbonate
 5		knorr rice side   babi back bbq
@@ -14258,7 +14274,7 @@
 5		knorr klarer bratensaft dose
 5		leg of veal
 5		knorr beef stock cubes
-5		shady brook farms® turkey breast cutlets
+5		shady brook farmsï¿½ turkey breast cutlets
 5		leffe
 5		cobia
 5		knorr bouillon pur klare suppe
@@ -14286,11 +14302,11 @@
 5		realemon lemon juice
 5		whole wheat sub rolls
 5		purple spring onions
-5		mrs. dash® garlic & herb seasoning blend
+5		mrs. dashï¿½ garlic & herb seasoning blend
 5		heidelbeersaft
 5		crunch candy bar
-5		knorr fix für paprika-gulasch zigeuner art
-5		knorr fix für lachs-sahne gratin
+5		knorr fix fï¿½r paprika-gulasch zigeuner art
+5		knorr fix fï¿½r lachs-sahne gratin
 5		purple corn
 5		knorr feinschmecker waldpilz suppe
 5		bertolli pastasaus bolognese
@@ -14370,7 +14386,7 @@
 5		sloe
 5		sloppy joe meat
 5		reduced fat mature cheddar
-5		tomatenstückchen
+5		tomatenstï¿½ckchen
 5		wolf chili
 5		reduced fat reduced sodium cream of mushroom soup
 5		xoxo
@@ -14394,11 +14410,11 @@
 5		yellow chile
 5		preserved bean curd
 5		semi-firm cheese
-5		conimex pinda satésaus
+5		conimex pinda satï¿½saus
 5		reduced sodium deli turkey
 5		sjalotringetjes
 5		low sodium beef bouillon powder
-5		crème de pêche
+5		crï¿½me de pï¿½che
 5		atlantic cod fillets
 5		honey-comb cereal
 5		sodium free chili powder
@@ -14416,8 +14432,8 @@
 5		conimex djintan
 5		hy-vee ground cinnamon
 5		low fat coleslaw dressing
-5		bacardi® select
-5		uncle ben's® ready rice® original long grain
+5		bacardiï¿½ select
+5		uncle ben'sï¿½ ready riceï¿½ original long grain
 5		yam leaf
 5		mung bean vermicelli
 5		beef frozen sandwich steak
@@ -14427,13 +14443,13 @@
 5		low fat balsamic vinaigrette salad dressing
 5		snapperfilets
 5		powidl
-5		münster
+5		mï¿½nster
 5		tongschar
 5		yacon
 5		beef bratwurst
 5		low fat condensed milk
 5		kalbfleischhack
-5		bacardi® gold
+5		bacardiï¿½ gold
 5		conimex kroepoek cassave
 5		beehoon
 5		multigrain rotini
@@ -14449,7 +14465,7 @@
 5		hot yellow pepper
 5		kalfsbeenderen
 5		seidentofu
-5		kalbsnuß
+5		kalbsnuï¿½
 5		blue hawaiian punch
 5		hennessy cognac
 5		pineapple chunks in heavy syrup
@@ -14503,10 +14519,10 @@
 5		kokosmeel
 5		low-fat tortilla
 5		citronge
-5		kokosnussöl
+5		kokosnussï¿½l
 5		cremini caps
 5		boneless chuck eye steak
-5		kona coast™ hawaiian honey mustard
+5		kona coastï¿½ hawaiian honey mustard
 5		low-fat soy flour
 5		low-fat strawberry ice cream
 5		groentebouillonkorrels
@@ -14519,23 +14535,23 @@
 5		low-sodium low-fat beef broth
 5		kraft extra sharp cheddar cheese
 5		cranberry vinegar
-5		ragu® robusto!® pasta sauce
+5		raguï¿½ robusto!ï¿½ pasta sauce
 5		raspberry schnapps
 5		krusteaz pie crust mix
-5		bratwurstbrät
-5		kräutersoße
-5		nestlé nesquik chocolate flavor powder
+5		bratwurstbrï¿½t
+5		krï¿½utersoï¿½e
+5		nestlï¿½ nesquik chocolate flavor powder
 5		99% fat-free chicken broth
 5		country time pink lemonade
 5		old english cheese spread
 5		goya ground cumin
 5		raspberry ice cream
-5		new york style panetini® toasts
+5		new york style panetiniï¿½ toasts
 5		4c grated parmesan cheese
-5		breakstone’s reduced fat sour cream
+5		breakstoneï¿½s reduced fat sour cream
 5		krupuk
-5		nestlé® toll house® holiday morsels
-5		nestlé® toll house® peanut butter & milk chocolate morsels
+5		nestlï¿½ï¿½ toll houseï¿½ holiday morsels
+5		nestlï¿½ï¿½ toll houseï¿½ peanut butter & milk chocolate morsels
 5		lamb foreshanks
 5		breyer butter pecan ice cream
 5		la croix sparkling water
@@ -14550,7 +14566,7 @@
 5		brassen
 5		morbier cheese
 5		spice islands pure almond extract
-5		spice islands® fine grind sea salt
+5		spice islandsï¿½ fine grind sea salt
 5		radijsmix
 5		reserved drippings
 5		cinnamon cookies
@@ -14573,7 +14589,7 @@
 5		kreeftenbouillon
 5		kreeftenfond
 5		braised beef short ribs
-5		pfanni teig für kartoffel-puffer
+5		pfanni teig fï¿½r kartoffel-puffer
 5		krispy kreme doughnuts
 5		country dijon
 5		abrikozengelei
@@ -14582,15 +14598,15 @@
 5		lavender bitters
 5		jalapeno jack
 5		blutorangensaft
-5		knorr® pasta sides™ - parmesan
+5		knorrï¿½ pasta sidesï¿½ - parmesan
 5		piment despelette
 5		blue velvet cake mix
 5		whole wheat kaiser rolls
-5		knorr® homestyle stock™ chicken stock
+5		knorrï¿½ homestyle stockï¿½ chicken stock
 5		quick rise active dry yeast
 5		low-fat firm silken tofu
 5		tree ears
-5		pillsbury™ grands!™ big & buttery refrigerated crescent dinner rolls
+5		pillsburyï¿½ grands!ï¿½ big & buttery refrigerated crescent dinner rolls
 5		tijmhoning
 5		silver floss sauerkraut
 5		gyros spice mix
@@ -14600,22 +14616,22 @@
 5		raw seafood
 5		knorr tomato bouillon
 5		classic butter golden cake mix
-5		knorr® rice sides™ - herb & butter
+5		knorrï¿½ rice sidesï¿½ - herb & butter
 5		dista rice
 5		guiness
-5		gulaschgewürz
+5		gulaschgewï¿½rz
 5		grutten
-5		knorr® pasta sides™ - butter & herb
+5		knorrï¿½ pasta sidesï¿½ - butter & herb
 5		gum tragacanth
 5		knorr sweety palatschinken
-5		knorr soße zu rahmgerichten
+5		knorr soï¿½e zu rahmgerichten
 5		bob evans italian sausage
 5		haferkleie
 5		knorr sweety milchreis
 5		schweinsleber
 5		pillsbury sugar cookies
 5		haferkekse
-5		pillsbury™ refrigerated garlic butter crescent dinner rolls
+5		pillsburyï¿½ refrigerated garlic butter crescent dinner rolls
 5		knox original gelatine
 5		bluecoat gin
 4		chicken schnitzel
@@ -14624,7 +14640,7 @@
 4		cream of wheat farina
 4		lammsalami
 4		knorr pasta side   chicken broccoli
-4		conimex djahé
+4		conimex djahï¿½
 4		kaasflakes
 4		everzwijnfilet
 4		linwoods flaxseed
@@ -14637,7 +14653,7 @@
 4		jones dairy farm ham steak
 4		nestle toll house morsels
 4		carnation instant breakfast
-4		jonshonville® cajun style chicken sausage
+4		jonshonvilleï¿½ cajun style chicken sausage
 4		lipton cold brew famili size tea bag
 4		lipton black tea
 4		jose cuervo gold tequila
@@ -14670,7 +14686,7 @@
 4		baby purple artichokes
 4		meat glaze
 4		organic low-fat vanilla yogurt
-4		velouté sauce
+4		veloutï¿½ sauce
 4		organic valley heavy whipping cream
 4		kalkoenpoten
 4		chebe garlic-onion breadstick mix
@@ -14699,13 +14715,13 @@
 4		sugarcane sticks
 4		limoenschijfjes
 4		babysalat
-4		sargento® traditional cut shredded sharp cheddar cheese
-4		bacardi® mixers mojito mix
+4		sargentoï¿½ traditional cut shredded sharp cheddar cheese
+4		bacardiï¿½ mixers mojito mix
 4		red river cereal
 4		skinnypop popcorn
 4		ragu cheesi light parmesan alfredo sauc
 4		rocoto pepper
-4		carte d'or crèma di mascarpone ice cream
+4		carte d'or crï¿½ma di mascarpone ice cream
 4		kalbsbries
 4		vintage seltzer water
 4		bacardi coconut rum
@@ -14716,12 +14732,12 @@
 4		mccormick original country gravy mix
 4		amer picon
 4		trassipoeder
-4		truvía® simple syrup
+4		truvï¿½aï¿½ simple syrup
 4		jell-o banana cream instant pudding mix
 4		lamb for stew
 4		la choy chop suey vegetables
 4		cranberry grape cocktail
-4		amarettolikör
+4		amarettolikï¿½r
 4		turkey rub
 4		chile colorado
 4		banana nectar
@@ -14731,7 +14747,7 @@
 4		american eggplant
 4		lipton red tea with harvest strawberri & passionfruit flavor pyramid tea bag
 4		fajita size whole wheat tortillas
-4		jennie-o® ground turkey
+4		jennie-oï¿½ ground turkey
 4		stuffed pasta
 4		shredded low-fat monterey jack and colby cheese
 4		nayonaise
@@ -14740,7 +14756,7 @@
 4		smaakversterker
 4		bananennektar
 4		walnut ice cream
-4		erdbeerpüree
+4		erdbeerpï¿½ree
 4		barefoot pinot noir
 4		 corn bread
 4		san-j tamari
@@ -14756,20 +14772,20 @@
 4		jambon de bayonne
 4		ranch steak
 4		nonfat protein powder
-4		knorr soße zum braten
+4		knorr soï¿½e zum braten
 4		pork top loin chops
 4		japanese horseradish
 4		cappelletti
 4		knorr spaghetteria sauce quattro formaggi
 4		lablab beans
 4		small creamer potatoes
-4		jennie-o® lean italian seasoned ground turkey
+4		jennie-oï¿½ lean italian seasoned ground turkey
 4		chicory endive
 4		village harvest arborio rice
-4		cranberrypaté
+4		cranberrypatï¿½
 4		amaretto brandy
 4		natuuryoghurt
-4		erdbeerlikör
+4		erdbeerlikï¿½r
 4		waldpilze
 4		mutsu apple
 4		curry ketchup
@@ -14785,7 +14801,7 @@
 4		cheese puffs
 4		nestle chocolate
 4		zesten
-4		johnsonville® sweet italian sausage links
+4		johnsonvilleï¿½ sweet italian sausage links
 4		rolled spelt
 4		suey choy
 4		x-rated vodka
@@ -14793,17 +14809,17 @@
 4		knorr tomaten ketchup
 4		san luis sourdough bread
 4		walkers shortbread
-4		nestlé toll house semi-sweet chocolate chunks
+4		nestlï¿½ toll house semi-sweet chocolate chunks
 4		lipton readi to drink lemon sweeten iced tea
 4		cut loin pork chops
 4		sliced salmon
-4		frisckäse
+4		frisckï¿½se
 4		kway teow
 4		chicorrekolben
 4		tomato bouillon cubes
 4		lamb loin roast
 4		chermoula spice blend
-4		knorr salatkrönung bärlauch-schalotten-kräuter
+4		knorr salatkrï¿½nung bï¿½rlauch-schalotten-krï¿½uter
 4		knorr roast chicken gravi mix
 4		aalfilet
 4		kuhmilch
@@ -14817,11 +14833,11 @@
 4		lamb seasoning
 4		fire & flavor coffee rub
 4		waffle cereal
-4		mezzetta® sundried tomato & basil everything spread
+4		mezzettaï¿½ sundried tomato & basil everything spread
 4		chipotle pepper sandwich spread
 4		psyllium seeds
 4		silk light original soymilk
-4		yoplait® greek 2% lemon meringue yogurt
+4		yoplaitï¿½ greek 2% lemon meringue yogurt
 4		zongedroogdetomatentapenade
 4		creole seasoning mix
 4		panini buns
@@ -14853,7 +14869,7 @@
 4		kingklip fish
 4		mescal
 4		ajwain seed
-4		yoplait® greek 2% café mocha yogurt
+4		yoplaitï¿½ greek 2% cafï¿½ mocha yogurt
 4		oreo chocolate cookie crumbs
 4		conimex woksaus sweet chili
 4		sweetened iced tea
@@ -14921,11 +14937,11 @@
 4		chewing gum
 4		red cream soda
 4		raw ham
-4		champignoncrèmesoep
+4		champignoncrï¿½mesoep
 4		oscar mayer wieners
 4		kohlrabi greens
 4		celery salad
-4		yoplait® greek 100 apple pie yogurt
+4		yoplaitï¿½ greek 100 apple pie yogurt
 4		skinless pollock fillets
 4		after eight dark chocolate
 4		kraft blue cheese dressing
@@ -14934,7 +14950,7 @@
 4		coral
 4		rack of veal
 4		conimex roerbaksaus babi pangang
-4		mezzetta® roasted red bell pepper strips & caramelized onions
+4		mezzettaï¿½ roasted red bell pepper strips & caramelized onions
 4		skinless boneless pheasant breasts
 4		agartine
 4		french toast crunch cereal
@@ -14944,7 +14960,7 @@
 4		knorr kant en klaar stroganoffsaus
 4		lebanon bologna
 4		augurkenblokjes
-4		mezzetta® napa valley bistro authentic pizza sauce
+4		mezzettaï¿½ napa valley bistro authentic pizza sauce
 4		katsuo bushi
 4		languste
 4		yellow straightneck squash
@@ -14967,7 +14983,7 @@
 4		leavening agents
 4		altbier
 4		kraft chipotle flavored reduced fat mayonnaise
-4		knorr® homestyle stock - reduced sodium chicken
+4		knorrï¿½ homestyle stock - reduced sodium chicken
 4		karamellaufstrich
 4		kraft cheese spread
 4		babka
@@ -14977,7 +14993,7 @@
 4		skinless grouper
 4		vegan chicken flavored bouillon cubes
 4		b&m baked beans
-4		mezzetta® roasted yellow and red sweet bell peppers
+4		mezzettaï¿½ roasted yellow and red sweet bell peppers
 4		lapsang
 4		organic valley half & half
 4		pruimencompote
@@ -14990,13 +15006,13 @@
 4		andre champagne
 4		khus syrup
 4		quorn fillets
-4		simply potatoes® traditional mashed potatoes
-4		simply potatoes® homestyle slices
+4		simply potatoesï¿½ traditional mashed potatoes
+4		simply potatoesï¿½ homestyle slices
 4		less sodium fish sauce
 4		simply potatoes steakhouse seasoned diced potatoes
 4		kielbasa (not low fat)
 4		medlars
-4		röstimasse
+4		rï¿½stimasse
 4		kikkoman hoisin sauce
 4		yogurt drinks
 4		less sodium condensed cream of chicken soup
@@ -15031,11 +15047,11 @@
 4		zing zang bloody mary mix
 4		raw wildflower honey
 4		elk loin
-4		mezzetta® hot cherry peppers
+4		mezzettaï¿½ hot cherry peppers
 4		zoutvlokken
 4		soup celery
 4		botticelli extra virgin olive oil
-4		birnenhälften
+4		birnenhï¿½lften
 4		pepperidge farm garlic bread
 4		ono fillets
 4		low sodium mozzarella cheese
@@ -15051,13 +15067,13 @@
 4		bonito fillets
 4		muir glen pasta sauce
 4		gluten-free yeast
-4		gemüsesuppe
-4		mission® white corn tortillas
+4		gemï¿½sesuppe
+4		missionï¿½ white corn tortillas
 4		hertog romige vanille
-4		mokkalikör
-4		gemüsebrühpulver
+4		mokkalikï¿½r
+4		gemï¿½sebrï¿½hpulver
 4		hertog slagroomijs light
-4		gemüsebouillon
+4		gemï¿½sebouillon
 4		steak tomato
 4		maranatha almond butter
 4		requeson cheese
@@ -15065,7 +15081,7 @@
 4		rinderschulter
 4		devonshire cream
 4		birthday cake ice cream
-4		weiße pfirsiche
+4		weiï¿½e pfirsiche
 4		bisto gravy mix
 4		soft ripen chees
 4		manischewitz wine
@@ -15089,7 +15105,7 @@
 4		pickled cauliflower
 4		gevalia coffee
 4		blachan
-4		béchamelsosse
+4		bï¿½chamelsosse
 4		double cream cheese
 4		toaster strudel
 4		spice islands garlic salt
@@ -15099,7 +15115,7 @@
 4		reduced sodium tomato paste
 4		coco pops
 4		green giant creamed spinach
-4		brotgewürz
+4		brotgewï¿½rz
 4		saga blue
 4		planters cashews
 4		reduced sodium marinara sauce
@@ -15129,7 +15145,7 @@
 4		reduced sodium kidney beans
 4		low sodium cheddar cheese
 4		godiva dark chocolate
-4		spice islands® sesame seeds
+4		spice islandsï¿½ sesame seeds
 4		bospaddestoelenbouillontablet
 4		hock end
 4		hochrippe
@@ -15137,13 +15153,13 @@
 4		cabot habanero cheddar
 4		mole poblano
 4		unsalted roasted macadamias
-4		hidden valley® farmhouse originals italian with herbs dressing
+4		hidden valleyï¿½ farmhouse originals italian with herbs dressing
 4		bihon
 4		biggareaux
-4		schwarzwälderschinken
+4		schwarzwï¿½lderschinken
 4		phyllo sheet strudel
 4		glycerine
-4		hidden valley® original ranch® roasted garlic dressing
+4		hidden valleyï¿½ original ranchï¿½ roasted garlic dressing
 4		derby cheese
 4		wild planet tuna
 4		weizenkleie
@@ -15166,7 +15182,7 @@
 4		ogenmelone
 4		hellmann' or best food honei mustard
 4		wholemeal buns
-4		salatkräuter
+4		salatkrï¿½uter
 4		mosterdkool
 4		burgunder
 4		pina colada concentrate
@@ -15187,7 +15203,7 @@
 4		sourdough sandwich rolls
 4		mandarinenspalten
 4		gluten free almond paste
-4		mandelgebäck
+4		mandelgebï¿½ck
 4		low-fat corn tortillas
 4		schweinekamm
 4		squid fish sauce
@@ -15213,7 +15229,7 @@
 4		gluten free red curry paste
 4		soynut butter
 4		gumbo base mix
-4		blütenhonig
+4		blï¿½tenhonig
 4		bockworsten
 4		gumbo file seasoning
 4		dole field greens
@@ -15254,7 +15270,7 @@
 4		heinz beans
 4		manischewitz chicken broth
 4		tips
-4		diepvriesmaïs
+4		diepvriesmaï¿½s
 4		butterscotch glaze
 4		wholemeal biscuits
 4		ruffles  potato chips
@@ -15263,7 +15279,7 @@
 4		reese peanut butter cup
 4		harissapaste
 4		mango ginger
-4		nürnberger
+4		nï¿½rnberger
 4		gluten-free cocoa
 4		mozzarella garlic bread
 4		spectrum canola mayonnaise
@@ -15272,7 +15288,7 @@
 4		harusame
 4		ground cacao
 4		buckwheat cereal
-4		hasenrücken
+4		hasenrï¿½cken
 4		mango coulis
 4		whole wheat cracker crumbs
 4		rubschlager bread
@@ -15286,8 +15302,8 @@
 4		modena balsamic vinegar
 4		low-fat banana yogurt
 4		whole wheat short pasta
-4		stacy's® multigrain pita chips
-4		stacy's® parmesan garlic & herb pita chips
+4		stacy'sï¿½ multigrain pita chips
+4		stacy'sï¿½ parmesan garlic & herb pita chips
 4		ruby pink grapefruit
 4		groentenfond
 4		wesson vegetable oil
@@ -15399,12 +15415,12 @@
 4		loco
 4		wish-bone light raspberry walnut vinaigrette dressing
 4		breakfast steak
-4		becel diät für den kaffee
+4		becel diï¿½t fï¿½r den kaffee
 4		irish mist
 4		strawberry cheesecake ice cream
 4		peruvian corn
 4		pork cube steak
-4		breyers® vanilla, chocolate, strawberry ice cream
+4		breyersï¿½ vanilla, chocolate, strawberry ice cream
 4		lorna doone
 4		chunky hot salsa
 4		loquat
@@ -15420,7 +15436,7 @@
 4		sauce thickener
 4		honeysuckle white turkey
 4		bertolli carbonara sauce
-4		breyers blasts!® oreo® cookies & cream
+4		breyers blasts!ï¿½ oreoï¿½ cookies & cream
 4		bramble
 4		calabrian chile
 4		barilla rigatoni
@@ -15428,7 +15444,7 @@
 4		mission figlets
 4		noosa yoghurt
 4		orange flavor dark chocolate
-4		honeysuckle white® sweet italian turkey sausage links
+4		honeysuckle whiteï¿½ sweet italian turkey sausage links
 4		unfrosted cupcakes
 4		payday candy bars
 4		multigrain cereal mix
@@ -15459,7 +15475,7 @@
 4		bertolli pasta sauce - pecorino
 4		sea lettuce
 4		marzipan roses
-4		frontier® organic turmeric
+4		frontierï¿½ organic turmeric
 4		sodium free vegetable broth
 4		lowfat reducedsodium chicken broth
 4		cake mixer
@@ -15511,7 +15527,7 @@
 4		granatfruchtsaft
 4		bellino pesto sauce
 4		wasabipulver
-4		calvé dressing caesar
+4		calvï¿½ dressing caesar
 4		horseradish dressing
 4		van camps pork and beans
 4		dried almond
@@ -15560,8 +15576,8 @@
 3		molinari
 3		cinnamon sugar doughnuts
 3		organic valley pasture butter
-3		triple crème cheese
-3		country crock® cinnamon spread
+3		triple crï¿½me cheese
+3		country crockï¿½ cinnamon spread
 3		round hard rolls
 3		oka
 3		escolar
@@ -15573,7 +15589,7 @@
 3		tumtum
 3		mosterdcress
 3		rustic rub seasoning
-3		cremissimo eierlikör-vanille
+3		cremissimo eierlikï¿½r-vanille
 3		roterjohannisbeersaft
 3		rotisserie seasoning
 3		octopus sashimi
@@ -15605,13 +15621,13 @@
 3		take 5 candy bars
 3		runderballetjes
 3		delallo balsamic vinegar
-3		crème de marron
+3		crï¿½me de marron
 3		coffee bitters
 3		del monte peas
-3		conimex satésaus mild
+3		conimex satï¿½saus mild
 3		chipolatapudding
 3		tandoori sauce
-3		ore-ida® country style hash browns
+3		ore-idaï¿½ country style hash browns
 3		coke cola
 3		unfrosted brownies
 3		chocolate covered marshmallows
@@ -15631,8 +15647,8 @@
 3		conimex sweet chili saus
 3		chinese star anise
 3		chinook salmon
-3		duncan hines® creamy home-style milk chocolate frosting
-3		duncan hines® moist deluxe® butter recipe fudge cake mix
+3		duncan hinesï¿½ creamy home-style milk chocolate frosting
+3		duncan hinesï¿½ moist deluxeï¿½ butter recipe fudge cake mix
 3		chinese vermicelli
 3		crystal farms shredded wisconsin monterey jack cheese
 3		chinese winter melon
@@ -15656,7 +15672,7 @@
 3		cocoyam
 3		east india sherry
 3		tasajo
-3		runderconsommé
+3		runderconsommï¿½
 3		davis baking powder
 3		tomatenchutney
 3		tomato garlic pasta sauce
@@ -15692,7 +15708,7 @@
 3		mung bean threads
 3		daun salam
 3		colgin liquid smoke
-3		conimex javaanse pinda satésaus
+3		conimex javaanse pinda satï¿½saus
 3		cultured butter with sea salt
 3		s'more ic cream
 3		tarwegluten
@@ -15701,14 +15717,14 @@
 3		myun
 3		conimex boemboe smoor vlees
 3		curly chicory
-3		roquefortkäse
+3		roquefortkï¿½se
 3		orange unsweetened kool aid powdered drink mix
 3		chocoknispers
 3		tomme de savoie cheese
 3		tantillo extra virgin olive oil
 3		mirassou sauvignon blanc
 3		della rice
-3		duncan hines comstock® country cherry
+3		duncan hines comstockï¿½ country cherry
 3		dock
 3		cholent beans
 3		erdbeereis
@@ -15719,7 +15735,7 @@
 3		corn bread crumbs
 3		turkey strips
 3		varkenshammetje
-3		römersalatblätter
+3		rï¿½mersalatblï¿½tter
 3		digiorno grated romano cheese
 3		croustade
 3		naturelchips
@@ -15740,7 +15756,7 @@
 3		clos du bois cabernet sauvignon
 3		tigerprawns
 3		organic reduced sodium chicken broth
-3		vanillelikör
+3		vanillelikï¿½r
 3		driscolls raspberries
 3		tijgerbrood
 3		crescenza
@@ -15749,7 +15765,7 @@
 3		turkey jerky
 3		treasure cave crumbled blue cheese
 3		crisco all-vegetable shortening sticks
-3		salatöl
+3		salatï¿½l
 3		unsweetened low-fat coconut milk
 3		crisco pure corn oil
 3		tilefish
@@ -15772,7 +15788,7 @@
 3		diamond of california hazelnuts
 3		teddy grahams cookies
 3		cooked italian sweet sausages
-3		cocktailsoße
+3		cocktailsoï¿½e
 3		crusty cobb loaf
 3		varkensstaart
 3		non-fat tortilla chips
@@ -15816,9 +15832,9 @@
 3		salted soybeans
 3		thai sweet soy sauce
 3		cracked wheat bread
-3		mild gruyére
+3		mild gruyï¿½re
 3		boneless flanken short ribs
-3		yoplait® greek 2% key lime pie yogurt
+3		yoplaitï¿½ greek 2% key lime pie yogurt
 3		boneless sirloin roast
 3		low-fat unsweetened coconut milk
 3		whole wheat breadsticks
@@ -15848,14 +15864,14 @@
 3		whole wheat bread crusts
 3		simply organic paprika
 3		kipper fillets
-3		spice islands® ancho chile powder
+3		spice islandsï¿½ ancho chile powder
 3		great grains cereal
 3		greater galangal
 3		simply organic crushed red pepper
 3		boterwafeltjes
 3		kishka loaf
 3		bosvruchtencocktail
-3		kirschäpfel
+3		kirschï¿½pfel
 3		sesame rolls
 3		phyllo dough shells
 3		lemon wafers
@@ -15867,9 +15883,9 @@
 3		bordeaux syrup
 3		sesame ginger stir-fry sauce
 3		boo berry cereal
-3		green giant™ roasted veggie zesty cheddar tortilla chips
+3		green giantï¿½ roasted veggie zesty cheddar tortilla chips
 3		bonita
-3		green giant™ steamers™ frozen honey roasted sweet corn
+3		green giantï¿½ steamersï¿½ frozen honey roasted sweet corn
 3		low-fat waffles
 3		spice islands ground mustard
 3		green jasmine tea
@@ -15933,31 +15949,31 @@
 3		senfmehl
 3		low-fat italian sausage
 3		shad fillets
-3		spice islands® chipotle chile powder
+3		spice islandsï¿½ chipotle chile powder
 3		hard-wheat flour
-3		knorr fix für zwiebel-rahm schnitzel
+3		knorr fix fï¿½r zwiebel-rahm schnitzel
 3		spring ginger
 3		gnocchetti
 3		gnocchetti sardi
 3		brown gel coloring
-3		knorr gemüse bouquet
+3		knorr gemï¿½se bouquet
 3		knorr four cheese sauce mix
 3		godiva dark chocolate hot cocoa
 3		godiva hot cocoa
 3		brooks chili beans
-3		brombeerlikör
+3		brombeerlikï¿½r
 3		sponge biscuits
 3		maggi vegetable cubes
 3		gold balls
 3		spirali
 3		broccolistelen
-3		knorr fix für schlemmer-geschnetzeltes
+3		knorr fix fï¿½r schlemmer-geschnetzeltes
 3		gold food coloring
 3		broccoli soup
 3		gold leaves
-3		perdue® harvestland® fresh boneless skinless chicken breasts
-3		perdue® harvestland® fresh whole chicken with giblets
-3		knorr fix für currywurst
+3		perdueï¿½ harvestlandï¿½ fresh boneless skinless chicken breasts
+3		perdueï¿½ harvestlandï¿½ fresh whole chicken with giblets
+3		knorr fix fï¿½r currywurst
 3		white sea bass
 3		magermilchpulver
 3		knorr fish stock pots
@@ -15981,7 +15997,7 @@
 3		white chard
 3		browniemix
 3		schlangenbohnen
-3		leberwürste
+3		leberwï¿½rste
 3		brownie crust
 3		gluten-free quinoa
 3		brownie chocolate cream fudge ice
@@ -16013,27 +16029,27 @@
 3		simply organic all-purpose seasoning
 3		pumpernickel rolls
 3		whole grain hot dog buns
-3		pfefferminzöl
+3		pfefferminzï¿½l
 3		spicy dill pickles
 3		pumpernickel loaf
 3		grapefruitschil
 3		klondike rose red skin potato
 3		grasshoppers
 3		lowfat hot dogs sliced
-3		spice islands® smoked paprika
+3		spice islandsï¿½ smoked paprika
 3		pete and gerry's organic eggs
 3		breadcrumb mix
 3		goya hot sauce
 3		breadstick crackers
 3		golden needle mushroom
 3		madeirawein
-3		breyers® ice cream
-3		breyers® coffee ice cream
+3		breyersï¿½ ice cream
+3		breyersï¿½ coffee ice cream
 3		macintosh toffee bar
-3		knorr feinschmecker kartoffel suppe mit crème fraîche
+3		knorr feinschmecker kartoffel suppe mit crï¿½me fraï¿½che
 3		spinazietagliatelle
 3		knorr feinschmecker curry sauce
-3		breyers blasts!® girl scout cookies® thin mints®
+3		breyers blasts!ï¿½ girl scout cookiesï¿½ thin mintsï¿½
 3		anise-flavor liqueur
 3		anna capellini
 3		gorditas
@@ -16043,8 +16059,8 @@
 3		punsch
 3		knorr chicken gravy pots
 3		knorr cajun side   dirti rice
-3		knorr bärenschöpfer minestrone
-3		gorton’s simply bake salmon
+3		knorr bï¿½renschï¿½pfer minestrone
+3		gortonï¿½s simply bake salmon
 3		persian lime juice
 3		simple poached salmon
 3		goslings rum
@@ -16088,7 +16104,7 @@
 3		bertolli ongezouten
 3		lipton green tea with citru tea bag
 3		sodium free margarine
-3		bertolli olivenöl extra vergine
+3		bertolli olivenï¿½l extra vergine
 3		reduced sodium fish sauce
 3		bakers angel flake coconut
 3		sea robins
@@ -16111,7 +16127,7 @@
 3		woolwich dairy goat cheese
 3		low fat chicken sausage
 3		porcino
-3		johnsonville® apple chicken sausage
+3		johnsonvilleï¿½ apple chicken sausage
 3		barilla plus bow tie pasta
 3		seafood seasoning mix
 3		lobster coral
@@ -16156,7 +16172,7 @@
 3		indian fry bread
 3		wish bone superfruit berri vinaigrett dress
 3		bean paste with chili
-3		pork liver pâté
+3		pork liver pï¿½tï¿½
 3		bbq gravy
 3		pork loin center rib roast
 3		lipton recipe secrets
@@ -16169,14 +16185,14 @@
 3		wish-bone light buffalo ranch dressing
 3		basisvinaigrette
 3		potsticker skins
-3		johnsonville® classic italian style meatballs
+3		johnsonvilleï¿½ classic italian style meatballs
 3		harp beer
 3		reduced sugar jelly
-3		bacardi® 8
+3		bacardiï¿½ 8
 3		sojabrokjes
 3		hellmann' or best food low fat mayonnais dress
 3		wholesome sweeteners organic light brown sugar
-3		bacardi® 8 rum
+3		bacardiï¿½ 8 rum
 3		black currant cordial
 3		pitabrot
 3		pitahajas
@@ -16221,13 +16237,13 @@
 3		piri piri powder
 3		kalijira rice
 3		hecht
-3		pistachecrème
+3		pistachecrï¿½me
 3		pistacheolie
 3		black patent malt
 3		low sodium vegetable stock cubes
 3		heilbutt
 3		pistachio nougatine
-3		piñon
+3		piï¿½on
 3		kabeljauwburgers
 3		sea perch fillets
 3		hoja santa leaves
@@ -16249,14 +16265,14 @@
 3		lipton diet green tea with watermelon
 3		home made beef broth
 3		baked cupcake
-3		johnsonville® vermont maple syrup breakfast sausage links
+3		johnsonvilleï¿½ vermont maple syrup breakfast sausage links
 3		bertolli roast red pepper with italian herb sauc
 3		low sodium canellini beans
 3		homemade giblet stock
 3		low sodium blond or white miso
 3		bertolli pastasaus pikante calabrese
 3		bertolli pasta sauce - sonnengetrocknete tomaten
-3		bertolli pasta sauce - gegrilltes gemüse
+3		bertolli pasta sauce - gegrilltes gemï¿½se
 3		xylit
 3		betty crocker frosting
 3		hiziki
@@ -16272,11 +16288,11 @@
 3		red skin peanuts
 3		hidden valley dressing
 3		red sour cherries
-3		hidden valley® greek yogurt original ranch® dressing mix
-3		hidden valley® original ranch® cucumber dressing
+3		hidden valleyï¿½ greek yogurt original ranchï¿½ dressing mix
+3		hidden valleyï¿½ original ranchï¿½ cucumber dressing
 3		slagersham
-3		hidden valley® original ranch® light buttermilk dressing
-3		hidden valley® original ranch® sweet chili dressing
+3		hidden valleyï¿½ original ranchï¿½ light buttermilk dressing
+3		hidden valleyï¿½ original ranchï¿½ sweet chili dressing
 3		bierbeslag
 3		biefstukkruiden
 3		hillshire farm beef smoked sausage
@@ -16290,14 +16306,14 @@
 3		white sausage
 3		pepparkakor cookies
 3		sunday gravy
-3		paprikaschotenwürfel
+3		paprikaschotenwï¿½rfel
 3		fresh calamari rings
 3		casillero del diablo cabernet sauvignon
 3		adukibonen
 3		zuckerstangen
 3		fresh curry
 3		cascabel powder
-3		carte d’or amaretto and vanilla ice cream
+3		carte dï¿½or amaretto and vanilla ice cream
 3		kraft dressing
 3		suikervervanger
 3		wagon wheel pasta, cook and drain
@@ -16305,7 +16321,7 @@
 3		sugar-free butterscotch syrup
 3		waldbeeren
 3		kraft 2% milk singles
-3		mccormick® gourmet collection ancho chile pepper
+3		mccormickï¿½ gourmet collection ancho chile pepper
 3		fresh perch fillets
 3		rabarberstengels
 3		carnation regular evaporated milk
@@ -16333,13 +16349,13 @@
 3		foster farms chicken breasts
 3		kraft pepper jack cheese
 3		ad cream ic no sugar vanilla
-3		vollkornsemmelbrösel
+3		vollkornsemmelbrï¿½sel
 3		caviar & roe
 3		medium pitted olives
 3		free range organic large eggs
 3		sargento ricotta cheese
 3		rodelle lemon extract
-3		paprikafrischkäse
+3		paprikafrischkï¿½se
 3		french fry seasoning
 3		cassis puree
 3		land o lakes sour cream
@@ -16388,14 +16404,14 @@
 3		pepersteaks
 3		silk chocolate soymilk
 3		frontier white pepper
-3		frontier® dried oregano
-3		stubenküken
+3		frontierï¿½ dried oregano
+3		stubenkï¿½ken
 3		konafa
-3		frontier® organic cayenne pepper
+3		frontierï¿½ organic cayenne pepper
 3		roasted red pepper spread
-3		frontier® organic thyme
+3		frontierï¿½ organic thyme
 3		passion fruit vodka
-3		frontier® red pepper flakes
+3		frontierï¿½ red pepper flakes
 3		mccormick onion salt
 3		frosted animal cookies
 3		frosted mini wheats cereal
@@ -16405,9 +16421,9 @@
 3		zwaardvisfilet
 3		candied clementine
 3		fat-free frozen chocolate yogurt
-3		mezzetta® napa valley bistro homemade style basil pesto
+3		mezzettaï¿½ napa valley bistro homemade style basil pesto
 3		chicken glace
-3		mezzetta® maraschino cherries
+3		mezzettaï¿½ maraschino cherries
 3		chicken franks
 3		fat-free vegetarian refried beans
 3		la victoria salsa verde
@@ -16417,7 +16433,7 @@
 3		sweetened frozen strawberries
 3		chicken broth cubes
 3		2% low-fat evaporated milk
-3		mezzetta® deli-sliced golden greek peperoncini
+3		mezzettaï¿½ deli-sliced golden greek peperoncini
 3		2% reduced fat chocolate milk
 3		la choy bean sprouts
 3		sweet tree coconut palm sugar
@@ -16429,13 +16445,13 @@
 3		sweet tamarind
 3		33% less sodium smoked fully cooked ham
 3		fiberhusk
-3		käsewürfeli
+3		kï¿½sewï¿½rfeli
 3		fat-free liquid creamer
 3		fat-free fromage blanc
 3		ragu old world style smooth pasta sauc
 3		swiss miss hot cocoa mix
 3		lake perch fillets
-3		tabasco® original pepper sauce
+3		tabascoï¿½ original pepper sauce
 3		chile juice
 3		oriental flavor ramen noodle soup
 3		oriental radish
@@ -16458,7 +16474,7 @@
 3		velveeta cheese sauce
 3		fat free strawberry cream cheese
 3		shredded kraftlow-fat cheddar cheese
-3		mezzetta® spanish manzanilla olives with minced pimento
+3		mezzettaï¿½ spanish manzanilla olives with minced pimento
 3		very fine vermicelli
 3		cherry whiskey
 3		mezzetta olive, parmesan & garlic everything spread
@@ -16469,7 +16485,7 @@
 3		abc kecap manis
 3		kruidenbouillonblok
 3		kruidenbitter
-3		champignonpaté
+3		champignonpatï¿½
 3		flavored wine
 3		swedish fish candy
 3		palo cortado sherry
@@ -16487,7 +16503,7 @@
 3		flora pro.activ
 3		absolut orient apple vodka
 3		shrimp seafood cocktail sauce
-3		flüssigwürze
+3		flï¿½ssigwï¿½rze
 3		rolled lamb roast
 3		visballetjes
 3		krulslamelange
@@ -16498,7 +16514,7 @@
 3		kuttelfleck
 3		rolmops
 3		sweet mustard sauce
-3		filé
+3		filï¿½
 3		fine olive oil
 3		shredded reduced fat reduced sodium swiss cheese
 3		kuminpulver
@@ -16530,10 +16546,10 @@
 3		cabernet franc
 3		rinderroulade
 3		zen green tea liqueur
-3		bénédictine d.o.m.
+3		bï¿½nï¿½dictine d.o.m.
 3		mashed potato mix
-3		weißwurst
-3		gewürzblütenmischung
+3		weiï¿½wurst
+3		gewï¿½rzblï¿½tenmischung
 3		steak and burger seasoning
 3		manitoba harvest hemp protein powder
 3		byrrh
@@ -16544,18 +16560,18 @@
 3		manischewitz matzo ball mix
 3		knorr tomato al gusto basilikum
 3		rindsuppe
-3		ziegenkäserolle
+3		ziegenkï¿½serolle
 3		stelle
 3		cake rolls
 3		ritz toasted chips
 3		alpha-bits cereal
 3		cake mate decorating gel
-3		cajungewürz
+3		cajungewï¿½rz
 3		alphabet cookies
-3		knorr® asian sides™ - chicken fried rice
-3		martha white® self-rising enriched yellow corn meal mix
+3		knorrï¿½ asian sidesï¿½ - chicken fried rice
+3		martha whiteï¿½ self-rising enriched yellow corn meal mix
 3		cajun power garlic sauce
-3		knorr würzige burger sauce
+3		knorr wï¿½rzige burger sauce
 3		garlic bagel chips
 3		weisswurst
 3		cafe du monde coffee
@@ -16563,7 +16579,7 @@
 3		sternfrucht
 3		cadbury crispy crunch bars
 3		stem lettuce
-3		maronipüree
+3		maronipï¿½ree
 3		zijdetahoe
 3		garlic soup
 3		sauternes
@@ -16594,7 +16610,7 @@
 3		gluten free sandwich cookies
 3		knorr mix voor ovenpasta ham-kaas
 3		mandelkern
-3		starbucks® unsweetened iced coffee beverage - brewed to personalize
+3		starbucksï¿½ unsweetened iced coffee beverage - brewed to personalize
 3		scharreladvocaat
 3		buttermilk self-rising white cornmeal mix
 3		mangosteen
@@ -16632,36 +16648,36 @@
 3		campbells healthy request cheddar cheese soup
 3		mazola canola oil
 3		knudsen cottage cheese
-3		campbell's® condensed 98% fat free broccoli cheese soup
+3		campbell'sï¿½ condensed 98% fat free broccoli cheese soup
 3		camel
-3		weber® chicago steak seasoning
+3		weberï¿½ chicago steak seasoning
 3		lattice crust
 3		patissons
-3		früchtemix
-3		weber® no-stick grill spray
+3		frï¿½chtemix
+3		weberï¿½ no-stick grill spray
 3		fuzzy navel mix
 3		mccormick allspice
 3		calf feet
-3		game pâté
+3		game pï¿½tï¿½
 3		pastry tart shell
 3		stouffer''s lasagna
 3		mccormick allspice, ground
 3		fullycook bread chicken cutlet
-3		knorr® menu flavors rice sides™ steak fajitas flavor
+3		knorrï¿½ menu flavors rice sidesï¿½ steak fajitas flavor
 3		ravioli dough
 3		fudgy frosting
-3		zitronenlikör
+3		zitronenlikï¿½r
 3		shaojiu
 3		fruit-flavored brandy
 3		lavendelhonig
 3		fusilli col buco
 3		zitroneneis
 3		mayonnaise salad dressing
-3		satékruiden
+3		satï¿½kruiden
 3		fruit flavored breath mints
 2		new york style mini bagel crisps
 2		balm leaves
-2		365 everyday value® artichoke quarters packed in water
+2		365 everyday valueï¿½ artichoke quarters packed in water
 2		rabbit fillets
 2		33% less sodium smoked ham coarsely chopped
 2		quail stock
@@ -16674,7 +16690,7 @@
 2		33% less sodium cooked deli ham
 2		ball pickle crisp granules
 2		505 southwestern green chile sauce
-2		365 everyday value® goat cheese
+2		365 everyday valueï¿½ goat cheese
 2		9 grain bread
 2		reames egg noodles
 2		conger eel
@@ -16701,7 +16717,7 @@
 2		reduced fat buttermilk baking mix
 2		non-dairy eggnog
 2		50% less sodium black beans
-2		yoplait® greek 2% caramel yogurt
+2		yoplaitï¿½ greek 2% caramel yogurt
 2		uienzout
 2		condensed reduced sodium chicken noodle soup
 2		3 musketeers candy bars
@@ -16714,10 +16730,10 @@
 2		coriander green
 2		bananenkwark
 2		condensed low sodium tomato soup
-2		yoplait® greek 100 mango yogurt
+2		yoplaitï¿½ greek 100 mango yogurt
 2		coppa salami
 2		zedoary
-2		yoplait® greek 100 blackberry pie yogurt
+2		yoplaitï¿½ greek 100 blackberry pie yogurt
 2		1% milk fat cottage cheese
 2		bananenschuimpjes
 2		asian rub
@@ -16742,7 +16758,7 @@
 2		angostura low sodium worcestershire sauce
 2		quail legs
 2		nonfat chocolate milk
-2		new york style cinnabon® sweet swirls
+2		new york style cinnabonï¿½ sweet swirls
 2		portugese rolls
 2		portobello gravy
 2		arrowhead mills organic brown rice flour
@@ -16763,7 +16779,7 @@
 2		yellow rocket
 2		yellow ginger
 2		puffball mushroom
-2		bacardi® torched cherry
+2		bacardiï¿½ torched cherry
 2		applegate bacon
 2		radieschenscheiben
 2		baci dark chocolate
@@ -16788,11 +16804,11 @@
 2		runderragout
 2		apple cinnamon preserves
 2		nibs cacao
-2		quaker® instant oatmeal, cinnamon & spice
+2		quakerï¿½ instant oatmeal, cinnamon & spice
 2		pravda vodka
 2		conimex ketjap
 2		zesta crackers
-2		bacardi® o flavored rum
+2		bacardiï¿½ o flavored rum
 2		quiche dough
 2		rabbit kidneys
 2		baby shells
@@ -16807,15 +16823,15 @@
 2		red currant syrup
 2		cooked eggplant
 2		no salt added stewed tomatoes
-2		bacardi® big apple rum
+2		bacardiï¿½ big apple rum
 2		pulla chile
 2		ahi fillets
 2		ngo om
 2		cooked cereal
 2		nonfat dry creamer
-2		bacardi® mixers piña colada
+2		bacardiï¿½ mixers piï¿½a colada
 2		tyson cornish game hens
-2		bacardi® mixers rum runner mix
+2		bacardiï¿½ mixers rum runner mix
 2		conimex mix voor babi pangang
 2		apricot yogurt
 2		adobo style seasoning
@@ -16837,7 +16853,7 @@
 2		red gold ketchup
 2		alaria
 2		alaskan pollock
-2		new york style sea salt bagel crisps®
+2		new york style sea salt bagel crispsï¿½
 2		aardappelchips
 2		raspberry lemonade syrup
 2		a1 sweet mesquite bbq dry rub
@@ -16902,14 +16918,14 @@
 2		caciotta
 2		cacciocavallo
 2		cacciatore
-2		weizenbrötchen
+2		weizenbrï¿½tchen
 2		peanut clusters
 2		weizenpulver
 2		rindersalami
 2		cabbage juice
 2		varkensschenkel
-2		weißbrotscheiben
-2		bánh mì spice blend
+2		weiï¿½brotscheiben
+2		bï¿½nh mï¿½ spice blend
 2		buttfilet
 2		riunite lambrusco
 2		orange cream soda
@@ -16942,33 +16958,33 @@
 2		rose hip tea
 2		welch''s 100% juice
 2		buttermilk salad dressing and seasoning mix
-2		passoã
+2		passoï¿½
 2		vanilla sponge cake mix
-2		buchweizengrütze
+2		buchweizengrï¿½tze
 2		buah keras
 2		pepperidge farm corn bread stuffing
 2		white chili seasoning mix
 2		pepperidge farm farmhouse hearty white bread
 2		pepperidge farm golden butter distinctive crackers
 2		pepperidge farm goldfish crackers
-2		rosésekt
+2		rosï¿½sekt
 2		rice bran syrup
 2		chowder clam
 2		perdue chicken breasts
 2		bronzini
 2		olive loaf
 2		chrysanthemum petals
-2		perdue® fit & easy® boneless, skinless chicken thigh filets
+2		perdueï¿½ fit & easyï¿½ boneless, skinless chicken thigh filets
 2		cracked wheat sourdough bread
-2		perdue® oven stuffer® whole roaster, extra meaty
+2		perdueï¿½ oven stufferï¿½ whole roaster, extra meaty
 2		brinza cheese
-2		perdue® simply smart® individually wrapped, boneless, skinless, chicken breast
+2		perdueï¿½ simply smartï¿½ individually wrapped, boneless, skinless, chicken breast
 2		white tree fungus
 2		rice a roni rice pilaf
-2		breyers™ chocolate flavored ice cream sauce
-2		breyers® peppermint cookie ice cream
-2		breyers® blasts!™ waffle cone with chocolatey chips frozen dairy dessert
-2		breyers® 1/2 the fat creamy vanilla light ice cream
+2		breyersï¿½ chocolate flavored ice cream sauce
+2		breyersï¿½ peppermint cookie ice cream
+2		breyersï¿½ blasts!ï¿½ waffle cone with chocolatey chips frozen dairy dessert
+2		breyersï¿½ 1/2 the fat creamy vanilla light ice cream
 2		on the border tortilla chips
 2		buitoni pesto with basil
 2		buttermilk complete mix waffle pancake
@@ -17019,7 +17035,7 @@
 2		pacific pumpkin puree
 2		organic fat free chicken broth
 2		vegan provolone cheese
-2		rondelé
+2		rondelï¿½
 2		chaurice
 2		pacifico beer
 2		rolled rib roast
@@ -17045,14 +17061,14 @@
 2		venison leg
 2		chicken consomme soup mix
 2		oscar mayer deli fresh virginia brand ham
-2		chiligewürz
+2		chiligewï¿½rz
 2		oscar mayer ham
 2		chicken breast nuggets
 2		oscar mayer honey ham
 2		chilikruidenmix
 2		vegetable coloring
 2		oscar mayer hot dogs
-2		chi-chi's® salsa
+2		chi-chi'sï¿½ salsa
 2		chewy fudge premium brownie mix
 2		osem beef flavor soup & seasoning mix
 2		vermut negre
@@ -17062,7 +17078,7 @@
 2		cascadian farm blueberries
 2		chipotlepeper
 2		carte d'or lavazza ice cream
-2		orangenblütenhonig
+2		orangenblï¿½tenhonig
 2		orangenaroma
 2		carne asada steak
 2		chivas regal
@@ -17086,7 +17102,7 @@
 2		passievruchtenpuree
 2		cape cod select cranberries
 2		carte d'or strawberry ice cream
-2		paradieskörner
+2		paradieskï¿½rner
 2		palmitos
 2		par-baked rolls
 2		pam no-stick cooking spray
@@ -17114,7 +17130,7 @@
 2		cassia buds
 2		casino bread
 2		ore-ida waffle fries
-2		breyers blasts!® m&m's® brand light ice cream
+2		breyers blasts!ï¿½ m&m'sï¿½ brand light ice cream
 2		chuck tender
 2		barefoot cabernet sauvignon
 2		bishops weed
@@ -17146,7 +17162,7 @@
 2		wild boar steak
 2		reduced sodium stewed tomatoes
 2		bertolli pasta sauce - arrabbiata
-2		pié
+2		piï¿½
 2		club steak
 2		bladgroen
 2		pinnacle vanilla vodka
@@ -17272,7 +17288,7 @@
 2		breyer chocol chip ice cream
 2		breyer blasts! chips ahoy! chocol chip cooki frozen dairi dessert
 2		old milwaukee beer
-2		breakstone’s cottage cheese
+2		breakstoneï¿½s cottage cheese
 2		perzikpartjes
 2		breaded chicken breast tenderloins
 2		whole brown flaxseed
@@ -17283,11 +17299,11 @@
 2		petrale
 2		branches
 2		pfanni gnocchi
-2		pfanni rösti
-2		whole foods market™ general tso’s sauce
+2		pfanni rï¿½sti
+2		whole foods marketï¿½ general tsoï¿½s sauce
 2		cicada
 2		braise liquid reduction
-2		rhône wine
+2		rhï¿½ne wine
 2		citroengelei
 2		boneless skin-on duck breast halves
 2		pink rose
@@ -17345,9 +17361,9 @@
 2		whole wheat gingerbread mix
 2		bok choy sum
 2		citrusschillen
-2		citrónge
+2		citrï¿½nge
 2		broccol florets
-2		spice islands® sweet basil
+2		spice islandsï¿½ sweet basil
 2		golden caviar
 2		salted cabbage
 2		kastanienmehl
@@ -17370,7 +17386,7 @@
 2		hidden valley original ranch organic dressing
 2		hidden valley spicy chipotle pepper sandwich spread & dip
 2		emeril's rustic rub
-2		hidden valley® original ranch® avocado dressing
+2		hidden valleyï¿½ original ranchï¿½ avocado dressing
 2		gierstvlokken
 2		saluyot
 2		english roast
@@ -17380,15 +17396,15 @@
 2		kartoffelgnocchi
 2		light fruit pie filling
 2		tamarindepuree
-2		kartoffelpüreeflocken
-2		hidden valley® greek yogurt original ranch® dip mix
+2		kartoffelpï¿½reeflocken
+2		hidden valleyï¿½ greek yogurt original ranchï¿½ dip mix
 2		star wars cereal
 2		mini pita loaves
 2		skinless boneless duck breast halves
 2		emmi le gruyere
 2		emmer
 2		el pato hot sauce
-2		kc masterpiece® garlic & herb marinade
+2		kc masterpieceï¿½ garlic & herb marinade
 2		gianduia
 2		kecap manis sedang
 2		gloria ferrer chardonnay
@@ -17456,7 +17472,7 @@
 2		hodo soy tea infused tofu
 2		kaffir leaf
 2		stella artois beer
-2		süßer weißwein
+2		sï¿½ï¿½er weiï¿½wein
 2		marillennektar
 2		skippi reduc fat creami peanut butter
 2		hodo soy spicy curry nuggets
@@ -17464,7 +17480,7 @@
 2		kalamansi (lime)
 2		limoncino
 2		fasanenbrust
-2		geflügeljus
+2		geflï¿½geljus
 2		farm rich french toast sticks
 2		farm cheese
 2		geitenkaasrolletjes
@@ -17473,7 +17489,7 @@
 2		exotic fruit
 2		entenfilet
 2		kalfsschouder
-2		gewürzöl
+2		gewï¿½rzï¿½l
 2		gherkin juice
 2		erwtensoeppakket
 2		low sodium fat free chicken stock
@@ -17505,16 +17521,16 @@
 2		espresso cavatelli
 2		selleriesalat
 2		kamille
-2		hillshire farm® hardwood chicken smoked sausage
+2		hillshire farmï¿½ hardwood chicken smoked sausage
 2		kamora coffee liqueur
 2		tafelwijn
 2		milk rolls
 2		kandijkoek
 2		hertenpoulet
 2		eden organic tamari soy sauce
-2		knorr bitte zu tisch! gebundene gemüsesuppe
-2		shady brook farms® fresh bone-in turkey breast
-2		hellmann's® or best foods organic original mayonnaise
+2		knorr bitte zu tisch! gebundene gemï¿½sesuppe
+2		shady brook farmsï¿½ fresh bone-in turkey breast
+2		hellmann'sï¿½ or best foods organic original mayonnaise
 2		teriyaki seasoning mix
 2		simply organic cayenne
 2		hellmann's or best foods tartar sauce
@@ -17551,7 +17567,7 @@
 2		mocha beans
 2		simply organic coriander
 2		dried whole milk
-2		mondamin grießbrei
+2		mondamin grieï¿½brei
 2		gluten-free low sodium chicken broth
 2		malt sugar
 2		thai green chile
@@ -17562,7 +17578,7 @@
 2		gluten-free vanilla yogurt
 2		low sodium vegetable juice cocktail
 2		maille traditional dijon mustard
-2		shady brook farms® traditional turkey bratwurst
+2		shady brook farmsï¿½ traditional turkey bratwurst
 2		knorr asian side
 2		mora chiles
 2		gluten-free xanthan gum
@@ -17571,7 +17587,7 @@
 2		glutino bagel chips
 2		low sodium wheat crackers
 2		low sodium white miso paste
-2		glückszettel
+2		glï¿½ckszettel
 2		low sodium vegetable bouillon granules
 2		dried cantaloupe
 2		knoflookstengels
@@ -17581,9 +17597,9 @@
 2		knoblauchsauce
 2		scrapple
 2		gluten-free miso
-2		shady brook farms® fresh seasoned turkey patties
+2		shady brook farmsï¿½ fresh seasoned turkey patties
 2		the spice hunter cajun creole seasoning
-2		schinkenwürstchen
+2		schinkenwï¿½rstchen
 2		salad herb blend
 2		schmorfleisch
 2		heirloom cucumbers
@@ -17602,15 +17618,15 @@
 2		herradura silver tequila
 2		low sodium nonfat chicken broth
 2		gluten free frozen waffles
-2		duncan hines® signature pink velvet cake mix
+2		duncan hinesï¿½ signature pink velvet cake mix
 2		schellfisch
-2		duncan hines® signature pineapple supreme cake mix
-2		duncan hines® signature blue velvet cake mix
+2		duncan hinesï¿½ signature pineapple supreme cake mix
+2		duncan hinesï¿½ signature blue velvet cake mix
 2		gluten free italian sausage
-2		duncan hines® signature angel food cake mix
-2		duncan hines® creamy home-style frosting
-2		duncan hines® comstock® blueberry pie filling
-2		mission® burrito carb balance® whole wheat tortillas
+2		duncan hinesï¿½ signature angel food cake mix
+2		duncan hinesï¿½ creamy home-style frosting
+2		duncan hinesï¿½ comstockï¿½ blueberry pie filling
+2		missionï¿½ burrito carb balanceï¿½ whole wheat tortillas
 2		herbed panko crumbs
 2		duncan hines creamy home-style buttercream frosting
 2		herring roe
@@ -17623,7 +17639,7 @@
 2		eddo
 2		echtlachscreme
 2		gluten free blue cheese
-2		spätlese
+2		spï¿½tlese
 2		eas protein powder
 2		hershey''s candy
 2		kha
@@ -17659,17 +17675,17 @@
 2		gluten free shortbread cookies
 2		herb wine vinegar
 2		low sodium reduced fat chicken broth
-2		mission® organics tortilla chips
+2		missionï¿½ organics tortilla chips
 2		kinni-kwik bread & bun mix
 2		low sodium refried beans
-2		mission® super size yellow corn tortillas
+2		missionï¿½ super size yellow corn tortillas
 2		frontera cabernet sauvignon/merlot
 2		gluten free organic chicken broth
 2		lengkuas
 2		kipfler
 2		duivenborst
 2		gluten free polenta
-2		teeblätter
+2		teeblï¿½tter
 2		herb sprig
 2		lenderollade
 2		sesame baguettes
@@ -17681,7 +17697,7 @@
 2		frankfurter rolls
 2		franken berry cereal
 2		sardinenfilets
-2		suppenwürze
+2		suppenwï¿½rze
 2		frambozenthee
 2		italian bacon
 2		frambozenlimonadesiroop
@@ -17703,7 +17719,7 @@
 2		sunflower tropical birdseed mix
 2		instantcouscous
 2		seafood curry powder
-2		sargento® fine cut shredded cheddar jack cheese
+2		sargentoï¿½ fine cut shredded cheddar jack cheese
 2		mediterranean dressing
 2		french endive
 2		mccormick ground white pepper
@@ -17712,7 +17728,7 @@
 2		low fat prepared pasta sauce
 2		mccormick ground cayenne red pepper
 2		log cabin syrup
-2		sargento® artisan blends® shredded swiss cheese
+2		sargentoï¿½ artisan blendsï¿½ shredded swiss cheese
 2		sargento shredded mild cheddar cheese
 2		seafood sausages
 2		surimi sticks
@@ -17729,9 +17745,9 @@
 2		mccormick caraway seed
 2		fleischreste
 2		sapporo beer
-2		fleischknödel
+2		fleischknï¿½del
 2		swanson low sodium chicken broth
-2		fleischgewürz
+2		fleischgewï¿½rz
 2		jacobs creek shiraz cabernet
 2		strained lowfat greek yogurt
 2		swede turnip
@@ -17743,9 +17759,9 @@
 2		strawberry low-fat ice cream
 2		lo bok
 2		strawberry laces
-2		foie gras pâté
+2		foie gras pï¿½tï¿½
 2		foie gras medallions
-2		liège waffles
+2		liï¿½ge waffles
 2		smoke flavored liquid seasoning
 2		season salmon
 2		hormel beef
@@ -17760,19 +17776,19 @@
 2		sunflower flour
 2		fat free lemon curd
 2		illy espresso
-2		frontier® arrowroot powder
+2		frontierï¿½ arrowroot powder
 2		mccormick sicilian sea salt
 2		mccormick slow cookers bbq pulled pork seasoning mix
 2		mccormick smokehouse ground black pepper
 2		sugar free instant chocolate milk mix
 2		house foods soft tofu
-2		frontier® chili powder
+2		frontierï¿½ chili powder
 2		house foods extra firm tofu
-2		mccormick® california style garlic pepper with red bell and black pepper
+2		mccormickï¿½ california style garlic pepper with red bell and black pepper
 2		snoepoogjes
 2		ijswafeltjes
 2		hotdogbroodjes
-2		mccormick® guacamole seasoning mix
+2		mccormickï¿½ guacamole seasoning mix
 2		fresh pacific cod fillets
 2		sugar in the raw natural cane turbinado sugar
 2		mcp fruit pectin
@@ -17800,7 +17816,7 @@
 2		mcvities biscuits
 2		sugarcane swizzle sticks
 2		sobrassada
-2		frontier® ground cumin
+2		frontierï¿½ ground cumin
 2		mccormick lemon pepper
 2		low fat mild italian turkey sausage
 2		sulz
@@ -17813,7 +17829,7 @@
 2		smoked sable
 2		hot garlic sauce
 2		mccormick lemon extract
-2		sargento® fine cut shredded sharp cheddar cheese
+2		sargentoï¿½ fine cut shredded sharp cheddar cheese
 2		low fat old cheddar cheese
 2		frenchs french fried onions
 2		instant dissolving sugar
@@ -17821,9 +17837,9 @@
 2		frosting:
 2		frosties
 2		inktvisinkt
-2		frontier® organic garam masala
+2		frontierï¿½ organic garam masala
 2		smooth and creami low fat vanilla yogurt
-2		frontier® herbes de provence
+2		frontierï¿½ herbes de provence
 2		low fat kielbasa sliced
 2		imported sopressata
 2		in juic natur pineappl slice
@@ -17837,7 +17853,7 @@
 2		indian saffron
 2		sukadesnippers
 2		smoked turkey slices
-2		ingwerkonfitüre
+2		ingwerkonfitï¿½re
 2		mccormick almond extract
 2		seasoned fries
 2		jalapeno pita chips
@@ -17846,12 +17862,12 @@
 2		mezzetta whole garlic & sweet basil marinara sauce
 2		home made turkey stock
 2		low sodium canned broth
-2		johnsonville® andouille split rope sausage
+2		johnsonvilleï¿½ andouille split rope sausage
 2		low sodium canned chopped tomatoes with juice
 2		stokes green chile sauce with pork
 2		mezzetta whole roasted red bell peppers
 2		low sodium canned vegetable broth
-2		johnsonville® smoked split rope sausage
+2		johnsonvilleï¿½ smoked split rope sausage
 2		ferrara tubetti
 2		fermented bean chili paste
 2		fenugreek sprouts
@@ -17905,15 +17921,15 @@
 2		syrian cheese
 2		sweettarts candy
 2		soepbinder
-2		mezzetta® gourmet deli tamed diced jalapeño peppers
+2		mezzettaï¿½ gourmet deli tamed diced jalapeï¿½o peppers
 2		slakruidenmix
 2		jumbo kalamata olives
 2		holland rusks
-2		mezzetta® habanero hot sauce
+2		mezzettaï¿½ habanero hot sauce
 2		garlic and herbs salad dressing
 2		fat-trimmed beef flank steak
 2		sticky topping
-2		mezzetta® italian mix giardiniera
+2		mezzettaï¿½ italian mix giardiniera
 2		junket danish dessert mix
 2		garlic cheese bread
 2		stielmus
@@ -17929,8 +17945,8 @@
 2		japanese roasted nori
 2		fruit schnapps
 2		sweet banana
-2		honeysuckle white® hot italian turkey sausage links
-2		honeysuckle white® hardwood smoked turkey bacon
+2		honeysuckle whiteï¿½ hot italian turkey sausage links
+2		honeysuckle whiteï¿½ hardwood smoked turkey bacon
 2		maulbeeren
 2		jasmine pearls
 2		lipton white mangosteen and peach green tea bag
@@ -17939,26 +17955,26 @@
 2		java mocha syrup
 2		frying fat
 2		frying pan
-2		honeysuckle white® 93/7 lean ground turkey
+2		honeysuckle whiteï¿½ 93/7 lean ground turkey
 2		sodium free chicken stock powder
 2		flaked oatmeal
-2		honigkuchengewürz
+2		honigkuchengewï¿½rz
 2		mesquite flavored seasoning
 2		fruit & fibre cereal
-2		jalapeñoburgers
+2		jalapeï¿½oburgers
 2		flavored torani syrup
 2		flavored sugar-free syrup
 2		smart balance peanut butter
 2		hoop cheese
 2		mccann''s irish oatmeal
 2		hood cottage cheese
-2		maïssiroop
+2		maï¿½ssiroop
 2		santa maria style seasoning
 2		flatfish
 2		flat prosecco
 2		meringuenestjes
 2		small truffles
-2		mazola® pure olive oil
+2		mazolaï¿½ pure olive oil
 2		flat half
 2		santa rita sauvignon blanc
 2		fischkarkassen
@@ -17991,24 +18007,24 @@
 2		sweet curd
 2		honey wine
 2		firm pumpernickel
-2		jennie-o® fully cooked hardwood smoked turkey sausage
+2		jennie-oï¿½ fully cooked hardwood smoked turkey sausage
 2		fireweed blossoms
 2		stonefire italian thin pizza crust
 2		honey smacks cereal
-2		jennie-o® lean taco seasoned ground turkey
+2		jennie-oï¿½ lean taco seasoned ground turkey
 2		matchstick fries
 2		mezzetta colossal sicilian spiced olives
 2		sodium free ketchup
-2		jennie-o® sun dried tomato turkey breast
+2		jennie-oï¿½ sun dried tomato turkey breast
 2		sweet dreams brown rice syrup
 2		knorr bitte zu tisch! champignon suppe
 2		kinnikinnick bread & bun mix
 2		tomatensauce mit basilikum
 2		kola nut
-2		sabra® roasted garlic salsa
+2		sabraï¿½ roasted garlic salsa
 2		sheep stomach
 2		korean rice syrup
-2		sabra® pico de gallo
+2		sabraï¿½ pico de gallo
 2		korean strawberries
 2		signature strawberry supreme cake mix
 2		low-fat italian parmesan dressing
@@ -18022,7 +18038,7 @@
 2		tone''s garlic
 2		cuties juice
 2		kordamompulver
-2		gänseleber
+2		gï¿½nseleber
 2		haantje
 2		dannon plain lowfat yogurt
 2		goya peas
@@ -18055,18 +18071,18 @@
 2		land cress
 2		kraft monterey jack cheese
 2		gumbo base
-2		crème fraîche sauce
+2		crï¿½me fraï¿½che sauce
 2		lukewarm 2% low-fat milk
 2		tonkastu sauce
 2		cured beef
 2		gummi rings
 2		sheepshead
 2		side meat
-2		mägen
+2		mï¿½gen
 2		krabpoten
 2		lap chong
 2		schulterscherzel
-2		langustinenschwänze
+2		langustinenschwï¿½nze
 2		kraft big slice sharp cheddar cheese slices
 2		kraft big slice chipotle cheese slices
 2		culatello
@@ -18078,26 +18094,26 @@
 2		goya mojo juice
 2		spicy pork chorizo
 2		kokuho rose rice
-2		knorr® menu flavors pasta sides™  cheesy spinach dip pasta
+2		knorrï¿½ menu flavors pasta sidesï¿½  cheesy spinach dip pasta
 2		low-fat cream of potato soup
-2		knorr® menu flavors pasta sides™ smokehouse bacon flavor parmesan
-2		knorr® menu flavors rice sides™ asian bbq
+2		knorrï¿½ menu flavors pasta sidesï¿½ smokehouse bacon flavor parmesan
+2		knorrï¿½ menu flavors rice sidesï¿½ asian bbq
 2		low-fat creamy salad dressing
 2		low-fat croutons
 2		del monte pineapple chunks
 2		del monte petite diced tomatoes
-2		knorr® menu flavors rice sides™ white cheddar queso
-2		knorr® menu flavors sides™ thai sweet chili
+2		knorrï¿½ menu flavors rice sidesï¿½ white cheddar queso
+2		knorrï¿½ menu flavors sidesï¿½ thai sweet chili
 2		del monte pasta sauce
 2		shamrock farms heavy whipping cream
 2		del monte ketchup
 2		del monte fiesta corn
 2		goulash
-2		knorr® homestyle stock™ vegetable stock
-2		gorton’s parmesan crusted cod fillets
-2		knorr® au jus gravy mix
+2		knorrï¿½ homestyle stockï¿½ vegetable stock
+2		gortonï¿½s parmesan crusted cod fillets
+2		knorrï¿½ au jus gravy mix
 2		delallo diced tomatoes
-2		macadamiaöl
+2		macadamiaï¿½l
 2		delallo gnocchi
 2		hammelkeule
 2		gorton's beer batter fillets
@@ -18107,16 +18123,16 @@
 2		hamburger steak
 2		knorr wereldgerecht italiaanse risotto
 2		delallo capellini
-2		knorr wereldgerecht mexicaanse taco’s
+2		knorr wereldgerecht mexicaanse tacoï¿½s
 2		gorton's smart & crunchy breaded fish fillets
 2		knorr wereldgerecht zuid-afrikaanse bobotie
-2		gorton’s grilled signature tilapia
+2		gortonï¿½s grilled signature tilapia
 2		del monte crushed pineapple
 2		del monte bananas
-2		knuspermüsli
+2		knuspermï¿½sli
 2		tom collins
 2		latin seasoning mix
-2		tofuwürstchen
+2		tofuwï¿½rstchen
 2		hain baking powder
 2		shark fin
 2		toll house cookie dough
@@ -18134,7 +18150,7 @@
 2		degreased turkey drippings
 2		goya beans
 2		deer chops
-2		löffelbiskuitbroesel
+2		lï¿½ffelbiskuitbroesel
 2		low-fat deli ham
 2		koda farms sweet rice flour
 2		decorating spray
@@ -18191,18 +18207,18 @@
 2		spice islands celery seed
 2		spice islands celery salt
 2		spekdobbelsteentjes
-2		nestlé® toll house® delightfulls™ candy cane morsels
+2		nestlï¿½ï¿½ toll houseï¿½ delightfullsï¿½ candy cane morsels
 2		spice islands black pepper
 2		low-fat sugar-fre chocol ic cream
-2		grillwürstchen
+2		grillwï¿½rstchen
 2		cranberryjam
 2		lactose free chocolate
 2		shortbread tart shells
-2		trüffelpralinen
-2		grillgewürz
+2		trï¿½ffelpralinen
+2		grillgewï¿½rz
 2		griffins jelly
 2		new mexican red chile
-2		nestlé® toll house® dark chocolate baking bar
+2		nestlï¿½ï¿½ toll houseï¿½ dark chocolate baking bar
 2		groenteburger
 2		nestle toll house delightfulls peanut butter filled morsels
 2		grotchampignon
@@ -18217,16 +18233,16 @@
 2		trottole pasta
 2		low-fat vanilla wafers
 2		truffelschilfers
-2		nestlé toll house dark chocolate & mint morsels
+2		nestlï¿½ toll house dark chocolate & mint morsels
 2		truffle puree
 2		crave chocolate mint liqueur
-2		räucherfisch
+2		rï¿½ucherfisch
 2		kumquats in syrup
 2		guittard semisweet chocolate chips
 2		treasure cave blue cheese
 2		lammbeinscheiben
 2		kretschmer wheat germ
-2		kreuzkümmelsaat
+2		kreuzkï¿½mmelsaat
 2		top sirloin cap steak
 2		soy paper
 2		crusty french roll
@@ -18235,7 +18251,7 @@
 2		napkin dumplings
 2		kroger fat free cream cheese
 2		nashipeer
-2		grünteepulver
+2		grï¿½nteepulver
 2		nasoya extra firm tofu
 2		torpedo sandwich rolls
 2		lamb testicles
@@ -18254,18 +18270,18 @@
 2		crystal farms reduced fat shredded marble jack cheese
 2		shropshire blue cheese
 2		nameko mushroom
-2		namé
+2		namï¿½
 2		crystal farms gouda cheese slices
 2		crystal farms eggs
 2		soy vay wasabi teriyaki marinade & sauce
 2		natural & kosher fresh mozzarella
 2		kruidencroutons
-2		räucherforellenfilets
+2		rï¿½ucherforellenfilets
 2		lower sodium deli turkey
 2		ground salmon
 2		gray squash
 2		spice islands whole cumin seed
-2		kräutermeersalz
+2		krï¿½utermeersalz
 2		lamb rib roast
 2		crocodile
 2		crown royal blended canadian whisky
@@ -18280,7 +18296,7 @@
 2		natural & kosher muenster
 2		low-fat peppermint ice cream
 2		natural & kosher parmesan
-2		soy vay® spicy’n sweet chili heat marinade & sauce
+2		soy vayï¿½ spicyï¿½n sweet chili heat marinade & sauce
 2		soy-based liquid seasoning
 2		crunchy nut cereal
 2		low-fat pepper jack
@@ -18330,14 +18346,14 @@
 2		godiva chocolate flavored liqueur
 2		dhaal
 2		knorr sazon with garlic, onion, annatto and coriand
-2		knorr flocken-fertig-püree mit milch
+2		knorr flocken-fertig-pï¿½ree mit milch
 2		mugi miso
 2		dill seasoning mix
 2		sponge cake dessert shells
 2		tip sirloin roast
 2		hash seasoning mix
 2		knorr feinschmecker bratensauce extra fein
-2		tiefkühlhimbeeren
+2		tiefkï¿½hlhimbeeren
 2		knorr rice side
 2		knorr reduced salt vegetable stock cubes
 2		donut peach
@@ -18364,7 +18380,7 @@
 2		thymianzweig
 2		knorr feinschmecker broccolicreme suppe
 2		toasted cinnamon cereal
-2		knorr fix für hackfleisch jäger art
+2		knorr fix fï¿½r hackfleisch jï¿½ger art
 2		knorr feinschmecker champignon sauce
 2		heartland granola cereal
 2		low-fat catalina dressing
@@ -18383,15 +18399,15 @@
 2		muller yogurt
 2		morita pepper
 2		gold foil
-2		saint andré cheese
+2		saint andrï¿½ cheese
 2		knorr bouillon cube
-2		knorr bitte zu tisch! grünerbs suppe
+2		knorr bitte zu tisch! grï¿½nerbs suppe
 2		motts applesauce
 2		toffee shards
 2		delicioso adobo
 2		sommerwirsing
 2		delicious
-2		shady brook farms® turkey thighs
+2		shady brook farmsï¿½ turkey thighs
 2		dragontakjes
 2		hawaiian style marinade
 2		knorr bitte zu tisch! nudelsuppe
@@ -18399,7 +18415,7 @@
 2		gold buttons
 2		low-fat bacon
 2		knorr bitte zu tisch! knoblauch suppe
-2		shady brook farms® turkey drumsticks
+2		shady brook farmsï¿½ turkey drumsticks
 2		gooseberry preserves
 2		macaroon crumbs
 2		mott''s 100% apple juice
@@ -18420,7 +18436,7 @@
 2		knorr spaghetteria panna
 2		low-fat banana cream yogurt
 2		sour grapes
-2		morningstar farms® meal starters™ steak strips
+2		morningstar farmsï¿½ meal startersï¿½ steak strips
 2		dessertmints
 1		pilsner malt
 1		hormel ham
@@ -18431,9 +18447,9 @@
 1		healthy choice chicken with rice soup
 1		whole wheat gramigna
 1		belgioioso mascarpone
-1		hellmann's® or best foods® organic chipotle mayonnaise
+1		hellmann'sï¿½ or best foodsï¿½ organic chipotle mayonnaise
 1		belgium chicory
-1		honeysuckle white® traditional turkey bratwurst
+1		honeysuckle whiteï¿½ traditional turkey bratwurst
 1		podravka vegeta
 1		hormel roast beef
 1		low-fat nayonnaise
@@ -18447,22 +18463,22 @@
 1		bertolli balsamic vinegar of modena
 1		spaghetti sauce spice seasoning mix
 1		hellmann's tomato ketchup
-1		honeysuckle white® fresh italian style turkey meatballs
+1		honeysuckle whiteï¿½ fresh italian style turkey meatballs
 1		wildsteaks
 1		wildschweinfilet
 1		bone-in plate short ribs
 1		whole wheat flake cereal crumbs
 1		hen of the woods mushroom
-1		hellmann's® honey mustard
-1		honeysuckle white® frozen whole turkey
+1		hellmann'sï¿½ honey mustard
+1		honeysuckle whiteï¿½ frozen whole turkey
 1		bertolli balsamico saladedressing
 1		low-fat banana instant pudding mix
 1		low fat pringles
-1		honeysuckle white® 99% fat free ground turkey breast
+1		honeysuckle whiteï¿½ 99% fat free ground turkey breast
 1		spaghettigroenten
 1		softshells
 1		reduced sugar marmalade
-1		honeysuckle white® turkey breakfast sausage patties
+1		honeysuckle whiteï¿½ turkey breakfast sausage patties
 1		hooch
 1		whole wheat french bread rolls
 1		low fat tomatoe based pasta sauce
@@ -18482,12 +18498,12 @@
 1		low fat spicy mayonnaise
 1		soy vermicelli
 1		belvita  breakfast biscuits
-1		pillsbury® refrigerated orange sweet rolls
+1		pillsburyï¿½ refrigerated orange sweet rolls
 1		blackcurrant tea
 1		whole wheat snack crackers
 1		bombay duck
 1		ground white
-1		soy vay® citrus ‘n ginger dressing & sauce
+1		soy vayï¿½ citrus ï¿½n ginger dressing & sauce
 1		hood whipping cream
 1		pollock roe
 1		bone in less sodium ham
@@ -18503,10 +18519,10 @@
 1		bellino gnocchi
 1		pomace brandy
 1		bolthouse farms holiday nog
-1		grüntee
+1		grï¿½ntee
 1		bone in strip steak
 1		blackfin
-1		hellmann's® or best foods® organic garlic mayonnaise
+1		hellmann'sï¿½ or best foodsï¿½ organic garlic mayonnaise
 1		low fat zesty italian dressing
 1		hellmanns light mayonnaise
 1		low-fat oreo cookie crumbs
@@ -18557,13 +18573,13 @@
 1		low fat honey mustard vinaigrette
 1		snoqualmie chardonnay
 1		low fat hollandaise sauce
-1		reisgebäck
+1		reisgebï¿½ck
 1		hebrew national franks
 1		span style
 1		beef pasta skillet meal
 1		hunts traditional pasta sauce
 1		low-fat thickened cream
-1		grillgewürzmischung
+1		grillgewï¿½rzmischung
 1		boneless partridge breast halves
 1		poppadum
 1		heidelbeerjoghurt
@@ -18576,8 +18592,8 @@
 1		hurst family harvest old world lentil soup mix
 1		reduced sodium bacon slices
 1		low starch potato
-1		heidelbeerpüree
-1		grimmway® shredded carrots
+1		heidelbeerpï¿½ree
+1		grimmwayï¿½ shredded carrots
 1		winter mushroom
 1		beef ragout
 1		scotch barley
@@ -18585,7 +18601,7 @@
 1		black sapote
 1		whole wheat thin rolls
 1		house of tsang peanut sauce
-1		house of tsang® ginger flavored soy sauce
+1		house of tsangï¿½ ginger flavored soy sauce
 1		reduced sodium beans
 1		low fat evaporated milk 2%
 1		whole wheat chicken & prosciutto ravioli
@@ -18603,8 +18619,8 @@
 1		black dried limes
 1		low-fat provolone cheese slices
 1		piper-heidsieck champagne
-1		hormel® turkey chili no beans
-1		hormel® turkey chili with beans
+1		hormelï¿½ turkey chili no beans
+1		hormelï¿½ turkey chili with beans
 1		scrappys lavender bitters
 1		beet linguine
 1		ground filberts
@@ -18617,12 +18633,12 @@
 1		low-fat powdered milk
 1		low pulp orange juice
 1		beef stroganoff seasoning mix
-1		pomegranate purée
+1		pomegranate purï¿½e
 1		reduced sodium clamato juice
 1		bone-in skinless turkey breast
 1		wildzwijnshaas
-1		hormel® pizza style canadian bacon
-1		hormel® turkey chili
+1		hormelï¿½ pizza style canadian bacon
+1		hormelï¿½ turkey chili
 1		spangler candy canes
 1		hellmann's mayonnaise with a spark of chilli
 1		boned pompano fillets
@@ -18639,7 +18655,7 @@
 1		pillsbury  bread flour
 1		spectrum avocado oil
 1		heirloom squash
-1		snyder’s of hanover pretzels
+1		snyderï¿½s of hanover pretzels
 1		low sugar low sodium ketchup
 1		spectrum canola oil
 1		boneless beefsteak
@@ -18673,8 +18689,8 @@
 1		reduced sodium chicken flavor stuffing mix
 1		guineapfeffer
 1		guava syrup
-1		himbeerlikör
-1		halfvolle crème fraiche
+1		himbeerlikï¿½r
+1		halfvolle crï¿½me fraiche
 1		whole wheat matzot
 1		wild boar fillet
 1		himbeerfruchtaufstrich
@@ -18690,7 +18706,7 @@
 1		hjorthornssalt
 1		hahn
 1		hagelslagmix
-1		betty crocker™ homestyle stuffing
+1		betty crockerï¿½ homestyle stuffing
 1		reduced sodium spicy vegetable juice
 1		haringkuit
 1		plantenmargarine
@@ -18762,17 +18778,17 @@
 1		plain low-fat feta
 1		pine mushroom
 1		schweinsstelzen
-1		hidden valley® bacon ranch
+1		hidden valleyï¿½ bacon ranch
 1		hibiscus blossoms
 1		low-fat crackers
 1		whole wheat pastr flour
 1		reduced sodium refried beans
-1		hidden valley® farmhouse originals homestyle italian dressing & seasoning mix
+1		hidden valleyï¿½ farmhouse originals homestyle italian dressing & seasoning mix
 1		blue bunny premium ice cream
 1		sourdough crepes
 1		blowfish tails
 1		wild marjoram
-1		hanfkörner
+1		hanfkï¿½rner
 1		birds eye garden peas
 1		birds eye fresh frozen vegetables
 1		birds eye green beans
@@ -18783,7 +18799,7 @@
 1		bionaturae diced tomatoes
 1		sourdough bread mix
 1		biokwark
-1		biohähnchen
+1		biohï¿½hnchen
 1		hard red spring wheat
 1		low sodium italian tomatoes
 1		biogardeyoghurt
@@ -18795,7 +18811,7 @@
 1		biergist
 1		hierba santa
 1		refri low-fat black bean
-1		halloumikäse
+1		halloumikï¿½se
 1		reduced sodium spaghetti sauce
 1		blue ice cream
 1		blue licorice
@@ -18812,7 +18828,7 @@
 1		blue diamond unsweetened vanilla almond milk
 1		hare fillets
 1		herzmuscheln
-1		hidden valley® original ranch® buttermilk recipe salad dressing mix
+1		hidden valleyï¿½ original ranchï¿½ buttermilk recipe salad dressing mix
 1		low-fat creamed spinach
 1		reduced sodium sauerkraut
 1		low sodium garlic dill pickles
@@ -18820,14 +18836,14 @@
 1		reduced sodium smoked ham
 1		whole wheat nut bread
 1		plain ravioli
-1		hidden valley® original ranch® light cucumber dressing
+1		hidden valleyï¿½ original ranchï¿½ light cucumber dressing
 1		biscoff crunchy spread
 1		big red chewing gum
 1		plain stonyfield farm lowfat yogurt
 1		wild oats diced tomatoes
 1		pina colada mix concentrate
 1		souvlaki spices
-1		harvartikäse
+1		harvartikï¿½se
 1		low-fat lime yogurt
 1		soy half & half
 1		reduced sugar grape jam
@@ -18857,7 +18873,7 @@
 1		low sodium saltines
 1		bobs red mill finely ground almond meal
 1		sorbet syrup
-1		bob’s red mill vegi soup mix
+1		bobï¿½s red mill vegi soup mix
 1		boca meatless ground crumbles
 1		sodium free water
 1		whole wheat italian thin pizza crust
@@ -18897,7 +18913,7 @@
 1		guinea fowl fillets
 1		low sodium baked bagel chips
 1		honey nut clusters cereal
-1		bertolli olivenöl - robusto
+1		bertolli olivenï¿½l - robusto
 1		reduced sodium garbanzos
 1		low sodium bacon slices
 1		low-fat maple syrup
@@ -18944,7 +18960,7 @@
 1		bob evans barbecue sauce
 1		holland house balsamic vinegar
 1		besan
-1		holunderblüten
+1		holunderblï¿½ten
 1		low sodium canned vegetable stock
 1		plum schnapps
 1		homade chili sauce
@@ -18960,15 +18976,15 @@
 1		whole wheat round crackers
 1		bertolli portobello mushroom with white wine sauc
 1		wienerwurst
-1		holunderblütenlikör
+1		holunderblï¿½tenlikï¿½r
 1		pink lemonade flavor drink mix
 1		heritage gin
 1		reeses peanut butter
-1		bertolli® riserva porcini mushrooms with white truffle oil sauce
+1		bertolliï¿½ riserva porcini mushrooms with white truffle oil sauce
 1		sea clam
 1		bob evans ham steaks
-1		bertolli® riserva balsamic vinegar with caramelized onions sauce
-1		bertolli® riserva asiago cheese with artichokes sauce
+1		bertolliï¿½ riserva balsamic vinegar with caramelized onions sauce
+1		bertolliï¿½ riserva asiago cheese with artichokes sauce
 1		holland house white wine vinegar
 1		hereford corned beef
 1		gwaltney bacon
@@ -18990,8 +19006,8 @@
 1		knorr kant en klare hollandaisesaus
 1		knorr kerrieroomsaus
 1		knorr kleursoep groene groente
-1		shady brook farm® 93/7 lean ground turkey
-1		knorr lente-ui crèmesoep
+1		shady brook farmï¿½ 93/7 lean ground turkey
+1		knorr lente-ui crï¿½mesoep
 1		real lemon lemon juice
 1		real gold leaf
 1		knorr magere vleesbouillon natriumarm
@@ -19017,15 +19033,15 @@
 1		knorr fiesta side   smoke chipotl rice
 1		knorr fiesta side   taco rice
 1		lee kum kee oyster flavored sauce
-1		knorr fix für jäger-schnitzel
+1		knorr fix fï¿½r jï¿½ger-schnitzel
 1		lee kum kee black bean garlic sauce
 1		lecithine
 1		angostura low sodium soy sauce
 1		knorr franse uiensoep
-1		shady brook farms® turkey breast for scallopini & milanesa
-1		knorr gemüsebrühe
+1		shady brook farmsï¿½ turkey breast for scallopini & milanesa
+1		knorr gemï¿½sebrï¿½he
 1		angled loofah
-1		knorr gemüsesuppe
+1		knorr gemï¿½sesuppe
 1		angelfish
 1		knorr gourmet classic chicken casserole seasoning mix
 1		knorr gourmet creamy baked cod seasoning mix
@@ -19045,7 +19061,7 @@
 1		zhejiang vinegar
 1		amarena syrup
 1		lean boneless mutton
-1		quaker® strawberries & cream instant oatmeal
+1		quakerï¿½ strawberries & cream instant oatmeal
 1		knorr vleesjus natriumarm
 1		quality cuts steak
 1		quark-curd
@@ -19056,32 +19072,32 @@
 1		knorr wereldgerecht italiaanse lasagnette napoletana
 1		knorr wereldgerecht mexicaanse burritos
 1		knorr roast pork gravi mix
-1		knorr wereldgerecht spaanse paëlla
+1		knorr wereldgerecht spaanse paï¿½lla
 1		alpin lace low-fat swiss chees
 1		knorr zigeunersaus
-1		shake ‘n bake crunchy pretzel flavor seasoned coating mix
+1		shake ï¿½n bake crunchy pretzel flavor seasoned coating mix
 1		shallot tops
 1		shamrock farms eggnog
-1		knorr® homestyle stock™ beef stock
-1		knorr® menu flavors pasta sides™  cheddar chipotle
-1		knorr® menu flavors pasta sides™  chipotle rosa
+1		knorrï¿½ homestyle stockï¿½ beef stock
+1		knorrï¿½ menu flavors pasta sidesï¿½  cheddar chipotle
+1		knorrï¿½ menu flavors pasta sidesï¿½  chipotle rosa
 1		quick cooking wheat cereal
 1		almond pastry
-1		knorr® menu flavors rice sides™ buffalo chicken flavor
+1		knorrï¿½ menu flavors rice sidesï¿½ buffalo chicken flavor
 1		knorr veget broth
 1		zevia cola
 1		knorr toscaanse groentesoep
 1		knorr tomato base elbow pasta soup
 1		american saffron
-1		knorr salatkrönung gurke & dill
-1		knorr salatkrönung vinaigrette balsamico
+1		knorr salatkrï¿½nung gurke & dill
+1		knorr salatkrï¿½nung vinaigrette balsamico
 1		shake n bake coating mix
-1		knorr sauce hollandaise mit crème fraîche
+1		knorr sauce hollandaise mit crï¿½me fraï¿½che
 1		knorr sauce pur rahmsauce
 1		quaker cereal
 1		american beauty linguine
 1		knorr sazon with garlic and onion
-1		knorr schlemmersauce asia süß-sauer
+1		knorr schlemmersauce asia sï¿½ï¿½-sauer
 1		ambrosia devon custard
 1		quaker instant grits
 1		knorr schlemmersauce knoblauch
@@ -19092,14 +19108,14 @@
 1		quaker old fashioned grits
 1		quaker peaches & cream instant oatmeal
 1		knorr spring vegetable recipe mix
-1		knorr suppenliebe hühnersuppe
+1		knorr suppenliebe hï¿½hnersuppe
 1		knorr tomaat basilicumsoep
 1		zentini syrup
 1		knorr tomatensoep
 1		lean casserole steak
 1		zamkaviaar
 1		knorr feinschmecker sauce hollandaise klassisch
-1		knorr® menu flavors rice sides™ creole garlic butter
+1		knorrï¿½ menu flavors rice sidesï¿½ creole garlic butter
 1		kneaded butter
 1		sesamsoepstengels
 1		simply organic cloves
@@ -19115,15 +19131,15 @@
 1		knauss dried beef
 1		young rice flakes
 1		knoblauchsprossen
-1		shady brook farms® boneless skinless turkey breasts
+1		shady brook farmsï¿½ boneless skinless turkey breasts
 1		applegate hot dogs
 1		applegate ham
 1		applegate farms salami
 1		applegate farms ham
-1		knoblauchgrün
+1		knoblauchgrï¿½n
 1		lemon flavor yogurt
 1		pulled pork rub
-1		shady brook farms® fresh family size italian style turkey meatballs
+1		shady brook farmsï¿½ fresh family size italian style turkey meatballs
 1		young turkey breast
 1		apple raspberry juice
 1		youngberry
@@ -19163,12 +19179,12 @@
 1		knorr beef gravy pots
 1		apfelschaumwein
 1		red beans and rice mix
-1		apfelpüree
+1		apfelpï¿½ree
 1		pumpkin seed mole
 1		apertivo
 1		zabaglione filling
 1		knorr bouillon
-1		knorr bouillon pur gemüse in 250 ml heißem wasser aufgelöst
+1		knorr bouillon pur gemï¿½se in 250 ml heiï¿½em wasser aufgelï¿½st
 1		leftover crust
 1		leftover cooked boneless steak
 1		knorr chicken granules
@@ -19177,7 +19193,7 @@
 1		punsch-roll
 1		puntpaprikas
 1		purchased coleslaw
-1		knorr chicken tonight hawaï
+1		knorr chicken tonight hawaï¿½
 1		annatozaad
 1		knorr chicken tonight zoetzuur met perzik
 1		knorr feinschmecker blumenkohl broccoli suppe
@@ -19188,16 +19204,16 @@
 1		lee kum kee sriracha chili sauce
 1		leftover jambalaya
 1		knorr authentieke vleesjus naturel
-1		knorr asperge crèmesoep
+1		knorr asperge crï¿½mesoep
 1		pumpkin leaf
 1		apple peach juice
 1		apple nestle juicy juice 100% juice
-1		shady brook farms® hot italian turkey sausage links
-1		shady brook farms® lean original turkey breakfast sausage
-1		shady brook farms® mild italian turkey sausage roll
+1		shady brook farmsï¿½ hot italian turkey sausage links
+1		shady brook farmsï¿½ lean original turkey breakfast sausage
+1		shady brook farmsï¿½ mild italian turkey sausage roll
 1		knoflookbroodjes
 1		pumpernickel toast
-1		shady brook farms® sweet italian turkey sausage links
+1		shady brook farmsï¿½ sweet italian turkey sausage links
 1		simply grapefruit grapefruit juice
 1		simple truth organic pinto beans
 1		pumpernickelscheiben
@@ -19205,7 +19221,7 @@
 1		knoflookworsten
 1		apple brew
 1		simple truth organic italian extra virgin olive oil
-1		knorr activ penne mit broccoli und frühlingskräutern
+1		knorr activ penne mit broccoli und frï¿½hlingskrï¿½utern
 1		yufka dough
 1		knorr all purpos season
 1		knorr asian side   classic chow mein
@@ -19215,14 +19231,14 @@
 1		yunnan ham
 1		apothic white wine
 1		apio
-1		zitronen-buttersoße
-1		knorr® menu flavors rice sides™ thai curry
+1		zitronen-buttersoï¿½e
+1		knorrï¿½ menu flavors rice sidesï¿½ thai curry
 1		lengfisch
 1		raspberry iced tea
 1		lamb shoulder blade chop
-1		kräuterfrischkäsezubereitung
+1		krï¿½uterfrischkï¿½sezubereitung
 1		raincoast trading wild sockeye salmon
-1		kräuterlikör
+1		krï¿½uterlikï¿½r
 1		shredded reduced sodium reduced fat swiss cheese
 1		shochu juice
 1		a taste of thai rice noodles
