@@ -116,7 +116,7 @@ def searchList(candidate, ing_dict):
 # first is a tuple of 1000 tuples
 # each with [0] = ID, and [1] = ingredients list
 def cleanIngredients(tup):
-    conn = sqlite3.connect("yummly.db", timeout = 600, check_same_thread=False)
+    conn = sqlite3.connect("yummly.db", timeout = 600)
     print("Starting batch of 1000...")
 
 
