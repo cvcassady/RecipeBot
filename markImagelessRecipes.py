@@ -2,7 +2,7 @@ import sqlite3
 import concurrent.futures
 import os
 
-image_set = set(os.listdir('images/'))
+image_set = set(os.listdir('resized_thumbs/'))
 
 conn = sqlite3.connect("yummly.db")
 recipe_ids = conn.execute("SELECT ID FROM Recipe;").fetchall()
