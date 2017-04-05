@@ -467,7 +467,7 @@ synonymdict = {
     "hass avocado": "avocado",
     "breakfast sausages": "sausage",
     "cumin seed": "cumin",
-    "thyme leaves": "thyme"
+    "thyme leaves": "thyme",
     "ripe olives": "olives",
     "deli ham": "ham",
     "soba noodles": "noodles",
