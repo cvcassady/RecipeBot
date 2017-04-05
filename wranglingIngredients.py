@@ -12,6 +12,7 @@ import difflib
 import concurrent.futures
 import timeit
 from random import randint
+import synonymdict as sd
 
 print("Reading ingredients...")
 conn = sqlite3.connect("yummly.db")
@@ -25,7 +26,9 @@ remove_list = ['fresh', 'frozen', 'ground', 'powdered', 'low', 'extra', 'virgin'
     'cooked', 'nonfat', 'plain', 'double', 'raw', 'minced', 'spray', 'pure', 'granulated',
     'dry', 'roasted', 'smoked', 'vidalia', 'hot', 'florets', 'slices', 'kosher', 'light',
     'sliced', 'reduced', '1%', '2%', '3%', '4%', 'crumbled', 'prepared', 
-    'sprigs', 'diced', 'morsels', 'filet' ]
+    'sprigs', 'diced', 'morsels', 'filet', 'unsalted',  'slivered', 'firm', 'fillets',
+    'halves', 'unflavored', 'mashed', 'new', 'blanched', 'heirloom', 'refrigerated', 'silken'
+    'rind', 'shelled', 'coarse', 'cutlets', 'sticks' ]
 
 pattern = re.compile("\\b(" + "|".join(remove_list) + ")\\W", re.I)
 
@@ -49,12 +52,10 @@ ingredients = np.array([item for sublist in ingredients_test for item in sublist
 
 
 unique_ing = np.unique(ingredients, return_counts = True)
-argsort_results = np.argsort(unique_ing[1])
+argsort_results = np.argsort(-unique_ing[1])
 
 sorted_ing = unique_ing[0][argsort_results]
 sorted_vals = unique_ing[1][argsort_results]
-sorted_ing = sorted_ing[::-1]
-sorted_vals = sorted_vals[::-1]
 
 ing_dict = {}
 len_sorted_ing = len(sorted_ing)
@@ -64,9 +65,9 @@ for i in range(0,len(sorted_ing)):
 
 ing_dict[""] = 0
 
-f = open("ingredients_by_frequency.txt", "w")
-[f.write(str(sorted_vals[i]) + "\t\t" + sorted_ing[i].encode(sys.stdout.encoding, errors='replace').decode(sys.stdout.encoding, errors='replace') + "\n") for i in range(0, len(sorted_vals))]
-f.close()
+# f = open("ingredients_by_frequency_cleaned.txt", "w")
+# [f.write(str(sorted_vals[i]) + "\t\t" + sorted_ing[i].encode(sys.stdout.encoding, errors='replace').decode(sys.stdout.encoding, errors='replace') + "\n") for i in range(0, len(sorted_vals))]
+# f.close()
 
 #findRoot("gluten-free chocolate chips", sorted_ing)
 
@@ -106,24 +107,32 @@ def findRoot(ing, ing_dict):
 def searchList(candidate, ing_dict):
     current_candidate_depluralized = candidate[0].replace('es','').replace('s','')
 
-    if (current_candidate_depluralized in ing_dict):
-        candidate[1] = candidate[1] + ing_dict[current_candidate_depluralized]
-        
+    candidate[1] = candidate[1] + ing_dict.get(current_candidate_depluralized, 0)
+
     return candidate
 
 # tup is a tuple of 2 values
 # second is a dictionary of ingredients,
 # first is a tuple of 1000 tuples
 # each with [0] = ID, and [1] = ingredients list
+# [2] = the manually created synonym dictionary and
+# [3] = the manually created removal dictionary
 def cleanIngredients(tup):
     conn = sqlite3.connect("yummly.db", timeout = 600)
     print("Starting batch of 1000...")
 
 
     for iden, ingredients in tup[0]:
-        ingredients = "; ".join([findRoot(x, tup[1]) for x in ingredients])
 
-        #print(ingredients.encode(sys.stdout.encoding, errors='replace'))
+        # first, we want to reduce the ingredients using "findRoot"
+        ingredients = [findRoot(x, tup[1]) for x in ingredients]
+
+        #then we want to do manual reductions, facilitated by synonymdict
+        ingredients = [tup[2].get(x, x) for x in ingredients if x not in tup[3]]
+
+        ingredients = "; ".join(ingredients)
+
+        #print(iden, ingredients.encode(sys.stdout.encoding, errors='replace'))
 
         conn.execute("UPDATE Recipe SET CleanIngredients=? where ID=?", (ingredients, iden))
     
@@ -134,7 +143,7 @@ print("Starting cleaning process...")
 #Split into batches for processing
 start = timeit.default_timer()
 
-thread_batch = [tuple([tuple(ingredients_test[x*1000:(x+1)*1000]), ing_dict]) for x in range(0, (len(ingredients_test)//1000)+1)]
+thread_batch = [tuple([tuple(ingredients_test[x*1000:(x+1)*1000]), ing_dict, sd.synonymdict, sd.deletethese]) for x in range(0, (len(ingredients_test)//1000)+1)]
 
 with concurrent.futures.ThreadPoolExecutor(3) as executor:
     executor.map(cleanIngredients, thread_batch)
