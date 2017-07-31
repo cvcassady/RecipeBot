@@ -95,6 +95,7 @@ ENV/
 # Image files
 *.jpg
 *.jpeg
+*.png
 
 # images folder
 images/
@@ -106,4 +107,5 @@ resized_thumbs/
 # saved pickle files
 *.p
 
-
+# numpy arrays
+*.npz
