@@ -3,6 +3,18 @@ RecipeBot is a project by Colin Cassady and Kerry Jones for the Machine Vision a
 course at University of Virginia. The intent is to teach a deep neural network to guess the 
 ingredients of a dish simply through viewing an image of it.
 
+# Required Libraries and Packages
+SQLite
+TensorFlow
+Keras
+Numpy
+Urlib
+Scikit-Learn
+Scikit-Image
+Matplotlib
+Bokeh
+
+
 # yummly.db schema
 * **ID** is a guid
 * **JSON** is all data returned from yummly per recipe
@@ -15,6 +27,8 @@ ingredients of a dish simply through viewing an image of it.
 * **CleanIngredients** is a semicolon delimited string of processed ingredients
 * **ImageAvailable** describes whether or not an image exists for a given recipe (some don't have images)
 * **English** describes whether or not the recipe was written in the English language
+
+To make this table, open SQLite in the desired folder and paste the following table creation statement:
 
 >     CREATE TABLE Recipe(
 >        ID TEXT PRIMARY KEY     NOT NULL,
@@ -56,4 +70,7 @@ ingredients in the CleanIngredients column of yummly.db
 
 **IngredientsPredictionModel.ipynb**
 Defines and trains the network.
+
+# Sample Output
+![Sample output from the network. Picture of tacos taken by my brother, the network has never seen it before.](http://i.imgur.com/uU5Nw1K.png)
 
