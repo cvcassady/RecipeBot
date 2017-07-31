@@ -1,3 +1,8 @@
+'''
+Some ingredients that did not clean the exact way we wanted,
+so they have been manually reduced here.
+'''
+
 synonymdict = {
     "black pepper": "pepper",
     "onions": "onion",

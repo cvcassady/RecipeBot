@@ -1,22 +1,27 @@
+'''
+Retrieves all ingredients from yummly.db, removes extraneous
+descriptors, and then uses a frequency list to selectively score
+sections of each ingredient in an attempt to reduce the ingredient
+to its most basic form. Utilizes synonymDict.py for ingredients
+that could not be automatically reduced. The clean ingredients
+list per recipe is then stored in yummly.db in the CleanIngredients
+column as a semicolon delimited string.
+'''
+
 import datetime
 import json
 from json import JSONDecodeError
-import urllib.request
-from urllib.error import HTTPError
 import sqlite3
-import os
 import sys
 import numpy as np
 import re
-import difflib
 import concurrent.futures
 import timeit
-from random import randint
 import synonymdict as sd
 
 print("Reading ingredients...")
 conn = sqlite3.connect("yummly.db")
-ingredients_test = conn.execute("SELECT ID, Ingredients FROM Recipe WHERE English=1;").fetchall()
+ingredients = conn.execute("SELECT ID, Ingredients FROM Recipe WHERE English=1;").fetchall()
 conn.close()
 
 remove_list = ['fresh', 'frozen', 'ground', 'powdered', 'low', 'extra', 'virgin',
@@ -30,25 +35,24 @@ remove_list = ['fresh', 'frozen', 'ground', 'powdered', 'low', 'extra', 'virgin'
     'halves', 'unflavored', 'mashed', 'new', 'blanched', 'heirloom', 'refrigerated', 'silken'
     'rind', 'shelled', 'coarse', 'cutlets', 'sticks' ]
 
-pattern = re.compile("\\b(" + "|".join(remove_list) + ")\\W", re.I)
+remove_pattern = re.compile("\\b(" + "|".join(remove_list) + ")\\W", re.I)
 
-def prepIngredients(ingredients_string, pattern):
+def prepIngredients(ingredients_string, remove_pattern):
     ingredients_string = ingredients_string.lower()
     ingredients_string = ingredients_string.replace(";"," ;")
     ingredients_string = ingredients_string.replace("-"," ")
     ingredients_string = ingredients_string.replace(","," ")
     ingredients_string = ingredients_string.replace("?","")
 
-    ingredients_string = pattern.sub("", ingredients_string)
+    ingredients_string = remove_pattern.sub("", ingredients_string)
 
     return [x.strip() for x in ingredients_string.split(";")]
 
 print("Prepping ingredients...")
-ingredients_test = [tuple([x[0], prepIngredients(x[1], pattern)])for x in ingredients_test]
-#ingredients = [re.findall(r"[a-zA-Z]+", x[0].lower()) for x in ingredients]
+ingredients = [tuple([x[0], prepIngredients(x[1], remove_pattern)])for x in ingredients]
 
 print("Calculating unique values...")
-ingredients = np.array([item for sublist in ingredients_test for item in sublist[1]])
+ingredients = np.array([item for sublist in ingredients for item in sublist[1]])
 
 
 unique_ing = np.unique(ingredients, return_counts = True)
@@ -57,6 +61,11 @@ argsort_results = np.argsort(-unique_ing[1])
 sorted_ing = unique_ing[0][argsort_results]
 sorted_vals = unique_ing[1][argsort_results]
 
+# Calculating the ingredient dictionary
+# ing_dict scores each ingredient with how frequent they are.
+# Salt gets a 1, since it's the most frequent
+# Liver might get 0.5 since it's half-way down
+# Szechuan chilies would get a low score due to its infrequency
 ing_dict = {}
 len_sorted_ing = len(sorted_ing)
 for i in range(0,len(sorted_ing)):
@@ -65,15 +74,16 @@ for i in range(0,len(sorted_ing)):
 
 ing_dict[""] = 0
 
-# f = open("ingredients_by_frequency_cleaned.txt", "w")
-# [f.write(str(sorted_vals[i]) + "\t\t" + sorted_ing[i].encode(sys.stdout.encoding, errors='replace').decode(sys.stdout.encoding, errors='replace') + "\n") for i in range(0, len(sorted_vals))]
-# f.close()
+Print the list to file
+f = open("ingredients_by_frequency_cleaned.txt", "w")
+[f.write(str(sorted_vals[i]) + "\t\t" + sorted_ing[i].encode(sys.stdout.encoding, \
+      errors='replace').decode(sys.stdout.encoding, errors='replace') + "\n") for i in range(0, len(sorted_vals))]
+f.close()
 
-#findRoot("gluten-free chocolate chips", sorted_ing)
-
-#ing = the ingredient in question
-#ingredients_list is a SORTED list of ingredients, 
-#   With 0 being the most common ingredient
+# findRoot attempts to find the basic ingredient within a string
+# e.g. 1tbps dehydrated onion => onion
+# ing = the ingredient in question
+# ing_dict = dictionary precalculated with ingredient scores
 def findRoot(ing, ing_dict):
     full_name = ing
     ing = ing.lower().split(" ")
@@ -111,11 +121,12 @@ def searchList(candidate, ing_dict):
 
     return candidate
 
-# tup is a tuple of 2 values
-# second is a dictionary of ingredients,
-# first is a tuple of 1000 tuples
-# each with [0] = ID, and [1] = ingredients list
-# [2] = the manually created synonym dictionary and
+# cleanIngredients uses findRoot on every ingredient from every recipe
+# storing the cleaned ingredients in the recipe's CleanIngredients in yummly.db
+# tup is a tuple of 4 values
+# [0] = [ID, ingredients]
+# [1] = ing_dict, a dictionary precalculated with ingredient scores
+# [2] = the manually created synonym dictionary
 # [3] = the manually created removal dictionary
 def cleanIngredients(tup):
     conn = sqlite3.connect("yummly.db", timeout = 600)
@@ -143,12 +154,10 @@ print("Starting cleaning process...")
 #Split into batches for processing
 start = timeit.default_timer()
 
-thread_batch = [tuple([tuple(ingredients_test[x*1000:(x+1)*1000]), ing_dict, sd.synonymdict, sd.deletethese]) for x in range(0, (len(ingredients_test)//1000)+1)]
+thread_batch = [tuple([tuple(ingredients[x*1000:(x+1)*1000]), ing_dict, sd.synonymdict, sd.deletethese]) for x in range(0, (len(ingredients)//1000)+1)]
 
 with concurrent.futures.ThreadPoolExecutor(3) as executor:
     executor.map(cleanIngredients, thread_batch)
 
 stop = timeit.default_timer()
 print(str(stop - start)) 
-
-#cleanIngredients(tuple([tuple(thread_batch_test[0][0]), ing_dict]))
